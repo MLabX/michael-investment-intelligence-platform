@@ -1,0 +1,80 @@
+# MIIP research watchlists (manual/static — not live quotes).
+watchlists:
+  current_holdings:
+    name: current_holdings
+    description: Michael's current ASX holdings for Portfolio Risk review.
+    instruments:
+      - ticker: ZIP.AX
+        name: Zip Co Limited
+        sector: Financials / Payments
+      - ticker: NVX.AX
+        name: Novonix Limited
+        sector: Materials / Battery tech
+  ai_infrastructure:
+    name: ai_infrastructure
+    description: Hyperscaler and AI infrastructure ecosystem (research).
+    instruments:
+      - ticker: MSFT
+        name: Microsoft
+        sector: Technology
+      - ticker: GOOGL
+        name: Alphabet
+        sector: Technology
+      - ticker: AMZN
+        name: Amazon
+        sector: Technology
+      - ticker: EQIX
+        name: Equinix
+        sector: Real Estate / Data centres
+  semiconductors:
+    name: semiconductors
+    description: Semiconductor supply chain (research).
+    instruments:
+      - ticker: NVDA
+        name: NVIDIA
+        sector: Technology
+      - ticker: AMD
+        name: Advanced Micro Devices
+        sector: Technology
+      - ticker: ASML
+        name: ASML Holding
+        sector: Technology
+  china_rerating:
+    name: china_rerating
+    description: China re-rating research set (policy, flows, earnings).
+    instruments:
+      - ticker: BABA
+        name: Alibaba Group
+        sector: Consumer / Internet
+      - ticker: 0700.HK
+        name: Tencent
+        sector: Technology
+      - ticker: FXI
+        name: iShares China Large-Cap ETF
+        sector: ETF / China
+  robotics_physical_ai:
+    name: robotics_physical_ai
+    description: Robotics and physical AI adopters (research).
+    instruments:
+      - ticker: ISRG
+        name: Intuitive Surgical
+        sector: Healthcare / Robotics
+      - ticker: ABBN.SW
+        name: ABB Ltd
+        sector: Industrials / Automation
+      - ticker: FANUY
+        name: Fanuc
+        sector: Industrials / Robotics
+  core_etf_candidates:
+    name: core_etf_candidates
+    description: Core ETF candidates for diversified AUD portfolio (research).
+    instruments:
+      - ticker: VAS.AX
+        name: Vanguard Australian Shares
+        sector: ETF / Australia
+      - ticker: IOO.AX
+        name: iShares Global 100
+        sector: ETF / Global
+      - ticker: VEU.AX
+        name: Vanguard All-World ex-US
+        sector: ETF / International

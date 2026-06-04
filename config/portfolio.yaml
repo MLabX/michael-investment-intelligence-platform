@@ -1,0 +1,23 @@
+# Michael's approximate portfolio (manual entry — update values as needed).
+# Used for concentration analysis and Portfolio Risk context. Not broker-synced.
+owner: Michael
+base_currency: AUD
+cash_aud: 45000
+holdings:
+  - ticker: ZIP.AX
+    name: Zip Co Limited
+    market: ASX
+    value_aud: 50000
+  - ticker: NVX.AX
+    name: Novonix Limited
+    market: ASX
+    value_aud: 5000
+risk_constraints:
+  family_responsibilities: true
+  mortgages: true
+  max_single_position_pct: 25.0
+  avoid_automated_trading: true
+  notes:
+    - Maintain liquidity for family and mortgage obligations.
+    - Avoid excessive single-stock concentration; review ZIP.AX weight regularly.
+    - MIIP does not execute trades — research and decision support only.

@@ -1,0 +1,16 @@
+# Agent registry. Each entry binds a configured agent name to an agent `type`
+# (its implementation) and optional params. Agents are deterministic and
+# read only manual/static metrics; no live data, APIs, or LLMs are involved.
+agents:
+  momentum:
+    type: momentum
+    enabled: true
+  value:
+    type: value
+    enabled: true
+  quality:
+    type: quality
+    enabled: true
+  risk:
+    type: risk
+    enabled: true

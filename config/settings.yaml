@@ -1,0 +1,13 @@
+# MIIP global settings (manual-input mode — Slice 2).
+default_watchlist: current_holdings
+default_scoring_model: balanced
+reports_dir: reports
+daily_subdir: daily
+weekly_subdir: weekly
+
+# Overall regime classification from average MIIP monitor composite (0-100).
+# Manual/static inputs only — not a live macro model.
+overall_regime:
+  risk_on_min: 65
+  balanced_min: 55
+  cautious_min: 45

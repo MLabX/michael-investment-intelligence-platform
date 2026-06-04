@@ -1,0 +1,152 @@
+# =====================================================================
+# MANUAL / STATIC DATA — NOT LIVE MARKET DATA
+# ---------------------------------------------------------------------
+# Update readings after your own research. MIIP does not fetch live prices.
+# =====================================================================
+source: manual-static
+as_of: 2026-06-05
+placeholder: true
+
+monitor_indicators:
+  macro_risk:
+    rates_pressure: 58
+    liquidity_conditions: 52
+    credit_stress: 55
+    market_breadth: 48
+  ai_capex:
+    capex_momentum: 68
+    demand_conversion: 55
+    supply_constraints: 50
+    roi_sustainability: 52
+  china_rerating:
+    policy_support: 50
+    earnings_revisions: 42
+    capital_flows: 45
+    geopolitical_risk: 62
+  robotics_physical_ai:
+    adoption_signals: 60
+    margin_quality: 55
+    supply_chain: 58
+    narrative_vs_operating: 48
+  portfolio_risk:
+    concentration_risk: 70
+    factor_balance: 52
+    liquidity_buffer: 55
+    mortgage_family_headroom: 50
+
+monitors:
+  macro_risk:
+    change_drivers:
+      - "Manual: RBA on hold; global rates mixed — your notes here."
+    risk_flags:
+      - "Manual macro readings — not verified against live data feeds."
+  ai_capex:
+    change_drivers:
+      - "Manual: hyperscaler capex still discussed positively in your research notes."
+    risk_flags:
+      - "ROI conversion remains uncertain — manual score only."
+  china_rerating:
+    change_drivers:
+      - "Manual: policy headlines mixed; flows not updated from live sources."
+    risk_flags:
+      - "Geopolitical risk premia manually set — review before sizing."
+  robotics_physical_ai:
+    change_drivers:
+      - "Manual: adoption anecdotes vs limited operating data in snapshot."
+    risk_flags: []
+  portfolio_risk:
+    change_drivers:
+      - "Derived concentration + cash buffer from portfolio.yaml and manual overrides."
+    risk_flags: []
+
+metrics:
+  ZIP.AX:
+    momentum: 42
+    value: 55
+    quality: 48
+    volatility: 65
+  NVX.AX:
+    momentum: 38
+    value: 40
+    quality: 35
+    volatility: 80
+  MSFT:
+    momentum: 72
+    value: 45
+    quality: 85
+    volatility: 35
+  GOOGL:
+    momentum: 68
+    value: 50
+    quality: 82
+    volatility: 38
+  AMZN:
+    momentum: 65
+    value: 48
+    quality: 78
+    volatility: 42
+  EQIX:
+    momentum: 58
+    value: 42
+    quality: 75
+    volatility: 40
+  NVDA:
+    momentum: 85
+    value: 30
+    quality: 80
+    volatility: 70
+  AMD:
+    momentum: 62
+    value: 52
+    quality: 65
+    volatility: 58
+  ASML:
+    momentum: 60
+    value: 48
+    quality: 88
+    volatility: 45
+  BABA:
+    momentum: 45
+    value: 62
+    quality: 50
+    volatility: 72
+  0700.HK:
+    momentum: 48
+    value: 55
+    quality: 72
+    volatility: 55
+  FXI:
+    momentum: 40
+    value: 58
+    quality: 45
+    volatility: 60
+  ISRG:
+    momentum: 55
+    value: 38
+    quality: 82
+    volatility: 38
+  ABBN.SW:
+    momentum: 52
+    value: 50
+    quality: 75
+    volatility: 42
+  FANUY:
+    momentum: 48
+    value: 52
+    quality: 70
+    volatility: 45
+  VAS.AX:
+    momentum: 50
+    value: 55
+    quality: 70
+    volatility: 30
+  IOO.AX:
+    momentum: 58
+    value: 48
+    quality: 72
+    volatility: 32
+  VEU.AX:
+    momentum: 52
+    value: 52
+    quality: 68
+    volatility: 35

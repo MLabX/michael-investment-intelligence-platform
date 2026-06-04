@@ -1,0 +1,47 @@
+# MIIP investment monitor domains — manual-input intelligence (Slice 2).
+platform: MIIP
+thesis_summary: >
+  Michael Investment Intelligence Platform tracks five structural monitors and
+  portfolio risk using manually entered research readings — not live market feeds.
+  Outputs support deliberation only; they are not financial advice or trade signals.
+monitors:
+  macro_risk:
+    name: Macro Risk
+    thesis: >
+      Macro conditions (rates, liquidity, credit, breadth) can dominate holdings-level
+      analysis; watch for regime shifts without overfitting a single indicator.
+    thesis_invalidation:
+      - Sustained risk-on breadth and easing financial conditions while monitor stays defensive.
+      - Policy shock not reflected in manual readings within one review cycle.
+  ai_capex:
+    name: AI Capex
+    thesis: >
+      AI infrastructure spending may remain durable, but attractiveness depends on ROI,
+      demand conversion, supply, and energy constraints.
+    thesis_invalidation:
+      - Capex guides remain strong while demand conversion and ROI indicators deteriorate for multiple periods.
+      - Hyperscaler commentary turns cautious but monitor score stays elevated without manual update.
+  china_rerating:
+    name: China Re-rating
+    thesis: >
+      China-linked assets may re-rate if policy, earnings revisions, flows, and geopolitical
+      risk premia improve together.
+    thesis_invalidation:
+      - Policy headlines improve but earnings revisions and flows fail to confirm.
+      - Geopolitical escalation without manual risk indicator update.
+  robotics_physical_ai:
+    name: Robotics / Physical AI
+    thesis: >
+      Robotics and physical AI may shift from narrative to operating data; track adoption,
+      margins, and supply-chain stability.
+    thesis_invalidation:
+      - Order/adoption slows while narrative-driven scores remain high.
+      - Margin compression not captured in manual readings.
+  portfolio_risk:
+    name: Portfolio Risk
+    thesis: >
+      Portfolio structure (concentration, cash buffer, mortgages, family obligations) must
+      stay visible alongside thematic monitors.
+    thesis_invalidation:
+      - Single-name weight exceeds configured maximum without triggering review.
+      - Cash buffer drawn below planned minimum for mortgage/family headroom.

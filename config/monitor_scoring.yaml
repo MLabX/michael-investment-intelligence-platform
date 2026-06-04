@@ -1,0 +1,124 @@
+# Per-monitor sub-indicator scoring (manual readings in data/market_snapshot.yaml).
+# Each indicator is 0-100; weights are normalised at scoring time.
+# higher_is_better: false inverts the reading (e.g. higher stress = lower signal).
+models:
+  macro_risk:
+    description: Macro liquidity, rates, credit, and breadth stress.
+    indicators:
+      rates_pressure:
+        label: Rates / yield curve pressure
+        weight: 1.0
+        higher_is_better: false
+      liquidity_conditions:
+        label: Liquidity / financial conditions
+        weight: 1.0
+        higher_is_better: true
+      credit_stress:
+        label: Credit spread / stress
+        weight: 1.0
+        higher_is_better: false
+      market_breadth:
+        label: Equity market breadth
+        weight: 0.8
+        higher_is_better: true
+    status_thresholds:
+      defensive: 40
+      cautious: 50
+      balanced: 60
+      constructive: 70
+  ai_capex:
+    description: AI infrastructure capex cycle and ROI risk.
+    indicators:
+      capex_momentum:
+        label: Capex / build-out momentum
+        weight: 1.0
+        higher_is_better: true
+      demand_conversion:
+        label: Revenue / workload conversion
+        weight: 1.2
+        higher_is_better: true
+      supply_constraints:
+        label: Supply / energy constraints (ease)
+        weight: 0.8
+        higher_is_better: true
+      roi_sustainability:
+        label: ROI / economics sustainability
+        weight: 1.0
+        higher_is_better: true
+    status_thresholds:
+      defensive: 40
+      cautious: 50
+      balanced: 60
+      constructive: 70
+  china_rerating:
+    description: China policy, flows, earnings, and geopolitical risk.
+    indicators:
+      policy_support:
+        label: Policy support transmission
+        weight: 1.0
+        higher_is_better: true
+      earnings_revisions:
+        label: Earnings revision trend
+        weight: 1.0
+        higher_is_better: true
+      capital_flows:
+        label: Domestic / foreign flows
+        weight: 1.0
+        higher_is_better: true
+      geopolitical_risk:
+        label: Geopolitical risk (lower premia = better)
+        weight: 1.2
+        higher_is_better: false
+    status_thresholds:
+      defensive: 40
+      cautious: 50
+      balanced: 60
+      constructive: 70
+  robotics_physical_ai:
+    description: Robotics and physical AI adoption vs narrative.
+    indicators:
+      adoption_signals:
+        label: Adoption / order signals
+        weight: 1.0
+        higher_is_better: true
+      margin_quality:
+        label: Margin / unit economics quality
+        weight: 1.0
+        higher_is_better: true
+      supply_chain:
+        label: Supply chain stability
+        weight: 0.8
+        higher_is_better: true
+      narrative_vs_operating:
+        label: Operating data vs narrative gap (closer = better)
+        weight: 1.0
+        higher_is_better: true
+    status_thresholds:
+      defensive: 40
+      cautious: 50
+      balanced: 60
+      constructive: 70
+  portfolio_risk:
+    description: Holdings concentration, factor mix, and liquidity buffer.
+    indicators:
+      concentration_risk:
+        label: Concentration risk (lower = better signal)
+        weight: 1.5
+        higher_is_better: false
+      factor_balance:
+        label: Factor / style balance
+        weight: 1.0
+        higher_is_better: true
+      liquidity_buffer:
+        label: Cash / liquidity buffer adequacy
+        weight: 1.2
+        higher_is_better: true
+      mortgage_family_headroom:
+        label: Headroom after family/mortgage constraints
+        weight: 1.0
+        higher_is_better: true
+    status_thresholds:
+      defensive: 40
+      cautious: 50
+      balanced: 60
+      constructive: 70

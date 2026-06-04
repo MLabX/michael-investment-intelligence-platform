@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.env
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Review packages (local audit zips — not source of truth)
+review-pack/
+
+# Generated reports (keep directories, ignore generated output)
+reports/daily/*.md
+reports/weekly/*.md
+!reports/**/.gitkeep

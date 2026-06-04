@@ -1,0 +1,26 @@
+# Scoring models combine per-agent signals (0-100) into a composite research
+# score using a weighted average. Weights are relative; they are normalised at
+# scoring time. Outputs are relative research signals, never predictions.
+default_model: balanced
+models:
+  balanced:
+    description: Equal-ish blend across all four agents.
+    weights:
+      momentum: 1.0
+      value: 1.0
+      quality: 1.0
+      risk: 1.0
+  defensive:
+    description: Tilts toward quality and lower risk.
+    weights:
+      momentum: 0.5
+      value: 1.0
+      quality: 2.0
+      risk: 2.0
+  momentum_tilt:
+    description: Emphasises the momentum signal.
+    weights:
+      momentum: 3.0
+      value: 1.0
+      quality: 1.0
+      risk: 1.0
