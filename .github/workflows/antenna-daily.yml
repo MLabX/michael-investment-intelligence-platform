@@ -1,0 +1,53 @@
+name: Antenna Daily Discovery Brief
+
+on:
+  schedule:
+    # 20:00 UTC ≈ 06:00 AEST / 07:00 AEDT next calendar day in Sydney.
+    # GitHub cron is best-effort and does NOT adjust for DST automatically.
+    # During AEDT (Oct–Apr) brief arrives ~07:00 Sydney; during AEST ~06:00.
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: antenna-daily
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONPATH: apps
+      TZ: Australia/Sydney
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r apps/antenna/requirements.txt
+
+      - name: Generate discovery brief
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTENNA_MODEL: ${{ vars.ANTENNA_MODEL }}
+        run: python -m antenna --verbose
+
+      - name: Commit brief and dedup state
+        run: |
+          git config user.name  "antenna-bot"
+          git config user.email "antenna-bot@users.noreply.github.com"
+          git add -f reports/discovery/daily/*.md data/antenna/seen.json
+          if git diff --cached --quiet; then
+            echo "No brief changes to commit."
+          else
+            git commit -m "Antenna: discovery brief $(TZ=Australia/Sydney date +%Y-%m-%d)"
+            git push
+          fi

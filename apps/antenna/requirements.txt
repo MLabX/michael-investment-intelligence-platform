@@ -1,0 +1,4 @@
+# Antenna MVP dependencies (kept deliberately tiny).
+feedparser>=6.0.11
+openai>=1.40
+PyYAML>=6.0

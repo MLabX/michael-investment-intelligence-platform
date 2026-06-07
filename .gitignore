@@ -17,10 +17,21 @@ dist/
 .ruff_cache/
 .mypy_cache/
 
+# Archives (local audit / export zips — not source of truth)
+*.zip
+
 # Review packages (local audit zips — not source of truth)
 review-pack/
 
-# Generated reports (keep directories, ignore generated output)
+# Generated MIIP reports (keep directories, ignore generated output)
 reports/daily/*.md
 reports/weekly/*.md
+
+# Generated Antenna discovery briefs (CI force-adds the daily brief)
+reports/discovery/daily/*.md
+
+# Antenna dedup state (CI force-adds after each run)
+data/antenna/seen.json
+
 !reports/**/.gitkeep
+!data/**/.gitkeep

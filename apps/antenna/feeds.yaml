@@ -1,0 +1,50 @@
+# Antenna MVP — data sources (real public RSS/Atom feeds).
+#
+# Brutally simple: a flat list of feeds, each tagged with one of the five themes.
+# Dead or changed feeds are skipped at runtime (the fetcher tolerates failures),
+# so this list can be edited freely without breaking the run.
+#
+# themes: ai | robotics | space | china | macro
+
+settings:
+  # How far back to look for "today's" signals (hours). 30h covers a daily run
+  # plus weekend/holiday gaps without double-counting much.
+  lookback_hours: 30
+  # Per-feed HTTP timeout (seconds). A slow feed must never block the whole run.
+  feed_timeout_seconds: 15
+  # Max signals to surface in a brief. Discovery, not a firehose.
+  max_signals: 8
+  # Max candidate items sent to the analyzer (cost / focus control).
+  max_candidates: 120
+  # OpenAI model (overridable via ANTENNA_MODEL env var).
+  model: gpt-4o-mini
+
+feeds:
+  # ---- AI ------------------------------------------------------------------
+  - { theme: ai, name: "MIT Technology Review",        url: "https://www.technologyreview.com/feed/" }
+  - { theme: ai, name: "Ars Technica — AI",            url: "https://arstechnica.com/ai/feed/" }
+  - { theme: ai, name: "The Decoder",                  url: "https://the-decoder.com/feed/" }
+  - { theme: ai, name: "Hugging Face Blog",            url: "https://huggingface.co/blog/feed.xml" }
+  - { theme: ai, name: "arXiv cs.AI",                  url: "http://export.arxiv.org/rss/cs.AI" }
+
+  # ---- Robotics ------------------------------------------------------------
+  - { theme: robotics, name: "IEEE Spectrum — Robotics", url: "https://spectrum.ieee.org/feeds/topic/robotics.rss" }
+  - { theme: robotics, name: "The Robot Report",         url: "https://www.therobotreport.com/feed/" }
+  - { theme: robotics, name: "arXiv cs.RO",              url: "http://export.arxiv.org/rss/cs.RO" }
+
+  # ---- Space ---------------------------------------------------------------
+  - { theme: space, name: "SpaceNews",          url: "https://spacenews.com/feed/" }
+  - { theme: space, name: "Ars Technica — Space", url: "https://arstechnica.com/space/feed/" }
+  - { theme: space, name: "Spaceflight Now",    url: "https://spaceflightnow.com/feed/" }
+
+  # ---- China ---------------------------------------------------------------
+  - { theme: china, name: "SCMP — China",       url: "https://www.scmp.com/rss/4/feed" }
+  - { theme: china, name: "SCMP — Economy",     url: "https://www.scmp.com/rss/318198/feed" }
+  - { theme: china, name: "Sixth Tone",         url: "https://www.sixthtone.com/rss" }
+
+  # ---- Macro ---------------------------------------------------------------
+  - { theme: macro, name: "Federal Reserve — Press", url: "https://www.federalreserve.gov/feeds/press_all.xml" }
+  - { theme: macro, name: "NY Fed — Liberty Street",  url: "https://libertystreeteconomics.newyorkfed.org/feed/" }
+  - { theme: macro, name: "ECB — Press",              url: "https://www.ecb.europa.eu/rss/press.html" }
+  - { theme: macro, name: "Calculated Risk",          url: "https://www.calculatedriskblog.com/feeds/posts/default" }
+  - { theme: macro, name: "Marginal Revolution",      url: "https://marginalrevolution.com/feed" }

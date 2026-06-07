@@ -1,0 +1,44 @@
+name: Antenna CI
+
+on:
+  push:
+    paths:
+      - "apps/antenna/**"
+      - "tests/test_antenna.py"
+      - ".github/workflows/antenna-ci.yml"
+      - "pyproject.toml"
+  pull_request:
+    paths:
+      - "apps/antenna/**"
+      - "tests/test_antenna.py"
+      - ".github/workflows/antenna-ci.yml"
+      - "pyproject.toml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -e ".[dev]"
+          pip install -r apps/antenna/requirements.txt
+
+      - name: Ruff check
+        run: ruff check .
+
+      - name: Ruff format
+        run: ruff format --check .
+
+      - name: Pytest (Antenna)
+        env:
+          PYTHONPATH: apps
+        run: pytest tests/test_antenna.py -q
