@@ -10,6 +10,21 @@
       "last_seen": "2026-06-08",
       "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight"
     },
+    "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/": {
+      "content_hash": "8535bdd3ad20fe68",
+      "last_seen": "2026-06-09",
+      "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty"
+    },
+    "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/": {
+      "content_hash": "32370232c94c0953",
+      "last_seen": "2026-06-09",
+      "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum"
+    },
+    "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/": {
+      "content_hash": "453949ad1b6d396d",
+      "last_seen": "2026-06-09",
+      "title": "Quantum Space to go public in SPAC deal"
+    },
     "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/": {
       "content_hash": "c67c7f55dc632ba6",
       "last_seen": "2026-06-08",
@@ -19,6 +34,11 @@
       "content_hash": "5a2fe75749125f53",
       "last_seen": "2026-06-08",
       "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
+    },
+    "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/": {
+      "content_hash": "531d151c73f20fa2",
+      "last_seen": "2026-06-09",
+      "title": "Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -40,10 +60,25 @@
       "last_seen": "2026-06-08",
       "title": "North Korea says its nuclear programme is \u2018irreversible\u2019 ahead of Chinese leader\u2019s visit"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3356419/us-adds-alibaba-byd-and-other-chinese-tech-champions-military-company-list?utm_source=rss_feed": {
+      "content_hash": "b82716b016bcea9e",
+      "last_seen": "2026-06-09",
+      "title": "US adds Alibaba, BYD and other Chinese tech champions to military company blacklist"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
       "title": "China urged to fast-track carrier fleet upgrades as Japan boosts strike power"
+    },
+    "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
+      "content_hash": "5e112270454ea097",
+      "last_seen": "2026-06-09",
+      "title": "China begins large-scale delivery of gallium chips for space-ground 6G network"
+    },
+    "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
+      "content_hash": "05e65d5476778a2b",
+      "last_seen": "2026-06-09",
+      "title": "China\u2019s new battery tech set to turbocharge EVs, energy storage"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -51,5 +86,5 @@
       "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks"
     }
   },
-  "updated_at": "2026-06-07T20:33:21.851228+00:00"
+  "updated_at": "2026-06-08T20:59:14.733802+00:00"
 }
