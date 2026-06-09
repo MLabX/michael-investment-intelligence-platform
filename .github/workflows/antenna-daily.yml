@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: antenna-daily
-  cancel-in-progress: false
+  cancel-in-progress: true  # avoid two runs racing to push the same branch
 
 jobs:
   brief:
@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history so rebase before push works reliably
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,10 +46,24 @@ jobs:
         run: |
           git config user.name  "antenna-bot"
           git config user.email "antenna-bot@users.noreply.github.com"
+
           git add -f reports/discovery/daily/*.md data/antenna/seen.json
           if git diff --cached --quiet; then
             echo "No brief changes to commit."
-          else
-            git commit -m "Antenna: discovery brief $(TZ=Australia/Sydney date +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+
+          git commit -m "Antenna: discovery brief $(TZ=Australia/Sydney date +%Y-%m-%d)"
+
+          # Remote may have moved (manual push, prior run, or race). Rebase and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin main; then
+              echo "Push succeeded on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push failed on attempt ${attempt}; retrying..."
+            sleep 5
+          done
+          echo "Push failed after 3 attempts."
+          exit 1
