@@ -30,6 +30,16 @@
       "last_seen": "2026-06-10",
       "title": "Isar Aerospace raises 270 million euros for global launch expansion"
     },
+    "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/": {
+      "content_hash": "c6c7171ed9061e6c",
+      "last_seen": "2026-06-12",
+      "title": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program"
+    },
+    "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/": {
+      "content_hash": "7ab23f029d2fefd7",
+      "last_seen": "2026-06-12",
+      "title": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats"
+    },
     "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/": {
       "content_hash": "6d5d2a63b4c6b792",
       "last_seen": "2026-06-10",
@@ -50,6 +60,11 @@
       "last_seen": "2026-06-09",
       "title": "Quantum Space to go public in SPAC deal"
     },
+    "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/": {
+      "content_hash": "339dbf373597fefa",
+      "last_seen": "2026-06-12",
+      "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force"
+    },
     "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/": {
       "content_hash": "c67c7f55dc632ba6",
       "last_seen": "2026-06-08",
@@ -64,6 +79,11 @@
       "content_hash": "a13724f8ad509f80",
       "last_seen": "2026-06-10",
       "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers"
+    },
+    "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
+      "content_hash": "6b0d350b9ceea141",
+      "last_seen": "2026-06-12",
+      "title": "Dario Amodei's new essay reads like a Cold War playbook for the AI age"
     },
     "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/": {
       "content_hash": "5a2fe75749125f53",
@@ -87,7 +107,7 @@
     },
     "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/": {
       "content_hash": "1753e4fbe3e1f1d4",
-      "last_seen": "2026-06-10",
+      "last_seen": "2026-06-12",
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
@@ -99,6 +119,11 @@
       "content_hash": "98943e8eb36baddf",
       "last_seen": "2026-06-10",
       "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing"
+    },
+    "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/": {
+      "content_hash": "43a0dd8b445c3540",
+      "last_seen": "2026-06-12",
+      "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing"
     },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
@@ -145,6 +170,11 @@
       "last_seen": "2026-06-09",
       "title": "China begins large-scale delivery of gallium chips for space-ground 6G network"
     },
+    "https://www.scmp.com/news/china/science/article/3356794/china-launches-new-satellite-test-high-speed-communication-tech?utm_source=rss_feed": {
+      "content_hash": "d0cd86bcae7e452f",
+      "last_seen": "2026-06-12",
+      "title": "China launches new satellite to test high-speed communication tech"
+    },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
@@ -160,11 +190,16 @@
       "last_seen": "2026-06-10",
       "title": "Effort to establish a National Commission on Robotics advances in Congress"
     },
+    "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/": {
+      "content_hash": "a5db537c513c95ea",
+      "last_seen": "2026-06-12",
+      "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research"
+    },
     "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/": {
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-10T21:00:48.025339+00:00"
+  "updated_at": "2026-06-11T20:56:27.190502+00:00"
 }
