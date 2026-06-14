@@ -55,6 +55,11 @@
       "last_seen": "2026-06-12",
       "title": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats"
     },
+    "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/": {
+      "content_hash": "9e99e301306b3e73",
+      "last_seen": "2026-06-15",
+      "title": "Missile production push runs into solid rocket motor bottleneck"
+    },
     "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/": {
       "content_hash": "6d5d2a63b4c6b792",
       "last_seen": "2026-06-10",
@@ -120,6 +125,11 @@
       "last_seen": "2026-06-11",
       "title": "Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI"
     },
+    "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/": {
+      "content_hash": "45abc5971887203c",
+      "last_seen": "2026-06-15",
+      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
+    },
     "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/": {
       "content_hash": "df84cc01cc36dd5d",
       "last_seen": "2026-06-13",
@@ -139,6 +149,11 @@
       "content_hash": "1753e4fbe3e1f1d4",
       "last_seen": "2026-06-12",
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
+    },
+    "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/": {
+      "content_hash": "e670e5596a90aa1a",
+      "last_seen": "2026-06-15",
+      "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -164,6 +179,11 @@
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
+    },
+    "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed": {
+      "content_hash": "b9d7ff6be0492b7c",
+      "last_seen": "2026-06-15",
+      "title": "China\u2019s direct strike threat to Australia is \u2018growing\u2019, think tank report finds"
     },
     "https://www.scmp.com/news/china/article/3356967/huawei-considering-deploying-ascend-ai-chips-latin-america-cloud-chief-says?utm_source=rss_feed": {
       "content_hash": "b19a9bd6c0befbac",
@@ -204,6 +224,11 @@
       "content_hash": "c394f225a09dccf0",
       "last_seen": "2026-06-11",
       "title": "China\u2019s military warned against \u2018dangers of AI sycophancy\u2019 on the battlefield"
+    },
+    "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
+      "content_hash": "e740520ba526f22d",
+      "last_seen": "2026-06-15",
+      "title": "Surge in AI-related court cases fuels calls for China to clarify its laws"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -256,5 +281,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-13T20:35:33.738395+00:00"
+  "updated_at": "2026-06-14T20:35:29.478806+00:00"
 }
