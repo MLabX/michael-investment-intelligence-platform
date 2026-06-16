@@ -1,5 +1,15 @@
 {
   "items": {
+    "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/": {
+      "content_hash": "1fe23fee52d685f6",
+      "last_seen": "2026-06-17",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year"
+    },
+    "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/": {
+      "content_hash": "1be768720c965a57",
+      "last_seen": "2026-06-17",
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion"
+    },
     "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/": {
       "content_hash": "9529a8f6fc3def85",
       "last_seen": "2026-06-13",
@@ -24,6 +34,11 @@
       "content_hash": "251420b1eff3d469",
       "last_seen": "2026-06-08",
       "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight"
+    },
+    "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/": {
+      "content_hash": "b59ce7ab2c1abce1",
+      "last_seen": "2026-06-17",
+      "title": "Astrobotic unveils Griffin-1 lunar lander"
     },
     "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/": {
       "content_hash": "dcd5f78b90200fe5",
@@ -65,6 +80,11 @@
       "last_seen": "2026-06-12",
       "title": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program"
     },
+    "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/": {
+      "content_hash": "1e1cf89c630f17b5",
+      "last_seen": "2026-06-17",
+      "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
+    },
     "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/": {
       "content_hash": "7ab23f029d2fefd7",
       "last_seen": "2026-06-12",
@@ -104,6 +124,11 @@
       "content_hash": "339dbf373597fefa",
       "last_seen": "2026-06-12",
       "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force"
+    },
+    "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/": {
+      "content_hash": "974045aa28398465",
+      "last_seen": "2026-06-17",
+      "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking"
     },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
@@ -179,6 +204,11 @@
       "content_hash": "e670e5596a90aa1a",
       "last_seen": "2026-06-15",
       "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner"
+    },
+    "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/": {
+      "content_hash": "120777599ca198a1",
+      "last_seen": "2026-06-17",
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
     },
     "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/": {
       "content_hash": "74abc60276e8b619",
@@ -260,6 +290,11 @@
       "last_seen": "2026-06-11",
       "title": "China\u2019s military warned against \u2018dangers of AI sycophancy\u2019 on the battlefield"
     },
+    "https://www.scmp.com/news/china/military/article/3357273/china-showcases-anti-drone-air-defences-paris-show-conflict-fuels-demand?utm_source=rss_feed": {
+      "content_hash": "3a6d1b7608370af0",
+      "last_seen": "2026-06-17",
+      "title": "China showcases anti-drone air defences at Paris show as conflict fuels demand"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -315,11 +350,16 @@
       "last_seen": "2026-06-12",
       "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research"
     },
+    "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
+      "content_hash": "f63b26092cbdf81e",
+      "last_seen": "2026-06-17",
+      "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
+    },
     "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/": {
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-15T21:06:53.906913+00:00"
+  "updated_at": "2026-06-16T21:07:56.076055+00:00"
 }
