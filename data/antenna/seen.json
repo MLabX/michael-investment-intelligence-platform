@@ -45,10 +45,20 @@
       "last_seen": "2026-06-13",
       "title": "Astronomers fear orbital data centers will interfere with observations"
     },
+    "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/": {
+      "content_hash": "4ece6db2b7268a86",
+      "last_seen": "2026-06-18",
+      "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch"
+    },
     "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/": {
       "content_hash": "cb58fb6b0e2d5116",
       "last_seen": "2026-06-16",
       "title": "DARPA to explore ways to rapidly rebuild satellite networks if attacked"
+    },
+    "https://spacenews.com/dawn-aerospace-raises-25-million/": {
+      "content_hash": "53e7ccddb94bab32",
+      "last_seen": "2026-06-18",
+      "title": "Dawn Aerospace raises $25 million"
     },
     "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/": {
       "content_hash": "8535bdd3ad20fe68",
@@ -135,6 +145,11 @@
       "last_seen": "2026-06-14",
       "title": "Visual Language Models Train Robots to Read Human Emotions"
     },
+    "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/": {
+      "content_hash": "bf551f35bfd2c919",
+      "last_seen": "2026-06-18",
+      "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models"
+    },
     "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/": {
       "content_hash": "c67c7f55dc632ba6",
       "last_seen": "2026-06-08",
@@ -215,6 +230,11 @@
       "last_seen": "2026-06-16",
       "title": "Nvidia joins AI debt boom with $20 billion bond sale"
     },
+    "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/": {
+      "content_hash": "063980db8ef8fb00",
+      "last_seen": "2026-06-18",
+      "title": "Nvidia research shows robots that train themselves through AI coding agents"
+    },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
       "last_seen": "2026-06-08",
@@ -244,6 +264,11 @@
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
+    },
+    "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/": {
+      "content_hash": "13aedd7420011052",
+      "last_seen": "2026-06-18",
+      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
     },
     "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed": {
       "content_hash": "b9d7ff6be0492b7c",
@@ -279,6 +304,16 @@
       "content_hash": "b84d8f99aced6b21",
       "last_seen": "2026-06-14",
       "title": "China accuses US of power abuse with expanded blacklist of Chinese firms"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3357445/white-paper-making-chinas-case-new-rules-over-worlds-new-frontiers?utm_source=rss_feed": {
+      "content_hash": "ab3ada853da8ac3c",
+      "last_seen": "2026-06-18",
+      "title": "The white paper making China\u2019s case for new rules for the world\u2019s new frontiers"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3357470/europe-rallies-around-tough-new-china-strategy-ahead-key-summit?utm_source=rss_feed": {
+      "content_hash": "9d5f6c0176099a66",
+      "last_seen": "2026-06-18",
+      "title": "Europe rallies around tough new China strategy ahead of key summit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -355,11 +390,16 @@
       "last_seen": "2026-06-17",
       "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
     },
+    "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
+      "content_hash": "b609c182915a82f5",
+      "last_seen": "2026-06-18",
+      "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
+    },
     "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/": {
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-16T21:07:56.076055+00:00"
+  "updated_at": "2026-06-17T20:50:28.997650+00:00"
 }
