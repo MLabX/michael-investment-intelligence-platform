@@ -35,6 +35,11 @@
       "last_seen": "2026-06-08",
       "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight"
     },
+    "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/": {
+      "content_hash": "4624b2a745c5345d",
+      "last_seen": "2026-06-19",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
+    },
     "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/": {
       "content_hash": "b59ce7ab2c1abce1",
       "last_seen": "2026-06-17",
@@ -45,10 +50,20 @@
       "last_seen": "2026-06-13",
       "title": "Astronomers fear orbital data centers will interfere with observations"
     },
+    "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/": {
+      "content_hash": "3edbc0457a84ba78",
+      "last_seen": "2026-06-19",
+      "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch"
+    },
     "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/": {
       "content_hash": "4ece6db2b7268a86",
       "last_seen": "2026-06-18",
       "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch"
+    },
+    "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/": {
+      "content_hash": "705206a476164e65",
+      "last_seen": "2026-06-19",
+      "title": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket"
     },
     "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/": {
       "content_hash": "cb58fb6b0e2d5116",
@@ -125,6 +140,11 @@
       "last_seen": "2026-06-09",
       "title": "Quantum Space to go public in SPAC deal"
     },
+    "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/": {
+      "content_hash": "42be96bda22dc156",
+      "last_seen": "2026-06-19",
+      "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft"
+    },
     "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/": {
       "content_hash": "ea56c386878692c3",
       "last_seen": "2026-06-14",
@@ -144,6 +164,11 @@
       "content_hash": "b2734a8c71d1589a",
       "last_seen": "2026-06-14",
       "title": "Visual Language Models Train Robots to Read Human Emotions"
+    },
+    "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/": {
+      "content_hash": "124f0eed1cb01828",
+      "last_seen": "2026-06-19",
+      "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis"
     },
     "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/": {
       "content_hash": "bf551f35bfd2c919",
@@ -169,6 +194,11 @@
       "content_hash": "a13724f8ad509f80",
       "last_seen": "2026-06-10",
       "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers"
+    },
+    "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/": {
+      "content_hash": "a91129d1501039b0",
+      "last_seen": "2026-06-19",
+      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
     },
     "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
       "content_hash": "6b0d350b9ceea141",
@@ -264,6 +294,11 @@
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
+    },
+    "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
+      "content_hash": "21ddd621c851f131",
+      "last_seen": "2026-06-19",
+      "title": "Yann LeCun warns AI labs like OpenAI and Anthropic face a \"big bubble explosion\""
     },
     "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/": {
       "content_hash": "13aedd7420011052",
@@ -401,5 +436,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-17T20:50:28.997650+00:00"
+  "updated_at": "2026-06-18T20:57:11.861926+00:00"
 }
