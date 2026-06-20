@@ -40,6 +40,11 @@
       "last_seen": "2026-06-19",
       "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
     },
+    "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/": {
+      "content_hash": "cf39b6ce80ff035a",
+      "last_seen": "2026-06-21",
+      "title": "Astrobotic says sale to Voyager will allow it to scale up"
+    },
     "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/": {
       "content_hash": "b59ce7ab2c1abce1",
       "last_seen": "2026-06-17",
@@ -290,6 +295,11 @@
       "last_seen": "2026-06-18",
       "title": "Nvidia research shows robots that train themselves through AI coding agents"
     },
+    "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/": {
+      "content_hash": "db2b553858a3855f",
+      "last_seen": "2026-06-21",
+      "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust"
+    },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
       "last_seen": "2026-06-08",
@@ -304,6 +314,11 @@
       "content_hash": "43a0dd8b445c3540",
       "last_seen": "2026-06-12",
       "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing"
+    },
+    "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/": {
+      "content_hash": "da69520694eea5d4",
+      "last_seen": "2026-06-21",
+      "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
     },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
@@ -425,6 +440,11 @@
       "last_seen": "2026-06-20",
       "title": "Could China make a sea-skimming hypersonic missile a real nightmare for the US?"
     },
+    "https://www.scmp.com/news/china/science/article/3357716/china-puts-worlds-first-smart-squid-fishing-robot-test?utm_source=rss_feed": {
+      "content_hash": "bf527e4c323ef71d",
+      "last_seen": "2026-06-21",
+      "title": "China puts world\u2019s first smart squid fishing robot to the test"
+    },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
@@ -444,6 +464,11 @@
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
       "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks"
+    },
+    "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/": {
+      "content_hash": "c3875ecfda291e62",
+      "last_seen": "2026-06-21",
+      "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics"
     },
     "https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/": {
       "content_hash": "3158e1d4513c71e4",
@@ -476,5 +501,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-19T20:37:54.861561+00:00"
+  "updated_at": "2026-06-20T20:35:12.293325+00:00"
 }
