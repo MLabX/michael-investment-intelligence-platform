@@ -55,6 +55,11 @@
       "last_seen": "2026-06-13",
       "title": "Astronomers fear orbital data centers will interfere with observations"
     },
+    "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/": {
+      "content_hash": "dfb9cfe75dc68d8e",
+      "last_seen": "2026-06-23",
+      "title": "Astroscale raises funding to support growth strategy"
+    },
     "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/": {
       "content_hash": "8b17af270574291b",
       "last_seen": "2026-06-20",
@@ -69,6 +74,11 @@
       "content_hash": "4ece6db2b7268a86",
       "last_seen": "2026-06-18",
       "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch"
+    },
+    "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/": {
+      "content_hash": "bddd7215c3383d9f",
+      "last_seen": "2026-06-23",
+      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance"
     },
     "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/": {
       "content_hash": "705206a476164e65",
@@ -175,6 +185,11 @@
       "last_seen": "2026-06-14",
       "title": "Revised Artemis lunar lander plans take shape"
     },
+    "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/": {
+      "content_hash": "52bb87f5e88a4820",
+      "last_seen": "2026-06-23",
+      "title": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise"
+    },
     "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/": {
       "content_hash": "339dbf373597fefa",
       "last_seen": "2026-06-12",
@@ -245,6 +260,11 @@
       "last_seen": "2026-06-08",
       "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
     },
+    "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/": {
+      "content_hash": "187a5c5ccad2bcc1",
+      "last_seen": "2026-06-23",
+      "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months"
+    },
     "https://the-decoder.com/germanys-national-security-council-greenights-an-ai-safety-institute-modeled-after-the-uks-aisi/": {
       "content_hash": "90f05ca78f509627",
       "last_seen": "2026-06-11",
@@ -264,6 +284,11 @@
       "content_hash": "df84cc01cc36dd5d",
       "last_seen": "2026-06-13",
       "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters"
+    },
+    "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/": {
+      "content_hash": "9e59e21593e8ea0c",
+      "last_seen": "2026-06-23",
+      "title": "Google makes Interactions API the default interface for Gemini models and agents"
     },
     "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/": {
       "content_hash": "4d93060642f67e2c",
@@ -410,6 +435,11 @@
       "last_seen": "2026-06-20",
       "title": "Germany hews EU\u2019s tough China line with call for \u2018Plaza Accord\u2019 talks on yuan"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3357974/us-china-rare-earth-clash-20-fragile-truce-tested-tit-tat-moves-return?utm_source=rss_feed": {
+      "content_hash": "14b79815c087ec4c",
+      "last_seen": "2026-06-23",
+      "title": "US-China rare earth clash 2.0? Fragile truce tested as tit-for-tat moves return"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -495,6 +525,11 @@
       "last_seen": "2026-06-08",
       "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks"
     },
+    "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/": {
+      "content_hash": "1dd7c201bc83f330",
+      "last_seen": "2026-06-23",
+      "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities"
+    },
     "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/": {
       "content_hash": "c3875ecfda291e62",
       "last_seen": "2026-06-21",
@@ -509,6 +544,11 @@
       "content_hash": "5c431c1d3e3efc75",
       "last_seen": "2026-06-13",
       "title": "Gatik to bring autonomous freight to PepsiCo\u2019s North American supply chain"
+    },
+    "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/": {
+      "content_hash": "4c91aa8762a93d3f",
+      "last_seen": "2026-06-23",
+      "title": "How Intrinsic eliminates manual robot coding"
     },
     "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/": {
       "content_hash": "a5db537c513c95ea",
@@ -531,5 +571,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-21T20:38:54.707623+00:00"
+  "updated_at": "2026-06-22T21:07:01.598792+00:00"
 }
