@@ -70,6 +70,11 @@
       "last_seen": "2026-06-19",
       "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch"
     },
+    "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/": {
+      "content_hash": "b3ba6081a3c7f90e",
+      "last_seen": "2026-06-24",
+      "title": "China appears to be developing 7-meter-diameter reusable rockets"
+    },
     "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/": {
       "content_hash": "4ece6db2b7268a86",
       "last_seen": "2026-06-18",
@@ -140,6 +145,11 @@
       "last_seen": "2026-06-17",
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
     },
+    "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/": {
+      "content_hash": "5dfcbc9a739bcbe2",
+      "last_seen": "2026-06-24",
+      "title": "Loft Orbital to test AI models on spacecraft for Earth observation"
+    },
     "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/": {
       "content_hash": "7ab23f029d2fefd7",
       "last_seen": "2026-06-12",
@@ -179,6 +189,11 @@
       "content_hash": "42be96bda22dc156",
       "last_seen": "2026-06-19",
       "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft"
+    },
+    "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/": {
+      "content_hash": "8faa9eed7da96f0d",
+      "last_seen": "2026-06-24",
+      "title": "Report: U.S. needs framework for responding to hostile acts in space"
     },
     "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/": {
       "content_hash": "ea56c386878692c3",
@@ -345,6 +360,11 @@
       "last_seen": "2026-06-10",
       "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing"
     },
+    "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/": {
+      "content_hash": "2057cd3f5b672858",
+      "last_seen": "2026-06-24",
+      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
+    },
     "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/": {
       "content_hash": "43a0dd8b445c3540",
       "last_seen": "2026-06-12",
@@ -465,6 +485,11 @@
       "last_seen": "2026-06-22",
       "title": "Red Hawk rising: how the Z-20 family is plugging China\u2019s chronic defence gaps"
     },
+    "https://www.scmp.com/news/china/military/article/3358058/what-chinas-aircraft-carrier-liaoning-testing-and-why-does-it-matter?utm_source=rss_feed": {
+      "content_hash": "74283e726a10cafa",
+      "last_seen": "2026-06-24",
+      "title": "What is China\u2019s aircraft carrier Liaoning testing \u2013 and why does it matter?"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -505,10 +530,25 @@
       "last_seen": "2026-06-22",
       "title": "China-led team develops AI system to track radar-disrupting space hurricanes"
     },
+    "https://www.scmp.com/news/china/science/article/3358046/chinas-new-super-fuel-could-help-long-march-rockets-increase-payload-10?utm_source=rss_feed": {
+      "content_hash": "cd8a1bb1850ccc8d",
+      "last_seen": "2026-06-24",
+      "title": "China\u2019s new \u2018super fuel\u2019 could help Long March rockets increase payload by 10%"
+    },
+    "https://www.scmp.com/news/china/science/article/3358107/return-top-chinas-lineshine-beats-us-el-capitan-top500-supercomputer-rankings?utm_source=rss_feed": {
+      "content_hash": "494622bbf0a61134",
+      "last_seen": "2026-06-24",
+      "title": "Return to the top: China\u2019s LineShine beats US El Capitan in Top500 supercomputer rankings"
+    },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
       "title": "EU says China trained Russian troops as bloc weighs tougher stance on Beijing"
+    },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed": {
+      "content_hash": "5f5fd6c4a14fff95",
+      "last_seen": "2026-06-24",
+      "title": "China targets US rare earth miners as Pentagon faces restocking rush"
     },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
@@ -571,5 +611,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-22T21:07:01.598792+00:00"
+  "updated_at": "2026-06-23T20:51:00.433077+00:00"
 }
