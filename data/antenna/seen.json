@@ -170,6 +170,11 @@
       "last_seen": "2026-06-20",
       "title": "NASA selects mission to study space weather interaction with Earth\u2019s atmosphere"
     },
+    "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/": {
+      "content_hash": "286aa9488fb570df",
+      "last_seen": "2026-06-25",
+      "title": "NGSO trade association launches without industry giant SpaceX"
+    },
     "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/": {
       "content_hash": "32370232c94c0953",
       "last_seen": "2026-06-09",
@@ -210,10 +215,20 @@
       "last_seen": "2026-06-12",
       "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force"
     },
+    "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/": {
+      "content_hash": "22bc5848dcdf2b58",
+      "last_seen": "2026-06-25",
+      "title": "SpaceX launches secretive Starfall reentry demo mission"
+    },
     "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/": {
       "content_hash": "974045aa28398465",
       "last_seen": "2026-06-17",
       "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking"
+    },
+    "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/": {
+      "content_hash": "c9b3f9d65d0ed5f4",
+      "last_seen": "2026-06-25",
+      "title": "Vast signs additional partners for commercial space station microgravity research"
     },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
@@ -350,10 +365,20 @@
       "last_seen": "2026-06-21",
       "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust"
     },
+    "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/": {
+      "content_hash": "11cf81315c1e2bd4",
+      "last_seen": "2026-06-25",
+      "title": "OpenAI and Broadcom unveil \"Jalape\u00f1o,\" a custom chip built for LLM inference"
+    },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
       "last_seen": "2026-06-08",
       "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
+    },
+    "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/": {
+      "content_hash": "e0fe1c35f69a7b71",
+      "last_seen": "2026-06-25",
+      "title": "OpenAI says ChatGPT Instant now better understands what users actually want"
     },
     "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/": {
       "content_hash": "98943e8eb36baddf",
@@ -389,6 +414,11 @@
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
+    },
+    "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/": {
+      "content_hash": "3c5d53d4197d6e41",
+      "last_seen": "2026-06-25",
+      "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -490,6 +520,11 @@
       "last_seen": "2026-06-24",
       "title": "What is China\u2019s aircraft carrier Liaoning testing \u2013 and why does it matter?"
     },
+    "https://www.scmp.com/news/china/military/article/3358227/plas-advanced-aircraft-carrier-fujian-transits-taiwan-strait-amid-military-drills?utm_source=rss_feed": {
+      "content_hash": "64b48d8f0cd47d5d",
+      "last_seen": "2026-06-25",
+      "title": "PLA\u2019s advanced aircraft carrier Fujian transits Taiwan Strait amid military drills"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -590,6 +625,11 @@
       "last_seen": "2026-06-23",
       "title": "How Intrinsic eliminates manual robot coding"
     },
+    "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/": {
+      "content_hash": "43978b494b2a07f3",
+      "last_seen": "2026-06-25",
+      "title": "Humanoid maker Agility Robotics to go public through SPAC merger"
+    },
     "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/": {
       "content_hash": "a5db537c513c95ea",
       "last_seen": "2026-06-12",
@@ -611,5 +651,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-23T20:51:00.433077+00:00"
+  "updated_at": "2026-06-24T20:41:22.380711+00:00"
 }
