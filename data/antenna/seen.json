@@ -300,6 +300,11 @@
       "last_seen": "2026-06-11",
       "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches"
     },
+    "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/": {
+      "content_hash": "28e258e2026a912f",
+      "last_seen": "2026-06-28",
+      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
+    },
     "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/": {
       "content_hash": "195a7e61d5189534",
       "last_seen": "2026-06-22",
@@ -360,10 +365,20 @@
       "last_seen": "2026-06-11",
       "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word"
     },
+    "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/": {
+      "content_hash": "b9e8c332bdfc23c5",
+      "last_seen": "2026-06-28",
+      "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey"
+    },
     "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/": {
       "content_hash": "531d151c73f20fa2",
       "last_seen": "2026-06-09",
       "title": "Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips"
+    },
+    "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/": {
+      "content_hash": "152578ca7b758fc6",
+      "last_seen": "2026-06-28",
+      "title": "J.P. Morgan sees a pile of red flags in the AI market"
     },
     "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/": {
       "content_hash": "1753e4fbe3e1f1d4",
@@ -464,6 +479,11 @@
       "content_hash": "3c5d53d4197d6e41",
       "last_seen": "2026-06-25",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
+    },
+    "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/": {
+      "content_hash": "c9f089dad47b071d",
+      "last_seen": "2026-06-28",
+      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -575,6 +595,11 @@
       "last_seen": "2026-06-15",
       "title": "Surge in AI-related court cases fuels calls for China to clarify its laws"
     },
+    "https://www.scmp.com/news/china/politics/article/3358586/china-removes-6-generals-legislature-military-anti-corruption-drive-continues?utm_source=rss_feed": {
+      "content_hash": "4c80b6417ccc531e",
+      "last_seen": "2026-06-28",
+      "title": "China removes 6 generals from legislature as military anti-corruption drive continues"
+    },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
       "last_seen": "2026-06-09",
@@ -665,6 +690,11 @@
       "last_seen": "2026-06-26",
       "title": "DeepSeek hiring spree: Chinese AI firm seeks newcomers as it pursues AGI"
     },
+    "https://www.sixthtone.com/news/1018586/china to phase out old power rates in green push": {
+      "content_hash": "22dd93c9a614d243",
+      "last_seen": "2026-06-28",
+      "title": "China to Phase Out Old Power Rates in Green Push"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -696,8 +726,8 @@
       "title": "Gatik to bring autonomous freight to PepsiCo\u2019s North American supply chain"
     },
     "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/": {
-      "content_hash": "6275e4b6da8fd68b",
-      "last_seen": "2026-06-27",
+      "content_hash": "49efb69bd3c02160",
+      "last_seen": "2026-06-28",
       "title": "General Intuition raises $320M to use video game data to train robots"
     },
     "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/": {
@@ -731,5 +761,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-26T20:40:45.128699+00:00"
+  "updated_at": "2026-06-27T20:30:37.329183+00:00"
 }
