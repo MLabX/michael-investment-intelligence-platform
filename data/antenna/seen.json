@@ -320,6 +320,11 @@
       "last_seen": "2026-06-19",
       "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
     },
+    "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/": {
+      "content_hash": "6b2db7787dc77fb4",
+      "last_seen": "2026-06-29",
+      "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test"
+    },
     "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
       "content_hash": "6b0d350b9ceea141",
       "last_seen": "2026-06-12",
@@ -475,6 +480,11 @@
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
     },
+    "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/": {
+      "content_hash": "ee8bea4ebb082205",
+      "last_seen": "2026-06-29",
+      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't"
+    },
     "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/": {
       "content_hash": "3c5d53d4197d6e41",
       "last_seen": "2026-06-25",
@@ -590,6 +600,11 @@
       "last_seen": "2026-06-25",
       "title": "PLA\u2019s advanced aircraft carrier Fujian transits Taiwan Strait amid military drills"
     },
+    "https://www.scmp.com/news/china/military/article/3358646/how-china-shaping-global-competition-sell-air-defence-weapons?utm_source=rss_feed": {
+      "content_hash": "0b9d96c3b140d5ed",
+      "last_seen": "2026-06-29",
+      "title": "How is China shaping up in the global competition to sell air defence weapons?"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -655,6 +670,16 @@
       "last_seen": "2026-06-27",
       "title": "China tests satellite-linked tracking device on China-Europe railway to stop cargo thieves"
     },
+    "https://www.scmp.com/news/china/science/article/3358415/china-leads-gps-style-reconnaissance-and-anti-satellite-abilities-us-report-says?utm_source=rss_feed": {
+      "content_hash": "6ba6e837167a2e8f",
+      "last_seen": "2026-06-29",
+      "title": "China leads in GPS-style, reconnaissance and anti-satellite abilities, US report says"
+    },
+    "https://www.scmp.com/news/china/science/article/3358642/china-fires-worlds-biggest-superconducting-magnet-nuclear-fusion-project?utm_source=rss_feed": {
+      "content_hash": "92e1215dd32c9618",
+      "last_seen": "2026-06-29",
+      "title": "China fires up world\u2019s biggest superconducting magnet for nuclear fusion project"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -704,6 +729,11 @@
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
       "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks"
+    },
+    "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/": {
+      "content_hash": "a1e534ca1a06fcea",
+      "last_seen": "2026-06-29",
+      "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment"
     },
     "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/": {
       "content_hash": "1dd7c201bc83f330",
@@ -761,5 +791,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-27T20:30:37.329183+00:00"
+  "updated_at": "2026-06-28T20:33:08.753114+00:00"
 }
