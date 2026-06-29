@@ -30,6 +30,11 @@
       "last_seen": "2026-06-16",
       "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation"
     },
+    "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/": {
+      "content_hash": "bbdc14ce7fab9c0f",
+      "last_seen": "2026-06-30",
+      "title": "In a bold move, Rocket Lab acquires Iridium Communications"
+    },
     "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/": {
       "content_hash": "18322499b759f636",
       "last_seen": "2026-06-27",
@@ -235,6 +240,11 @@
       "last_seen": "2026-06-23",
       "title": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise"
     },
+    "https://spacenews.com/rocket-lab-to-acquire-iridium/": {
+      "content_hash": "45c720af3d6a3c11",
+      "last_seen": "2026-06-30",
+      "title": "Rocket Lab to acquire Iridium"
+    },
     "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/": {
       "content_hash": "339dbf373597fefa",
       "last_seen": "2026-06-12",
@@ -334,6 +344,11 @@
       "content_hash": "5a2fe75749125f53",
       "last_seen": "2026-06-08",
       "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
+    },
+    "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/": {
+      "content_hash": "0140fd7ce325024f",
+      "last_seen": "2026-06-30",
+      "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe"
     },
     "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/": {
       "content_hash": "187a5c5ccad2bcc1",
@@ -480,6 +495,11 @@
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
     },
+    "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/": {
+      "content_hash": "22adbaec07ac79e3",
+      "last_seen": "2026-06-30",
+      "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring"
+    },
     "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/": {
       "content_hash": "ee8bea4ebb082205",
       "last_seen": "2026-06-29",
@@ -564,6 +584,11 @@
       "content_hash": "14b79815c087ec4c",
       "last_seen": "2026-06-23",
       "title": "US-China rare earth clash 2.0? Fragile truce tested as tit-for-tat moves return"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3358808/eu-sets-october-deadline-tangible-results-china-imbalances-after-key-trade-talks?utm_source=rss_feed": {
+      "content_hash": "f0a23bd56b9f5d46",
+      "last_seen": "2026-06-30",
+      "title": "EU sets October deadline for \u2018tangible results\u2019 on China imbalances after key trade talks"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -680,6 +705,16 @@
       "last_seen": "2026-06-29",
       "title": "China fires up world\u2019s biggest superconducting magnet for nuclear fusion project"
     },
+    "https://www.scmp.com/news/china/science/article/3358738/china-conducts-ground-test-hypersonic-ramjet-can-change-shape-flight?utm_source=rss_feed": {
+      "content_hash": "3892f6f37855d867",
+      "last_seen": "2026-06-30",
+      "title": "China conducts ground test of hypersonic ramjet that can change shape in flight"
+    },
+    "https://www.scmp.com/news/china/science/article/3358789/china-says-desert-moss-suited-mars-it-tests-hi-tech-tools-space-and-astronauts?utm_source=rss_feed": {
+      "content_hash": "fa05bfc6d1374dae",
+      "last_seen": "2026-06-30",
+      "title": "China revives desert moss in space lab as it tests hi-tech tools for future missions"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -791,5 +826,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-28T20:33:08.753114+00:00"
+  "updated_at": "2026-06-29T20:42:33.415786+00:00"
 }
