@@ -210,6 +210,11 @@
       "last_seen": "2026-06-09",
       "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum"
     },
+    "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/": {
+      "content_hash": "1666fdeedf03b8a8",
+      "last_seen": "2026-07-01",
+      "title": "Orbital files plans for 100,000 orbital data centers"
+    },
     "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/": {
       "content_hash": "a250968a29efea3c",
       "last_seen": "2026-06-11",
@@ -254,6 +259,11 @@
       "content_hash": "22bc5848dcdf2b58",
       "last_seen": "2026-06-25",
       "title": "SpaceX launches secretive Starfall reentry demo mission"
+    },
+    "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/": {
+      "content_hash": "e3d3f624e3574a12",
+      "last_seen": "2026-07-01",
+      "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden\u2019s Esrange"
     },
     "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/": {
       "content_hash": "b2c34e9219a607e2",
@@ -345,6 +355,11 @@
       "last_seen": "2026-06-08",
       "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
     },
+    "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/": {
+      "content_hash": "48fa5f30a52fd378",
+      "last_seen": "2026-07-01",
+      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls"
+    },
     "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/": {
       "content_hash": "0140fd7ce325024f",
       "last_seen": "2026-06-30",
@@ -409,6 +424,11 @@
       "content_hash": "79b6f0147bfb7e23",
       "last_seen": "2026-06-27",
       "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit"
+    },
+    "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/": {
+      "content_hash": "ba7f7febf693e9b7",
+      "last_seen": "2026-07-01",
+      "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia"
     },
     "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/": {
       "content_hash": "11ff02d4cf862e7a",
@@ -815,6 +835,11 @@
       "last_seen": "2026-06-17",
       "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
     },
+    "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/": {
+      "content_hash": "ccac03c7c838f21e",
+      "last_seen": "2026-07-01",
+      "title": "Queue raises funding to build fully autonomous pharmacy"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -826,5 +851,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-06-29T20:42:33.415786+00:00"
+  "updated_at": "2026-06-30T20:45:10.966232+00:00"
 }
