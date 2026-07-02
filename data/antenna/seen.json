@@ -55,6 +55,11 @@
       "last_seen": "2026-07-02",
       "title": "Civilian supersonic flights are being legalized in the U.S."
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html?utm_source=rss&utm_medium=rss&utm_campaign=noah-smith-on-negative-emotional-contagion": {
+      "content_hash": "ebc033764aa16ba3",
+      "last_seen": "2026-07-03",
+      "title": "Noah Smith on negative emotional contagion"
+    },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
       "content_hash": "251420b1eff3d469",
       "last_seen": "2026-06-08",
@@ -175,6 +180,11 @@
       "last_seen": "2026-06-10",
       "title": "Isar Aerospace raises 270 million euros for global launch expansion"
     },
+    "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/": {
+      "content_hash": "9e4f98be710220e6",
+      "last_seen": "2026-07-03",
+      "title": "Isar Aerospace to launch German-built Planet imaging satellite"
+    },
     "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/": {
       "content_hash": "c6c7171ed9061e6c",
       "last_seen": "2026-06-12",
@@ -229,6 +239,11 @@
       "content_hash": "a250968a29efea3c",
       "last_seen": "2026-06-11",
       "title": "Orbital raises $5 million to join orbital data center race"
+    },
+    "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/": {
+      "content_hash": "2523de53a1ea7094",
+      "last_seen": "2026-07-03",
+      "title": "Perovskite solar panel startup Verde Technologies shifts focus to space"
     },
     "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/": {
       "content_hash": "453949ad1b6d396d",
@@ -319,6 +334,11 @@
       "content_hash": "c67c7f55dc632ba6",
       "last_seen": "2026-06-08",
       "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs"
+    },
+    "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/": {
+      "content_hash": "5c8c1819796423ed",
+      "last_seen": "2026-07-03",
+      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters"
     },
     "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/": {
       "content_hash": "a09e6eb16df0a5d2",
@@ -450,6 +470,11 @@
       "last_seen": "2026-06-16",
       "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\""
     },
+    "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/": {
+      "content_hash": "16b31c46ad835319",
+      "last_seen": "2026-07-03",
+      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients"
+    },
     "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/": {
       "content_hash": "e670e5596a90aa1a",
       "last_seen": "2026-06-15",
@@ -459,6 +484,11 @@
       "content_hash": "120777599ca198a1",
       "last_seen": "2026-06-17",
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
+    },
+    "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/": {
+      "content_hash": "50535bed02970084",
+      "last_seen": "2026-07-03",
+      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business"
     },
     "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/": {
       "content_hash": "74abc60276e8b619",
@@ -570,6 +600,11 @@
       "last_seen": "2026-06-22",
       "title": "Cross-border biotech deals grow more complex as US targets China investment links"
     },
+    "https://www.scmp.com/business/china-business/article/3359182/china-ai-drug-design-deals-swell-us-scrutiny-mounts?utm_source=rss_feed": {
+      "content_hash": "51720b1925b38e74",
+      "last_seen": "2026-07-03",
+      "title": "China AI drug-design deals swell as US scrutiny mounts"
+    },
     "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed": {
       "content_hash": "b9d7ff6be0492b7c",
       "last_seen": "2026-06-15",
@@ -674,6 +709,11 @@
       "content_hash": "0b9d96c3b140d5ed",
       "last_seen": "2026-06-29",
       "title": "How is China shaping up in the global competition to sell air defence weapons?"
+    },
+    "https://www.scmp.com/news/china/military/article/3359193/could-chinas-containerised-aircraft-launcher-reshape-rules-modern-warfare?utm_source=rss_feed": {
+      "content_hash": "c810bf8d15f2f446",
+      "last_seen": "2026-07-03",
+      "title": "Could China\u2019s containerised aircraft launcher reshape rules of modern warfare?"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -891,5 +931,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-01T20:40:30.832288+00:00"
+  "updated_at": "2026-07-02T20:33:42.350107+00:00"
 }
