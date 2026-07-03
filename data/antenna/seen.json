@@ -55,6 +55,11 @@
       "last_seen": "2026-07-02",
       "title": "Civilian supersonic flights are being legalized in the U.S."
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html?utm_source=rss&utm_medium=rss&utm_campaign=do-falling-birth-rates-boost-per-capita-income": {
+      "content_hash": "e78dc1a7532c7749",
+      "last_seen": "2026-07-04",
+      "title": "Do falling birth rates boost per capita income?"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html?utm_source=rss&utm_medium=rss&utm_campaign=noah-smith-on-negative-emotional-contagion": {
       "content_hash": "ebc033764aa16ba3",
       "last_seen": "2026-07-03",
@@ -119,6 +124,11 @@
       "content_hash": "0a45a71d08a67b77",
       "last_seen": "2026-06-26",
       "title": "China schedules Long March 10B rocket launch and recovery attempt"
+    },
+    "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/": {
+      "content_hash": "16ae2adb2768ca2e",
+      "last_seen": "2026-07-04",
+      "title": "Chinese satellite manufacturer Hongqing raises $191 million"
     },
     "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/": {
       "content_hash": "bddd7215c3383d9f",
@@ -370,6 +380,11 @@
       "last_seen": "2026-06-19",
       "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
     },
+    "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/": {
+      "content_hash": "ce50874bb1472c4d",
+      "last_seen": "2026-07-04",
+      "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific"
+    },
     "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/": {
       "content_hash": "6b2db7787dc77fb4",
       "last_seen": "2026-06-29",
@@ -470,6 +485,11 @@
       "last_seen": "2026-06-16",
       "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\""
     },
+    "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/": {
+      "content_hash": "cb8094232b69d6c2",
+      "last_seen": "2026-07-04",
+      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents"
+    },
     "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/": {
       "content_hash": "16b31c46ad835319",
       "last_seen": "2026-07-03",
@@ -564,6 +584,11 @@
       "content_hash": "22adbaec07ac79e3",
       "last_seen": "2026-06-30",
       "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring"
+    },
+    "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/": {
+      "content_hash": "ac7a89749a62eae3",
+      "last_seen": "2026-07-04",
+      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs"
     },
     "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/": {
       "content_hash": "ee8bea4ebb082205",
@@ -669,6 +694,11 @@
       "content_hash": "6ef416fd2b349934",
       "last_seen": "2026-07-02",
       "title": "China\u2019s Wang Yi warns Marco Rubio to approach Taiwan affairs with \u2018utmost caution\u2019"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3359277/machine-warfare-coming-us-china-urged-address-military-ai-global-rules-stall?utm_source=rss_feed": {
+      "content_hash": "074979f7bd2fa28d",
+      "last_seen": "2026-07-04",
+      "title": "\u2018Machine warfare is coming\u2019: US, China urged to address military AI as global rules stall"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -805,6 +835,11 @@
       "last_seen": "2026-07-02",
       "title": "How do Chinese police track and seize cryptocurrency? Rare paper reveals forensic tools"
     },
+    "https://www.scmp.com/news/china/science/article/3359363/chinas-satellite-engine-smashes-record-leaves-us-rival-far-behind?utm_source=rss_feed": {
+      "content_hash": "5f534c892fc16c6f",
+      "last_seen": "2026-07-04",
+      "title": "China\u2019s satellite engine smashes record, leaves US rival far behind"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -931,5 +966,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-02T20:33:42.350107+00:00"
+  "updated_at": "2026-07-03T21:12:49.271899+00:00"
 }
