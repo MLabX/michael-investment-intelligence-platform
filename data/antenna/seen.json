@@ -340,6 +340,11 @@
       "last_seen": "2026-06-27",
       "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow"
     },
+    "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/": {
+      "content_hash": "fffaed19c99fab9b",
+      "last_seen": "2026-07-05",
+      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable"
+    },
     "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/": {
       "content_hash": "c67c7f55dc632ba6",
       "last_seen": "2026-06-08",
@@ -700,6 +705,16 @@
       "last_seen": "2026-07-04",
       "title": "\u2018Machine warfare is coming\u2019: US, China urged to address military AI as global rules stall"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3359378/chinas-influence-african-ports-extends-software-automation-and-ai-study?utm_source=rss_feed": {
+      "content_hash": "2a4e5bd4a04bdec0",
+      "last_seen": "2026-07-05",
+      "title": "China\u2019s influence on African ports extends to software, automation and AI: study"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3359426/beijing-sends-new-coastguard-force-waters-east-taiwan?utm_source=rss_feed": {
+      "content_hash": "910cedb9fef34cdf",
+      "last_seen": "2026-07-05",
+      "title": "Beijing sends new coastguard force into waters east of Taiwan"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -840,6 +855,16 @@
       "last_seen": "2026-07-04",
       "title": "China\u2019s satellite engine smashes record, leaves US rival far behind"
     },
+    "https://www.scmp.com/news/china/science/article/3359408/chinese-scientists-brain-mimicking-chip-478-times-faster-nvidia-a100-gpu?utm_source=rss_feed": {
+      "content_hash": "b6b1eb2a8daf0a96",
+      "last_seen": "2026-07-05",
+      "title": "Chinese scientists\u2019 brain-mimicking chip \u2018up to 478 times faster than Nvidia A100 GPU\u2019"
+    },
+    "https://www.scmp.com/news/china/science/article/3359430/nobel-prize-winning-materials-scientist-omar-yaghi-joins-tsinghua-university-us?utm_source=rss_feed": {
+      "content_hash": "72b8974cbfcc1e0c",
+      "last_seen": "2026-07-05",
+      "title": "Nobel-winning materials scientist Omar Yaghi joins China\u2019s Tsinghua University from the US"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -966,5 +991,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-03T21:12:49.271899+00:00"
+  "updated_at": "2026-07-04T21:03:16.248599+00:00"
 }
