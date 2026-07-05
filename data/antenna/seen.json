@@ -375,6 +375,11 @@
       "last_seen": "2026-06-22",
       "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps"
     },
+    "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/": {
+      "content_hash": "505dcdb5a5c65aa6",
+      "last_seen": "2026-07-06",
+      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting"
+    },
     "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/": {
       "content_hash": "a13724f8ad509f80",
       "last_seen": "2026-06-10",
@@ -760,6 +765,11 @@
       "last_seen": "2026-07-03",
       "title": "Could China\u2019s containerised aircraft launcher reshape rules of modern warfare?"
     },
+    "https://www.scmp.com/news/china/military/article/3359479/russian-warships-dock-chinese-port-ahead-joint-sea-exercises?utm_source=rss_feed": {
+      "content_hash": "f002158d6b87e559",
+      "last_seen": "2026-07-06",
+      "title": "Russian warships dock in Chinese port ahead of Joint Sea exercises"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -865,6 +875,11 @@
       "last_seen": "2026-07-05",
       "title": "Nobel-winning materials scientist Omar Yaghi joins China\u2019s Tsinghua University from the US"
     },
+    "https://www.scmp.com/news/china/science/article/3359466/chinas-rare-earth-industry-has-critical-weakness-researchers-warn?utm_source=rss_feed": {
+      "content_hash": "18daec6e8a017dce",
+      "last_seen": "2026-07-06",
+      "title": "China\u2019s rare earth industry has critical weakness, researchers warn"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -879,6 +894,11 @@
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
       "title": "EU says China trained Russian troops as bloc weighs tougher stance on Beijing"
+    },
+    "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots?utm_source=rss_feed": {
+      "content_hash": "1102730ddd7420e2",
+      "last_seen": "2026-07-06",
+      "title": "\u2018China shock 3.0\u2019 is coming. And it\u2019ll be AI-powered robots"
     },
     "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed": {
       "content_hash": "5f5fd6c4a14fff95",
@@ -904,6 +924,11 @@
       "content_hash": "22dd93c9a614d243",
       "last_seen": "2026-06-28",
       "title": "China to Phase Out Old Power Rates in Green Push"
+    },
+    "https://www.sixthtone.com/news/1018672/bot for profit: can china\u2019s top ai app convince users to pay?": {
+      "content_hash": "d8c62da537926727",
+      "last_seen": "2026-07-06",
+      "title": "Bot for Profit: Can China\u2019s Top AI App Convince Users to Pay?"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
@@ -955,6 +980,11 @@
       "last_seen": "2026-06-23",
       "title": "How Intrinsic eliminates manual robot coding"
     },
+    "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/": {
+      "content_hash": "cee7420444d8f55f",
+      "last_seen": "2026-07-06",
+      "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity"
+    },
     "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/": {
       "content_hash": "43978b494b2a07f3",
       "last_seen": "2026-06-25",
@@ -991,5 +1021,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-04T21:03:16.248599+00:00"
+  "updated_at": "2026-07-05T21:07:27.854895+00:00"
 }
