@@ -40,6 +40,16 @@
       "last_seen": "2026-06-27",
       "title": "SpaceX plans to launch Starlink mobile service in the US"
     },
+    "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/": {
+      "content_hash": "6c78443017c86932",
+      "last_seen": "2026-07-07",
+      "title": "What is the oldest American object ever launched into space?"
+    },
+    "https://huggingface.co/blog/lerobot-release-v060": {
+      "content_hash": "d855b28642bdbb03",
+      "last_seen": "2026-07-07",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation": {
       "content_hash": "dcf9c2818477825b",
       "last_seen": "2026-06-27",
@@ -75,6 +85,11 @@
       "last_seen": "2026-06-19",
       "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
     },
+    "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/": {
+      "content_hash": "d34a88deb72ea5c4",
+      "last_seen": "2026-07-07",
+      "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight"
+    },
     "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/": {
       "content_hash": "cf39b6ce80ff035a",
       "last_seen": "2026-06-21",
@@ -99,6 +114,11 @@
       "content_hash": "8b17af270574291b",
       "last_seen": "2026-06-20",
       "title": "Austrian propulsion startup joins sovereign space funding surge"
+    },
+    "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/": {
+      "content_hash": "30718aaf57c2025d",
+      "last_seen": "2026-07-07",
+      "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion"
     },
     "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/": {
       "content_hash": "1b6abaf0aa3bf602",
@@ -885,6 +905,11 @@
       "last_seen": "2026-06-26",
       "title": "US hearing warns Chinese economic espionage now targets AI"
     },
+    "https://www.scmp.com/news/us/article/3359646/trump-hints-public-contribution-us-ai-firms?utm_source=rss_feed": {
+      "content_hash": "cf32e254366664a9",
+      "last_seen": "2026-07-07",
+      "title": "Trump hints at public \u2018contribution\u2019 from US AI firms, sparking speculation"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -894,6 +919,11 @@
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
       "title": "EU says China trained Russian troops as bloc weighs tougher stance on Beijing"
+    },
+    "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions?utm_source=rss_feed": {
+      "content_hash": "1a60545f77e706f3",
+      "last_seen": "2026-07-07",
+      "title": "Canada picks German company to build new submarine fleet in deal worth billions"
     },
     "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots?utm_source=rss_feed": {
       "content_hash": "1102730ddd7420e2",
@@ -955,6 +985,11 @@
       "last_seen": "2026-06-23",
       "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities"
     },
+    "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/": {
+      "content_hash": "5891f7a197b96220",
+      "last_seen": "2026-07-07",
+      "title": "Boston Dynamics brings its legged robots to the FIFA World Cup"
+    },
     "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/": {
       "content_hash": "c3875ecfda291e62",
       "last_seen": "2026-06-21",
@@ -1000,6 +1035,11 @@
       "last_seen": "2026-06-12",
       "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research"
     },
+    "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/": {
+      "content_hash": "994588edcfc67ba3",
+      "last_seen": "2026-07-07",
+      "title": "Kraken Robotics acquires Covelya Group for $615M"
+    },
     "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
       "content_hash": "f63b26092cbdf81e",
       "last_seen": "2026-06-17",
@@ -1021,5 +1061,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-05T21:07:27.854895+00:00"
+  "updated_at": "2026-07-06T21:40:11.514980+00:00"
 }
