@@ -15,6 +15,11 @@
       "last_seen": "2026-06-13",
       "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers"
     },
+    "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/": {
+      "content_hash": "059d653f27f10968",
+      "last_seen": "2026-07-08",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -89,6 +94,11 @@
       "content_hash": "d34a88deb72ea5c4",
       "last_seen": "2026-07-07",
       "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight"
+    },
+    "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/": {
+      "content_hash": "e18f34a2028c4dde",
+      "last_seen": "2026-07-08",
+      "title": "Apolink makes contact with first relay satellite"
     },
     "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/": {
       "content_hash": "cf39b6ce80ff035a",
@@ -315,6 +325,11 @@
       "last_seen": "2026-06-25",
       "title": "SpaceX launches secretive Starfall reentry demo mission"
     },
+    "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/": {
+      "content_hash": "77e024415a9511ce",
+      "last_seen": "2026-07-08",
+      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs"
+    },
     "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/": {
       "content_hash": "e3d3f624e3574a12",
       "last_seen": "2026-07-01",
@@ -410,6 +425,11 @@
       "last_seen": "2026-06-19",
       "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
     },
+    "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/": {
+      "content_hash": "40ac58f830e9d0fc",
+      "last_seen": "2026-07-08",
+      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
     "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/": {
       "content_hash": "ce50874bb1472c4d",
       "last_seen": "2026-07-04",
@@ -419,6 +439,11 @@
       "content_hash": "6b2db7787dc77fb4",
       "last_seen": "2026-06-29",
       "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test"
+    },
+    "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/": {
+      "content_hash": "033d96431d3041c6",
+      "last_seen": "2026-07-08",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs"
     },
     "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
       "content_hash": "6b0d350b9ceea141",
@@ -790,6 +815,11 @@
       "last_seen": "2026-07-06",
       "title": "Russian warships dock in Chinese port ahead of Joint Sea exercises"
     },
+    "https://www.scmp.com/news/china/military/article/3359762/what-does-chinas-submarine-missile-test-mean-its-nuclear-triad-expansion?utm_source=rss_feed": {
+      "content_hash": "08457915c6edf387",
+      "last_seen": "2026-07-08",
+      "title": "What does China\u2019s submarine missile test mean for its nuclear triad expansion?"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -909,6 +939,11 @@
       "content_hash": "cf32e254366664a9",
       "last_seen": "2026-07-07",
       "title": "Trump hints at public \u2018contribution\u2019 from US AI firms, sparking speculation"
+    },
+    "https://www.scmp.com/news/us/article/3359775/nato-launches-defence-projects-counter-russia-and-china?utm_source=rss_feed": {
+      "content_hash": "c1e0747f539b58f9",
+      "last_seen": "2026-07-08",
+      "title": "Nato launches defence projects to counter Russia and China"
     },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
@@ -1055,11 +1090,16 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/": {
+      "content_hash": "fcd43153ab980039",
+      "last_seen": "2026-07-08",
+      "title": "Tesollo initiates IPO process while developing humanoid hands"
+    },
     "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/": {
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-06T21:40:11.514980+00:00"
+  "updated_at": "2026-07-07T21:28:16.308857+00:00"
 }
