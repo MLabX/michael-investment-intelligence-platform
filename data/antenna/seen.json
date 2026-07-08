@@ -45,6 +45,16 @@
       "last_seen": "2026-06-27",
       "title": "SpaceX plans to launch Starlink mobile service in the US"
     },
+    "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/": {
+      "content_hash": "0f3e30a5aaab43a6",
+      "last_seen": "2026-07-09",
+      "title": "Blue Origin, for the first time, is expected to raise private capital"
+    },
+    "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/": {
+      "content_hash": "8fd47f0a5c14792a",
+      "last_seen": "2026-07-09",
+      "title": "Miami-based City Labs achieves a first for commercial nuclear power in space"
+    },
     "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/": {
       "content_hash": "6c78443017c86932",
       "last_seen": "2026-07-07",
@@ -350,6 +360,11 @@
       "last_seen": "2026-06-25",
       "title": "Vast signs additional partners for commercial space station microgravity research"
     },
+    "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/": {
+      "content_hash": "e1991db659740ad8",
+      "last_seen": "2026-07-09",
+      "title": "Venus Aerospace raises $91 million to scale rocket engine technology"
+    },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
       "last_seen": "2026-06-14",
@@ -560,6 +575,11 @@
       "last_seen": "2026-06-17",
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
     },
+    "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/": {
+      "content_hash": "b01f94b7f00a5114",
+      "last_seen": "2026-07-09",
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
+    },
     "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/": {
       "content_hash": "50535bed02970084",
       "last_seen": "2026-07-03",
@@ -695,6 +715,11 @@
       "last_seen": "2026-06-14",
       "title": "Huawei is considering deploying Ascend AI chips in Latin America, cloud chief says"
     },
+    "https://www.scmp.com/news/china/article/3359901/anthropic-hits-back-after-china-warns-claude-code-backdoor-risks?utm_source=rss_feed": {
+      "content_hash": "b14dabf84325ce34",
+      "last_seen": "2026-07-09",
+      "title": "Anthropic hits back after China warns of Claude Code \u2018backdoor\u2019 risks"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -829,6 +854,11 @@
       "content_hash": "4c80b6417ccc531e",
       "last_seen": "2026-06-28",
       "title": "China removes 6 generals from legislature as military anti-corruption drive continues"
+    },
+    "https://www.scmp.com/news/china/politics/article/3359886/chinas-xi-jinping-calls-innovation-system-overhaul-beat-global-tech-rivals?utm_source=rss_feed": {
+      "content_hash": "9939fa4a82ec1c7d",
+      "last_seen": "2026-07-09",
+      "title": "China\u2019s Xi Jinping calls for innovation system overhaul to beat global tech rivals"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -1101,5 +1131,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-07T21:28:16.308857+00:00"
+  "updated_at": "2026-07-08T21:12:48.883594+00:00"
 }
