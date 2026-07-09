@@ -20,6 +20,11 @@
       "last_seen": "2026-07-08",
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips"
     },
+    "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/": {
+      "content_hash": "1c573c11ce630a80",
+      "last_seen": "2026-07-10",
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -144,6 +149,11 @@
       "content_hash": "1b6abaf0aa3bf602",
       "last_seen": "2026-07-02",
       "title": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight"
+    },
+    "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/": {
+      "content_hash": "7d81abf52e4fd5bb",
+      "last_seen": "2026-07-10",
+      "title": "Blue Origin seeks to raise $10 billion in outside capital"
     },
     "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/": {
       "content_hash": "3edbc0457a84ba78",
@@ -330,6 +340,11 @@
       "last_seen": "2026-06-12",
       "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force"
     },
+    "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/": {
+      "content_hash": "b201e44abfa17417",
+      "last_seen": "2026-07-10",
+      "title": "Space Force awards Pulse Space $40 million to advance laser power technology"
+    },
     "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/": {
       "content_hash": "22bc5848dcdf2b58",
       "last_seen": "2026-06-25",
@@ -349,6 +364,11 @@
       "content_hash": "b2c34e9219a607e2",
       "last_seen": "2026-06-27",
       "title": "Starlink veterans launch startup to broaden megaconstellation ownership"
+    },
+    "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/": {
+      "content_hash": "22ec9402e6888dc2",
+      "last_seen": "2026-07-10",
+      "title": "The Exploration Company establishes US entity to pursue government contracts"
     },
     "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/": {
       "content_hash": "974045aa28398465",
@@ -960,6 +980,16 @@
       "last_seen": "2026-07-06",
       "title": "China\u2019s rare earth industry has critical weakness, researchers warn"
     },
+    "https://www.scmp.com/news/china/science/article/3359945/meet-biomni-free-powerful-biomed-ai-agent-turning-data-hypotheses?utm_source=rss_feed": {
+      "content_hash": "86135dcc37453ec1",
+      "last_seen": "2026-07-10",
+      "title": "Meet Biomni: the free powerful biomed AI agent turning data into hypotheses"
+    },
+    "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal?utm_source=rss_feed": {
+      "content_hash": "703496a8e53d85b6",
+      "last_seen": "2026-07-10",
+      "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts of power"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -995,6 +1025,11 @@
       "last_seen": "2026-07-06",
       "title": "\u2018China shock 3.0\u2019 is coming. And it\u2019ll be AI-powered robots"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3359746/us-china-ai-war-boils-down-contest-over-electricity?utm_source=rss_feed": {
+      "content_hash": "de62361c51136291",
+      "last_seen": "2026-07-10",
+      "title": "US-China AI war boils down to a contest over electricity"
+    },
     "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed": {
       "content_hash": "5f5fd6c4a14fff95",
       "last_seen": "2026-06-24",
@@ -1029,6 +1064,11 @@
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
       "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs"
+    },
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/": {
+      "content_hash": "08f0afcc2e5aeb63",
+      "last_seen": "2026-07-10",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -1131,5 +1171,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-08T21:12:48.883594+00:00"
+  "updated_at": "2026-07-09T21:26:25.674096+00:00"
 }
