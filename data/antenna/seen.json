@@ -165,6 +165,11 @@
       "last_seen": "2026-06-24",
       "title": "China appears to be developing 7-meter-diameter reusable rockets"
     },
+    "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/": {
+      "content_hash": "8d4e0fc5b8245af1",
+      "last_seen": "2026-07-11",
+      "title": "China becomes second country to recover orbital booster with Long March 10B"
+    },
     "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/": {
       "content_hash": "4ece6db2b7268a86",
       "last_seen": "2026-06-18",
@@ -174,6 +179,11 @@
       "content_hash": "0a45a71d08a67b77",
       "last_seen": "2026-06-26",
       "title": "China schedules Long March 10B rocket launch and recovery attempt"
+    },
+    "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/": {
+      "content_hash": "bc2355889eb10962",
+      "last_seen": "2026-07-11",
+      "title": "China unveils members of state-backed commercial space consortium"
     },
     "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/": {
       "content_hash": "16ae2adb2768ca2e",
@@ -364,6 +374,11 @@
       "content_hash": "b2c34e9219a607e2",
       "last_seen": "2026-06-27",
       "title": "Starlink veterans launch startup to broaden megaconstellation ownership"
+    },
+    "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/": {
+      "content_hash": "86d82117d51c9829",
+      "last_seen": "2026-07-11",
+      "title": "Startup testing nuclear battery technology in orbit"
     },
     "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/": {
       "content_hash": "22ec9402e6888dc2",
@@ -660,6 +675,11 @@
       "last_seen": "2026-06-27",
       "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\""
     },
+    "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/": {
+      "content_hash": "86f597e7bdce16c3",
+      "last_seen": "2026-07-11",
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\""
+    },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
@@ -699,6 +719,11 @@
       "content_hash": "69c49027fb191862",
       "last_seen": "2026-07-02",
       "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
+    },
+    "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/": {
+      "content_hash": "391db9f854d49a82",
+      "last_seen": "2026-07-11",
+      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
     },
     "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/": {
       "content_hash": "c9f089dad47b071d",
@@ -1005,6 +1030,11 @@
       "last_seen": "2026-07-08",
       "title": "Nato launches defence projects to counter Russia and China"
     },
+    "https://www.scmp.com/news/us/article/3360192/renewed-us-china-ai-dialogue-serves-american-security-interests-former-officials?utm_source=rss_feed": {
+      "content_hash": "a9443b867571f8c9",
+      "last_seen": "2026-07-11",
+      "title": "Renewed US-China AI dialogue serves American security interests: former officials"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -1079,6 +1109,11 @@
       "content_hash": "a1e534ca1a06fcea",
       "last_seen": "2026-06-29",
       "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment"
+    },
+    "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/": {
+      "content_hash": "5d99658f94c08c8f",
+      "last_seen": "2026-07-11",
+      "title": "AI\u00b2 Robotics raises $735M at $3B valuation for wheeled humanoid robots"
     },
     "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/": {
       "content_hash": "66d86bb1810db77c",
@@ -1171,5 +1206,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-09T21:26:25.674096+00:00"
+  "updated_at": "2026-07-10T21:10:03.427473+00:00"
 }
