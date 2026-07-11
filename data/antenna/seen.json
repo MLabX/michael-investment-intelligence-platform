@@ -215,6 +215,11 @@
       "last_seen": "2026-06-18",
       "title": "Dawn Aerospace raises $25 million"
     },
+    "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/": {
+      "content_hash": "73d9cf0577c676b3",
+      "last_seen": "2026-07-12",
+      "title": "FCC approves first Reflect Orbital satellite"
+    },
     "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/": {
       "content_hash": "8535bdd3ad20fe68",
       "last_seen": "2026-06-09",
@@ -455,6 +460,11 @@
       "last_seen": "2026-06-28",
       "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
     },
+    "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/": {
+      "content_hash": "d960ac2696003ed7",
+      "last_seen": "2026-07-12",
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
+    },
     "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/": {
       "content_hash": "195a7e61d5189534",
       "last_seen": "2026-06-22",
@@ -479,6 +489,11 @@
       "content_hash": "40ac58f830e9d0fc",
       "last_seen": "2026-07-08",
       "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
+    "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/": {
+      "content_hash": "c50a622db10b3cd2",
+      "last_seen": "2026-07-12",
+      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label"
     },
     "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/": {
       "content_hash": "ce50874bb1472c4d",
@@ -680,6 +695,11 @@
       "last_seen": "2026-07-11",
       "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\""
     },
+    "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/": {
+      "content_hash": "8d635eb504459481",
+      "last_seen": "2026-07-12",
+      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour"
+    },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
@@ -724,6 +744,11 @@
       "content_hash": "391db9f854d49a82",
       "last_seen": "2026-07-11",
       "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
+    },
+    "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/": {
+      "content_hash": "6852da6c02eae96f",
+      "last_seen": "2026-07-12",
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development"
     },
     "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/": {
       "content_hash": "c9f089dad47b071d",
@@ -834,6 +859,11 @@
       "content_hash": "910cedb9fef34cdf",
       "last_seen": "2026-07-05",
       "title": "Beijing sends new coastguard force into waters east of Taiwan"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3360235/formal-china-us-g2-framework-key-guarantee-world-peace-top-beijing-adviser?utm_source=rss_feed": {
+      "content_hash": "5e495fbda29b0a8e",
+      "last_seen": "2026-07-12",
+      "title": "Formal China-US G2 framework key to \u2018guarantee\u2019 world peace: top Beijing adviser"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -1014,6 +1044,16 @@
       "content_hash": "703496a8e53d85b6",
       "last_seen": "2026-07-10",
       "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts of power"
+    },
+    "https://www.scmp.com/news/china/science/article/3360202/chinese-teams-wearable-dopamine-patch-could-be-used-track-depression-parkinsons?utm_source=rss_feed": {
+      "content_hash": "c91b7f213c0ba5fa",
+      "last_seen": "2026-07-12",
+      "title": "Chinese team\u2019s wearable dopamine patch could be used to track depression, Parkinson\u2019s"
+    },
+    "https://www.scmp.com/news/china/science/article/3360231/chinas-long-march-10b-rocket-feat-lights-social-media-spacex-set-lose-crown?utm_source=rss_feed": {
+      "content_hash": "c70f3ca8a34451f6",
+      "last_seen": "2026-07-12",
+      "title": "China\u2019s Long March-10B rocket feat lights up social media: is SpaceX set to lose crown?"
     },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
@@ -1206,5 +1246,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-10T21:10:03.427473+00:00"
+  "updated_at": "2026-07-11T20:55:57.215090+00:00"
 }
