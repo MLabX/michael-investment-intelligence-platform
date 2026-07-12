@@ -495,6 +495,11 @@
       "last_seen": "2026-07-12",
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label"
     },
+    "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/": {
+      "content_hash": "21d2c34ed7b02b0a",
+      "last_seen": "2026-07-13",
+      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites"
+    },
     "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/": {
       "content_hash": "ce50874bb1472c4d",
       "last_seen": "2026-07-04",
@@ -655,6 +660,11 @@
       "last_seen": "2026-06-25",
       "title": "OpenAI and Broadcom unveil \"Jalape\u00f1o,\" a custom chip built for LLM inference"
     },
+    "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/": {
+      "content_hash": "8f409b78a29d98be",
+      "last_seen": "2026-07-13",
+      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs"
+    },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
       "last_seen": "2026-06-08",
@@ -734,6 +744,11 @@
       "content_hash": "3c5d53d4197d6e41",
       "last_seen": "2026-06-25",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
+    },
+    "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/": {
+      "content_hash": "52b290e0529afc7c",
+      "last_seen": "2026-07-13",
+      "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating"
     },
     "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/": {
       "content_hash": "69c49027fb191862",
@@ -920,6 +935,11 @@
       "last_seen": "2026-07-08",
       "title": "What does China\u2019s submarine missile test mean for its nuclear triad expansion?"
     },
+    "https://www.scmp.com/news/china/military/article/3360170/what-does-chinas-j-16-fighter-jet-beast-mode-mean-pla-air-force-patrols?utm_source=rss_feed": {
+      "content_hash": "79e6375bc770861f",
+      "last_seen": "2026-07-13",
+      "title": "What does China\u2019s J-16 fighter jet in \u2018beast mode\u2019 mean for PLA Air Force patrols?"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -1039,6 +1059,11 @@
       "content_hash": "86135dcc37453ec1",
       "last_seen": "2026-07-10",
       "title": "Meet Biomni: the free powerful biomed AI agent turning data into hypotheses"
+    },
+    "https://www.scmp.com/news/china/science/article/3359998/could-chinas-lunar-laser-tower-bring-nikola-teslas-free-energy-dream-life?utm_source=rss_feed": {
+      "content_hash": "1ae3e5e7c0662979",
+      "last_seen": "2026-07-13",
+      "title": "Could China\u2019s lunar laser tower bring Nikola Tesla\u2019s free energy dream to life?"
     },
     "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal?utm_source=rss_feed": {
       "content_hash": "703496a8e53d85b6",
@@ -1246,5 +1271,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-11T20:55:57.215090+00:00"
+  "updated_at": "2026-07-12T20:56:05.768626+00:00"
 }
