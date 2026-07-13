@@ -65,6 +65,11 @@
       "last_seen": "2026-07-07",
       "title": "What is the oldest American object ever launched into space?"
     },
+    "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/": {
+      "content_hash": "08044e2ffd248193",
+      "last_seen": "2026-07-14",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -330,6 +335,11 @@
       "last_seen": "2026-06-19",
       "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft"
     },
+    "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/": {
+      "content_hash": "e3efc67f818d4f12",
+      "last_seen": "2026-07-14",
+      "title": "Reditus Space completes first reentry vehicle"
+    },
     "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/": {
       "content_hash": "8faa9eed7da96f0d",
       "last_seen": "2026-06-24",
@@ -404,6 +414,11 @@
       "content_hash": "e1991db659740ad8",
       "last_seen": "2026-07-09",
       "title": "Venus Aerospace raises $91 million to scale rocket engine technology"
+    },
+    "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/": {
+      "content_hash": "d65c14e976dabb14",
+      "last_seen": "2026-07-14",
+      "title": "Voyager completes acquisition of Astrobotic"
     },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
@@ -635,6 +650,11 @@
       "last_seen": "2026-07-09",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
     },
+    "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/": {
+      "content_hash": "f499961043554c59",
+      "last_seen": "2026-07-14",
+      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast"
+    },
     "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/": {
       "content_hash": "50535bed02970084",
       "last_seen": "2026-07-03",
@@ -789,6 +809,11 @@
       "content_hash": "51720b1925b38e74",
       "last_seen": "2026-07-03",
       "title": "China AI drug-design deals swell as US scrutiny mounts"
+    },
+    "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed": {
+      "content_hash": "de5a620e4eecfcba",
+      "last_seen": "2026-07-14",
+      "title": "China\u2019s drug industry pivots to AI-powered candidates to drive next wave of deals"
     },
     "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed": {
       "content_hash": "b9d7ff6be0492b7c",
@@ -1080,6 +1105,11 @@
       "last_seen": "2026-07-12",
       "title": "China\u2019s Long March-10B rocket feat lights up social media: is SpaceX set to lose crown?"
     },
+    "https://www.scmp.com/news/china/science/article/3360328/chinas-optical-chip-breakthrough-boosts-ai-speed-100-fold-using-fraction-compute-power?utm_source=rss_feed": {
+      "content_hash": "7fe63d40bd869117",
+      "last_seen": "2026-07-14",
+      "title": "China\u2019s optical chip breakthrough boosts AI speed 100-fold using fraction of compute power"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -1099,6 +1129,11 @@
       "content_hash": "a9443b867571f8c9",
       "last_seen": "2026-07-11",
       "title": "Renewed US-China AI dialogue serves American security interests: former officials"
+    },
+    "https://www.scmp.com/news/us/article/3360433/lindsey-grahams-death-removes-one-washingtons-most-influential-china-hawks?utm_source=rss_feed": {
+      "content_hash": "ab02706f993d7a1a",
+      "last_seen": "2026-07-14",
+      "title": "Lindsey Graham\u2019s death removes one of Washington\u2019s most influential China hawks"
     },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
@@ -1134,6 +1169,11 @@
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
       "title": "China\u2019s new battery tech set to turbocharge EVs, energy storage"
+    },
+    "https://www.scmp.com/plus/news/china/science/article/3360369/china-joins-us-reusable-orbital-rocket-capability?utm_source=rss_feed": {
+      "content_hash": "367cb1ace4ba289d",
+      "last_seen": "2026-07-14",
+      "title": "China joins US in reusable orbital rocket capability"
     },
     "https://www.scmp.com/plus/tech/tech-war/article/3358319/could-chinas-photonic-chips-help-it-leapfrog-us-ai?utm_source=rss_feed": {
       "content_hash": "efaad14d698578ce",
@@ -1271,5 +1311,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-12T20:56:05.768626+00:00"
+  "updated_at": "2026-07-13T21:00:53.669947+00:00"
 }
