@@ -25,6 +25,11 @@
       "last_seen": "2026-07-10",
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs"
     },
+    "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/": {
+      "content_hash": "24c57e9bc28c8109",
+      "last_seen": "2026-07-15",
+      "title": "US military sent explosive drone boats into combat for the first time"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -69,6 +74,11 @@
       "content_hash": "08044e2ffd248193",
       "last_seen": "2026-07-14",
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets"
+    },
+    "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/": {
+      "content_hash": "7a38c31387339ced",
+      "last_seen": "2026-07-15",
+      "title": "New York bans data center construction for a year, rattling AI industry"
     },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
@@ -405,6 +415,11 @@
       "last_seen": "2026-06-17",
       "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking"
     },
+    "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/": {
+      "content_hash": "5d30ebc5a955ecb2",
+      "last_seen": "2026-07-15",
+      "title": "U.K. government preparing to release new space strategy"
+    },
     "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/": {
       "content_hash": "c9b3f9d65d0ed5f4",
       "last_seen": "2026-06-25",
@@ -495,6 +510,11 @@
       "last_seen": "2026-06-10",
       "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers"
     },
+    "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/": {
+      "content_hash": "a8040b95cd4c13d1",
+      "last_seen": "2026-07-15",
+      "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots"
+    },
     "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/": {
       "content_hash": "a91129d1501039b0",
       "last_seen": "2026-06-19",
@@ -534,6 +554,11 @@
       "content_hash": "6b0d350b9ceea141",
       "last_seen": "2026-06-12",
       "title": "Dario Amodei's new essay reads like a Cold War playbook for the AI age"
+    },
+    "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/": {
+      "content_hash": "060f85b7bdaed474",
+      "last_seen": "2026-07-15",
+      "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now"
     },
     "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/": {
       "content_hash": "5a2fe75749125f53",
@@ -905,6 +930,16 @@
       "last_seen": "2026-07-12",
       "title": "Formal China-US G2 framework key to \u2018guarantee\u2019 world peace: top Beijing adviser"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3360556/eu-signals-emergency-import-curbs-after-dramatic-surge-chinese-trade-gap?utm_source=rss_feed": {
+      "content_hash": "14def973c0208068",
+      "last_seen": "2026-07-15",
+      "title": "EU signals emergency import curbs after dramatic growth in Chinese trade gap"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals?utm_source=rss_feed": {
+      "content_hash": "bfb4f99138358b65",
+      "last_seen": "2026-07-15",
+      "title": "US says Nvidia\u2019s H200 exports to China remain \u2018trivial\u2019 despite approvals"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1110,6 +1145,11 @@
       "last_seen": "2026-07-14",
       "title": "China\u2019s optical chip breakthrough boosts AI speed 100-fold using fraction of compute power"
     },
+    "https://www.scmp.com/news/china/science/article/3360553/china-used-giant-net-land-reusable-rocket-does-idea-have-legs?utm_source=rss_feed": {
+      "content_hash": "001493477d6aa4df",
+      "last_seen": "2026-07-15",
+      "title": "China used a giant net to land a reusable rocket. Does the idea have legs?"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -1311,5 +1351,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-13T21:00:53.669947+00:00"
+  "updated_at": "2026-07-14T21:04:15.025570+00:00"
 }
