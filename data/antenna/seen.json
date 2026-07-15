@@ -370,6 +370,11 @@
       "last_seen": "2026-06-30",
       "title": "Rocket Lab to acquire Iridium"
     },
+    "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/": {
+      "content_hash": "22a4cede628635ad",
+      "last_seen": "2026-07-16",
+      "title": "Satellite investment sets annual record halfway through 2026"
+    },
     "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/": {
       "content_hash": "339dbf373597fefa",
       "last_seen": "2026-06-12",
@@ -379,6 +384,11 @@
       "content_hash": "b201e44abfa17417",
       "last_seen": "2026-07-10",
       "title": "Space Force awards Pulse Space $40 million to advance laser power technology"
+    },
+    "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/": {
+      "content_hash": "086271f2258b3a0d",
+      "last_seen": "2026-07-16",
+      "title": "Space Force awards Slingshot $69 million for AI-enabled training technology"
     },
     "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/": {
       "content_hash": "22bc5848dcdf2b58",
@@ -610,6 +620,11 @@
       "last_seen": "2026-06-11",
       "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word"
     },
+    "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/": {
+      "content_hash": "93b696a5e84f4acb",
+      "last_seen": "2026-07-16",
+      "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it"
+    },
     "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/": {
       "content_hash": "b9e8c332bdfc23c5",
       "last_seen": "2026-06-28",
@@ -709,6 +724,11 @@
       "content_hash": "8f409b78a29d98be",
       "last_seen": "2026-07-13",
       "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs"
+    },
+    "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/": {
+      "content_hash": "45b37c9560452fde",
+      "last_seen": "2026-07-16",
+      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -940,6 +960,11 @@
       "last_seen": "2026-07-15",
       "title": "US says Nvidia\u2019s H200 exports to China remain \u2018trivial\u2019 despite approvals"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3360723/eu-accuses-china-seeking-reshape-global-order-stark-new-strategy-paper?utm_source=rss_feed": {
+      "content_hash": "36044681e672581b",
+      "last_seen": "2026-07-16",
+      "title": "EU accuses China of seeking to reshape global order in stark new strategy paper"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1145,10 +1170,20 @@
       "last_seen": "2026-07-14",
       "title": "China\u2019s optical chip breakthrough boosts AI speed 100-fold using fraction of compute power"
     },
+    "https://www.scmp.com/news/china/science/article/3360516/will-ai-kill-english-classes-chinese-university-drop-them-tech-booms?utm_source=rss_feed": {
+      "content_hash": "c531ab912224e10f",
+      "last_seen": "2026-07-16",
+      "title": "Will AI kill English classes? Chinese university to drop them as tech booms"
+    },
     "https://www.scmp.com/news/china/science/article/3360553/china-used-giant-net-land-reusable-rocket-does-idea-have-legs?utm_source=rss_feed": {
       "content_hash": "001493477d6aa4df",
       "last_seen": "2026-07-15",
       "title": "China used a giant net to land a reusable rocket. Does the idea have legs?"
+    },
+    "https://www.scmp.com/news/china/science/article/3360682/why-us-china-space-race-could-come-down-thin-metal-cap?utm_source=rss_feed": {
+      "content_hash": "de2d78f9065d66fe",
+      "last_seen": "2026-07-16",
+      "title": "Why the US-China space race could come down to a thin metal cap"
     },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
@@ -1345,11 +1380,16 @@
       "last_seen": "2026-07-08",
       "title": "Tesollo initiates IPO process while developing humanoid hands"
     },
+    "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/": {
+      "content_hash": "a17d2490db68608c",
+      "last_seen": "2026-07-16",
+      "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots"
+    },
     "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/": {
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-14T21:04:15.025570+00:00"
+  "updated_at": "2026-07-15T21:04:27.098227+00:00"
 }
