@@ -20,6 +20,11 @@
       "last_seen": "2026-07-08",
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips"
     },
+    "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/": {
+      "content_hash": "41ecf94cf1f0642b",
+      "last_seen": "2026-07-17",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory"
+    },
     "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/": {
       "content_hash": "1c573c11ce630a80",
       "last_seen": "2026-07-10",
@@ -104,6 +109,11 @@
       "content_hash": "e78dc1a7532c7749",
       "last_seen": "2026-07-04",
       "title": "Do falling birth rates boost per capita income?"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai": {
+      "content_hash": "2bae9476036a779c",
+      "last_seen": "2026-07-17",
+      "title": "Governing agentic AI"
     },
     "https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html?utm_source=rss&utm_medium=rss&utm_campaign=noah-smith-on-negative-emotional-contagion": {
       "content_hash": "ebc033764aa16ba3",
@@ -230,6 +240,11 @@
       "last_seen": "2026-06-18",
       "title": "Dawn Aerospace raises $25 million"
     },
+    "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/": {
+      "content_hash": "d5158863c097a74d",
+      "last_seen": "2026-07-17",
+      "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit"
+    },
     "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/": {
       "content_hash": "73d9cf0577c676b3",
       "last_seen": "2026-07-12",
@@ -310,6 +325,11 @@
       "last_seen": "2026-06-20",
       "title": "NASA selects mission to study space weather interaction with Earth\u2019s atmosphere"
     },
+    "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/": {
+      "content_hash": "640a5e1af695e8f5",
+      "last_seen": "2026-07-17",
+      "title": "Nature study identifies a new way to spot nuclear weapons in orbit"
+    },
     "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/": {
       "content_hash": "286aa9488fb570df",
       "last_seen": "2026-06-25",
@@ -389,6 +409,11 @@
       "content_hash": "086271f2258b3a0d",
       "last_seen": "2026-07-16",
       "title": "Space Force awards Slingshot $69 million for AI-enabled training technology"
+    },
+    "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/": {
+      "content_hash": "e26d71de27c98fe0",
+      "last_seen": "2026-07-17",
+      "title": "SpaceX launches 21 satellites for military data network"
     },
     "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/": {
       "content_hash": "22bc5848dcdf2b58",
@@ -639,6 +664,11 @@
       "content_hash": "152578ca7b758fc6",
       "last_seen": "2026-06-28",
       "title": "J.P. Morgan sees a pile of red flags in the AI market"
+    },
+    "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/": {
+      "content_hash": "6dd556797626cf37",
+      "last_seen": "2026-07-17",
+      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI"
     },
     "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/": {
       "content_hash": "1753e4fbe3e1f1d4",
@@ -1210,6 +1240,11 @@
       "last_seen": "2026-07-14",
       "title": "Lindsey Graham\u2019s death removes one of Washington\u2019s most influential China hawks"
     },
+    "https://www.scmp.com/news/us/article/3360846/beijing-denounces-us-chip-curbs-threat-global-supply-chains?utm_source=rss_feed": {
+      "content_hash": "eaad402f4d8da1a1",
+      "last_seen": "2026-07-17",
+      "title": "Beijing denounces US chip curbs as threat to global supply chains"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -1375,6 +1410,11 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/": {
+      "content_hash": "d41eda7b2fc6b706",
+      "last_seen": "2026-07-17",
+      "title": "TerraFirma raises $115M to build robotic infrastructure for construction"
+    },
     "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/": {
       "content_hash": "fcd43153ab980039",
       "last_seen": "2026-07-08",
@@ -1391,5 +1431,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-15T21:04:27.098227+00:00"
+  "updated_at": "2026-07-16T21:06:03.570628+00:00"
 }
