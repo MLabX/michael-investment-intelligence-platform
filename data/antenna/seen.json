@@ -400,6 +400,11 @@
       "last_seen": "2026-06-12",
       "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force"
     },
+    "https://spacenews.com/serbia-signs-the-artemis-accords/": {
+      "content_hash": "9b34ab0dcf421136",
+      "last_seen": "2026-07-18",
+      "title": "Serbia signs the Artemis Accords"
+    },
     "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/": {
       "content_hash": "b201e44abfa17417",
       "last_seen": "2026-07-10",
@@ -645,6 +650,11 @@
       "last_seen": "2026-06-11",
       "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word"
     },
+    "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/": {
+      "content_hash": "bbcbe7c49c656adb",
+      "last_seen": "2026-07-18",
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
+    },
     "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/": {
       "content_hash": "93b696a5e84f4acb",
       "last_seen": "2026-07-16",
@@ -664,6 +674,11 @@
       "content_hash": "152578ca7b758fc6",
       "last_seen": "2026-06-28",
       "title": "J.P. Morgan sees a pile of red flags in the AI market"
+    },
+    "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/": {
+      "content_hash": "8a03f4071cb622e2",
+      "last_seen": "2026-07-18",
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage"
     },
     "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/": {
       "content_hash": "6dd556797626cf37",
@@ -995,6 +1010,11 @@
       "last_seen": "2026-07-16",
       "title": "EU accuses China of seeking to reshape global order in stark new strategy paper"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3360897/us-china-ai-rivalry-becomes-battle-export-competing-tech-governance-visions?utm_source=rss_feed": {
+      "content_hash": "cca2f50a68186fd4",
+      "last_seen": "2026-07-18",
+      "title": "US-China AI rivalry becomes a battle to export competing tech governance visions"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1290,6 +1310,11 @@
       "last_seen": "2026-06-26",
       "title": "Could China\u2019s photonic chips help it leapfrog US on AI?"
     },
+    "https://www.scmp.com/plus/tech/tech-war/article/3360914/xis-call-ai-trump-blasts-china-us-tariffs?utm_source=rss_feed": {
+      "content_hash": "1584e4c77159b670",
+      "last_seen": "2026-07-18",
+      "title": "Xi\u2019s call on AI, Trump blasts China, US tariffs"
+    },
     "https://www.scmp.com/tech/big-tech/article/3358394/deepseek-hiring-spree-chinese-ai-firm-seeks-newcomers-it-pursues-agi?utm_source=rss_feed": {
       "content_hash": "51aeb53b90d91e78",
       "last_seen": "2026-06-26",
@@ -1431,5 +1456,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-16T21:06:03.570628+00:00"
+  "updated_at": "2026-07-17T21:00:46.739221+00:00"
 }
