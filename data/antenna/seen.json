@@ -405,6 +405,11 @@
       "last_seen": "2026-07-18",
       "title": "Serbia signs the Artemis Accords"
     },
+    "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/": {
+      "content_hash": "65a56741e5f1f259",
+      "last_seen": "2026-07-19",
+      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch"
+    },
     "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/": {
       "content_hash": "b201e44abfa17417",
       "last_seen": "2026-07-10",
@@ -414,6 +419,11 @@
       "content_hash": "086271f2258b3a0d",
       "last_seen": "2026-07-16",
       "title": "Space Force awards Slingshot $69 million for AI-enabled training technology"
+    },
+    "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/": {
+      "content_hash": "cc6b07f6e170993b",
+      "last_seen": "2026-07-19",
+      "title": "Space Force triples launch contract ceiling amid rising demand"
     },
     "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/": {
       "content_hash": "e26d71de27c98fe0",
@@ -564,6 +574,11 @@
       "content_hash": "40ac58f830e9d0fc",
       "last_seen": "2026-07-08",
       "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
+    "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/": {
+      "content_hash": "8b70a590a6b6b860",
+      "last_seen": "2026-07-19",
+      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order"
     },
     "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/": {
       "content_hash": "c50a622db10b3cd2",
@@ -880,6 +895,11 @@
       "last_seen": "2026-06-28",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
     },
+    "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/": {
+      "content_hash": "85872a909cdd7371",
+      "last_seen": "2026-07-19",
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment"
+    },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
       "last_seen": "2026-06-19",
@@ -1089,6 +1109,11 @@
       "content_hash": "9939fa4a82ec1c7d",
       "last_seen": "2026-07-09",
       "title": "China\u2019s Xi Jinping calls for innovation system overhaul to beat global tech rivals"
+    },
+    "https://www.scmp.com/news/china/politics/article/3361050/why-data-may-become-chinas-most-durable-advantage-ai-race?utm_source=rss_feed": {
+      "content_hash": "7b461e6dfd3ea071",
+      "last_seen": "2026-07-19",
+      "title": "Why data may become China\u2019s most durable advantage in the AI race"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -1456,5 +1481,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-17T21:00:46.739221+00:00"
+  "updated_at": "2026-07-18T20:55:16.122634+00:00"
 }
