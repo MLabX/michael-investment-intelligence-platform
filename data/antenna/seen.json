@@ -135,6 +135,11 @@
       "last_seen": "2026-07-07",
       "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight"
     },
+    "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
+      "content_hash": "d0e1ba9959b89965",
+      "last_seen": "2026-07-21",
+      "title": "AI rocket engine startup LegendSpace raises $29.5 million angel round"
+    },
     "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/": {
       "content_hash": "e18f34a2028c4dde",
       "last_seen": "2026-07-08",
@@ -665,6 +670,11 @@
       "last_seen": "2026-06-23",
       "title": "Google makes Interactions API the default interface for Gemini models and agents"
     },
+    "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/": {
+      "content_hash": "c8313d4eb8cc7678",
+      "last_seen": "2026-07-21",
+      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains"
+    },
     "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/": {
       "content_hash": "4d93060642f67e2c",
       "last_seen": "2026-06-11",
@@ -684,6 +694,11 @@
       "content_hash": "b9e8c332bdfc23c5",
       "last_seen": "2026-06-28",
       "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey"
+    },
+    "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/": {
+      "content_hash": "e41baf8f456a071b",
+      "last_seen": "2026-07-21",
+      "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back"
     },
     "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/": {
       "content_hash": "531d151c73f20fa2",
@@ -774,6 +789,11 @@
       "content_hash": "063980db8ef8fb00",
       "last_seen": "2026-06-18",
       "title": "Nvidia research shows robots that train themselves through AI coding agents"
+    },
+    "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/": {
+      "content_hash": "165c47fa847e7957",
+      "last_seen": "2026-07-21",
+      "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow"
     },
     "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/": {
       "content_hash": "db2b553858a3855f",
@@ -904,6 +924,11 @@
       "content_hash": "85872a909cdd7371",
       "last_seen": "2026-07-19",
       "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment"
+    },
+    "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/": {
+      "content_hash": "bd31611e0b5d5d26",
+      "last_seen": "2026-07-21",
+      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -1045,6 +1070,11 @@
       "last_seen": "2026-07-20",
       "title": "US party heads to China to examine national security implications of trade relationship"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3361264/us-claims-3-china-linked-spy-sites-cuba-monitoring-american-military-activity?utm_source=rss_feed": {
+      "content_hash": "f6c65477cfd7af04",
+      "last_seen": "2026-07-21",
+      "title": "US claims 3 China-linked spy sites in Cuba monitoring American military activity"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1104,6 +1134,11 @@
       "content_hash": "79e6375bc770861f",
       "last_seen": "2026-07-13",
       "title": "What does China\u2019s J-16 fighter jet in \u2018beast mode\u2019 mean for PLA Air Force patrols?"
+    },
+    "https://www.scmp.com/news/china/military/article/3361225/china-building-bigger-support-ship-its-future-type-004-carrier-battle-group?utm_source=rss_feed": {
+      "content_hash": "1f855040b79bb787",
+      "last_seen": "2026-07-21",
+      "title": "Is China building a bigger support ship for its future Type 004 carrier battle group?"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -1506,5 +1541,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-19T20:56:14.261980+00:00"
+  "updated_at": "2026-07-20T21:15:26.905939+00:00"
 }
