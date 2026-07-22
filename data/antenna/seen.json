@@ -25,6 +25,11 @@
       "last_seen": "2026-07-17",
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory"
     },
+    "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
+      "content_hash": "bd3080e2d304a01c",
+      "last_seen": "2026-07-23",
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face"
+    },
     "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/": {
       "content_hash": "1c573c11ce630a80",
       "last_seen": "2026-07-10",
@@ -260,6 +265,11 @@
       "last_seen": "2026-07-12",
       "title": "FCC approves first Reflect Orbital satellite"
     },
+    "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/": {
+      "content_hash": "12cec55c74f017fd",
+      "last_seen": "2026-07-23",
+      "title": "FCC approves sweeping space reforms while clearing more C-band for 5G"
+    },
     "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/": {
       "content_hash": "8535bdd3ad20fe68",
       "last_seen": "2026-06-09",
@@ -485,6 +495,11 @@
       "last_seen": "2026-07-15",
       "title": "U.K. government preparing to release new space strategy"
     },
+    "https://spacenews.com/vast-establishes-division-for-national-security-projects/": {
+      "content_hash": "0f18726fe8889693",
+      "last_seen": "2026-07-23",
+      "title": "Vast establishes division for national security projects"
+    },
     "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/": {
       "content_hash": "c9b3f9d65d0ed5f4",
       "last_seen": "2026-06-25",
@@ -554,6 +569,11 @@
       "content_hash": "e4b9eb0ff5aaa4b8",
       "last_seen": "2026-06-11",
       "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches"
+    },
+    "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/": {
+      "content_hash": "a88551d60855e100",
+      "last_seen": "2026-07-23",
+      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
     },
     "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/": {
       "content_hash": "28e258e2026a912f",
@@ -830,6 +850,11 @@
       "last_seen": "2026-07-13",
       "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs"
     },
+    "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/": {
+      "content_hash": "439dec9b93f832bb",
+      "last_seen": "2026-07-23",
+      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox"
+    },
     "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/": {
       "content_hash": "45b37c9560452fde",
       "last_seen": "2026-07-16",
@@ -899,6 +924,11 @@
       "content_hash": "22adbaec07ac79e3",
       "last_seen": "2026-06-30",
       "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring"
+    },
+    "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/": {
+      "content_hash": "cfc1e084fed8d1ba",
+      "last_seen": "2026-07-23",
+      "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup"
     },
     "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/": {
       "content_hash": "ac7a89749a62eae3",
@@ -1390,6 +1420,11 @@
       "last_seen": "2026-06-26",
       "title": "US is \u2018superhero\u2019, China \u2018supervillain\u2019 in global AI contest, American officials warn"
     },
+    "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic?utm_source=rss_feed": {
+      "content_hash": "41eb6034635247ac",
+      "last_seen": "2026-07-23",
+      "title": "Trump tech official accuses China\u2019s Moonshot AI of stealing from Anthropic"
+    },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
@@ -1581,5 +1616,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-21T20:32:07.362858+00:00"
+  "updated_at": "2026-07-22T20:29:15.328840+00:00"
 }
