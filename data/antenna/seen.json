@@ -50,6 +50,11 @@
       "last_seen": "2026-06-11",
       "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster"
     },
+    "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/": {
+      "content_hash": "15bbd3f226eecb6c",
+      "last_seen": "2026-07-24",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending"
+    },
     "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/": {
       "content_hash": "16dd21496d67d130",
       "last_seen": "2026-06-16",
@@ -79,6 +84,11 @@
       "content_hash": "6c78443017c86932",
       "last_seen": "2026-07-07",
       "title": "What is the oldest American object ever launched into space?"
+    },
+    "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
+      "content_hash": "c0a260c1516cf076",
+      "last_seen": "2026-07-24",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems"
     },
     "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/": {
       "content_hash": "08044e2ffd248193",
@@ -145,10 +155,20 @@
       "last_seen": "2026-07-22",
       "title": "Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission"
     },
+    "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/": {
+      "content_hash": "b335aec32ea2afe7",
+      "last_seen": "2026-07-24",
+      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work"
+    },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
       "last_seen": "2026-07-21",
       "title": "AI rocket engine startup LegendSpace raises $29.5 million angel round"
+    },
+    "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/": {
+      "content_hash": "a82615b17e8fde7a",
+      "last_seen": "2026-07-24",
+      "title": "Airbus space business takes advantage of growing demand for satellite systems"
     },
     "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/": {
       "content_hash": "e18f34a2028c4dde",
@@ -604,6 +624,11 @@
       "content_hash": "a8040b95cd4c13d1",
       "last_seen": "2026-07-15",
       "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots"
+    },
+    "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/": {
+      "content_hash": "1a5e00a92f3a30ee",
+      "last_seen": "2026-07-24",
+      "title": "ChatGPT will give you worse health advice if you don't pay"
     },
     "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/": {
       "content_hash": "a91129d1501039b0",
@@ -1385,6 +1410,11 @@
       "last_seen": "2026-07-22",
       "title": "Chinese AI agent Qiushi Engine outperforms Anthropic\u2019s Claude Code in autonomous research"
     },
+    "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck?utm_source=rss_feed": {
+      "content_hash": "a2072c586f1670ea",
+      "last_seen": "2026-07-24",
+      "title": "China\u2019s new chip stores data with a single electron, breaking AI memory bottleneck"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -1424,6 +1454,11 @@
       "content_hash": "41eb6034635247ac",
       "last_seen": "2026-07-23",
       "title": "Trump tech official accuses China\u2019s Moonshot AI of stealing from Anthropic"
+    },
+    "https://www.scmp.com/news/us/politics/article/3361647/pentagon-expands-blacklist-include-chinas-top-civilian-universities?utm_source=rss_feed": {
+      "content_hash": "a11368feee69924c",
+      "last_seen": "2026-07-24",
+      "title": "Pentagon expands blacklist to include China\u2019s top civilian universities"
     },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
@@ -1605,6 +1640,11 @@
       "last_seen": "2026-07-08",
       "title": "Tesollo initiates IPO process while developing humanoid hands"
     },
+    "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/": {
+      "content_hash": "74cf5cfb4d7b80a5",
+      "last_seen": "2026-07-24",
+      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS"
+    },
     "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/": {
       "content_hash": "a17d2490db68608c",
       "last_seen": "2026-07-16",
@@ -1616,5 +1656,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-22T20:29:15.328840+00:00"
+  "updated_at": "2026-07-23T20:28:29.777815+00:00"
 }
