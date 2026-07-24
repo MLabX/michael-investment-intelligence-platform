@@ -345,6 +345,11 @@
       "last_seen": "2026-06-17",
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
     },
+    "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/": {
+      "content_hash": "c3b9e19db30be00a",
+      "last_seen": "2026-07-25",
+      "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT"
+    },
     "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/": {
       "content_hash": "5dfcbc9a739bcbe2",
       "last_seen": "2026-06-24",
@@ -379,6 +384,11 @@
       "content_hash": "286aa9488fb570df",
       "last_seen": "2026-06-25",
       "title": "NGSO trade association launches without industry giant SpaceX"
+    },
+    "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/": {
+      "content_hash": "9370a711ca6bccf2",
+      "last_seen": "2026-07-25",
+      "title": "Office of Space Commerce to move ahead on mission authorization"
     },
     "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/": {
       "content_hash": "32370232c94c0953",
@@ -559,6 +569,11 @@
       "content_hash": "9dfcf2c4898b374e",
       "last_seen": "2026-07-22",
       "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested"
+    },
+    "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/": {
+      "content_hash": "1c50c1f793d96bfd",
+      "last_seen": "2026-07-25",
+      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
     },
     "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/": {
       "content_hash": "709a40f2fa34caae",
@@ -1225,6 +1240,11 @@
       "last_seen": "2026-07-22",
       "title": "Taiwan opens door to Starlink \u2013 but now it must wait to see if Elon Musk is ready to enter"
     },
+    "https://www.scmp.com/news/china/military/article/3361774/china-building-new-type-attack-submarine-satellite-images-hint-stealth-gains?utm_source=rss_feed": {
+      "content_hash": "df25c756a53029eb",
+      "last_seen": "2026-07-25",
+      "title": "Is China building a new type of attack submarine? Satellite images hint at stealth gains"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -1580,6 +1600,11 @@
       "last_seen": "2026-06-28",
       "title": "General Intuition raises $320M to use video game data to train robots"
     },
+    "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/": {
+      "content_hash": "3d3e27ba96e0074d",
+      "last_seen": "2026-07-25",
+      "title": "Generalist\u2019s GEN-1 foundation model now supports a range of robot end effectors"
+    },
     "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/": {
       "content_hash": "25049383c4ae1e1c",
       "last_seen": "2026-07-22",
@@ -1656,5 +1681,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-23T20:28:29.777815+00:00"
+  "updated_at": "2026-07-24T20:34:15.512813+00:00"
 }
