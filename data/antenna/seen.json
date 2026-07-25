@@ -346,8 +346,8 @@
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
     },
     "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/": {
-      "content_hash": "c3b9e19db30be00a",
-      "last_seen": "2026-07-25",
+      "content_hash": "5fa436ad2d99479b",
+      "last_seen": "2026-07-26",
       "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT"
     },
     "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/": {
@@ -480,6 +480,11 @@
       "last_seen": "2026-07-19",
       "title": "Space Force triples launch contract ceiling amid rising demand"
     },
+    "https://spacenews.com/spacex-conducts-13th-starship-test-flight/": {
+      "content_hash": "0489e39538ab685c",
+      "last_seen": "2026-07-26",
+      "title": "SpaceX conducts 13th Starship test flight"
+    },
     "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/": {
       "content_hash": "e26d71de27c98fe0",
       "last_seen": "2026-07-17",
@@ -571,9 +576,9 @@
       "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested"
     },
     "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/": {
-      "content_hash": "1c50c1f793d96bfd",
-      "last_seen": "2026-07-25",
-      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
+      "content_hash": "c73bb3c4fd71e9ba",
+      "last_seen": "2026-07-26",
+      "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price"
     },
     "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/": {
       "content_hash": "709a40f2fa34caae",
@@ -849,6 +854,11 @@
       "content_hash": "b01f94b7f00a5114",
       "last_seen": "2026-07-09",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
+    },
+    "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/": {
+      "content_hash": "c082506b6190cd60",
+      "last_seen": "2026-07-26",
+      "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face"
     },
     "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/": {
       "content_hash": "f499961043554c59",
@@ -1170,6 +1180,11 @@
       "last_seen": "2026-07-22",
       "title": "Crawfish soup on Mars? Fears over China\u2019s scientific ambitions raised in Senate hearing"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3361638/china-tests-central-asian-land-corridors-bypass-maritime-chokepoints?utm_source=rss_feed": {
+      "content_hash": "a0df3860e97451ec",
+      "last_seen": "2026-07-26",
+      "title": "Amid Hormuz woes, China tests Central Asian land corridors to bypass maritime chokepoints"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1244,6 +1259,11 @@
       "content_hash": "df25c756a53029eb",
       "last_seen": "2026-07-25",
       "title": "Is China building a new type of attack submarine? Satellite images hint at stealth gains"
+    },
+    "https://www.scmp.com/news/china/military/article/3361835/what-helicopters-flight-taiwan-strait-says-about-beijings-war-plans?utm_source=rss_feed": {
+      "content_hash": "3215e228bfbc522c",
+      "last_seen": "2026-07-26",
+      "title": "What a helicopter\u2019s flight in the Taiwan Strait says about Beijing\u2019s war plans"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -1645,6 +1665,11 @@
       "last_seen": "2026-06-17",
       "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
     },
+    "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/": {
+      "content_hash": "efe9d16cf00f0858",
+      "last_seen": "2026-07-26",
+      "title": "Photos: First look at J&J\u2019s Ottava surgical robot"
+    },
     "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/": {
       "content_hash": "ccac03c7c838f21e",
       "last_seen": "2026-07-01",
@@ -1681,5 +1706,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-24T20:34:15.512813+00:00"
+  "updated_at": "2026-07-25T20:23:02.257520+00:00"
 }
