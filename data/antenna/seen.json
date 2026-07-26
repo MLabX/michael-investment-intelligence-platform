@@ -620,6 +620,11 @@
       "last_seen": "2026-06-28",
       "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
     },
+    "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/": {
+      "content_hash": "3a0029b55522f640",
+      "last_seen": "2026-07-27",
+      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence"
+    },
     "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/": {
       "content_hash": "d960ac2696003ed7",
       "last_seen": "2026-07-12",
@@ -689,6 +694,11 @@
       "content_hash": "033d96431d3041c6",
       "last_seen": "2026-07-08",
       "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs"
+    },
+    "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/": {
+      "content_hash": "3fd9a30ca3b2b87b",
+      "last_seen": "2026-07-27",
+      "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work"
     },
     "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
       "content_hash": "6b0d350b9ceea141",
@@ -1185,6 +1195,11 @@
       "last_seen": "2026-07-26",
       "title": "Amid Hormuz woes, China tests Central Asian land corridors to bypass maritime chokepoints"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3361893/chinese-tech-firms-snub-us-congress-advisers-highlights-beijings-growing-ai-caution?utm_source=rss_feed": {
+      "content_hash": "4fce2f51b279f850",
+      "last_seen": "2026-07-27",
+      "title": "Chinese tech firms\u2019 \u2018snub\u2019 to US Congress advisers highlights Beijing\u2019s growing AI caution"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1455,6 +1470,11 @@
       "last_seen": "2026-07-24",
       "title": "China\u2019s new chip stores data with a single electron, breaking AI memory bottleneck"
     },
+    "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed": {
+      "content_hash": "c1c0e8dea9082517",
+      "last_seen": "2026-07-27",
+      "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -1706,5 +1726,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-25T20:23:02.257520+00:00"
+  "updated_at": "2026-07-26T20:25:03.351854+00:00"
 }
