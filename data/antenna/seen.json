@@ -75,6 +75,11 @@
       "last_seen": "2026-07-09",
       "title": "Blue Origin, for the first time, is expected to raise private capital"
     },
+    "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/": {
+      "content_hash": "fcd23b60a309e0ba",
+      "last_seen": "2026-07-28",
+      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse"
+    },
     "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/": {
       "content_hash": "8fd47f0a5c14792a",
       "last_seen": "2026-07-09",
@@ -169,6 +174,11 @@
       "content_hash": "a82615b17e8fde7a",
       "last_seen": "2026-07-24",
       "title": "Airbus space business takes advantage of growing demand for satellite systems"
+    },
+    "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/": {
+      "content_hash": "22852473bef8cbdb",
+      "last_seen": "2026-07-28",
+      "title": "Amazon files application for direct-to-device satellite constellation"
     },
     "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/": {
       "content_hash": "e18f34a2028c4dde",
@@ -319,6 +329,11 @@
       "content_hash": "5a8231c5b7d24426",
       "last_seen": "2026-06-20",
       "title": "India\u2019s Jio lays out sovereign LEO constellation plan ahead of IPO"
+    },
+    "https://spacenews.com/intel-debuts-new-chip-for-space-computing/": {
+      "content_hash": "f8619d3a139be8db",
+      "last_seen": "2026-07-28",
+      "title": "Intel debuts new chip for space computing"
     },
     "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/": {
       "content_hash": "9c66b9a890dac710",
@@ -720,6 +735,11 @@
       "last_seen": "2026-07-01",
       "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls"
     },
+    "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/": {
+      "content_hash": "9804b1a0e576726c",
+      "last_seen": "2026-07-28",
+      "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction"
+    },
     "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/": {
       "content_hash": "0140fd7ce325024f",
       "last_seen": "2026-06-30",
@@ -865,6 +885,11 @@
       "last_seen": "2026-07-09",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
     },
+    "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/": {
+      "content_hash": "f4b9732c6007aac8",
+      "last_seen": "2026-07-28",
+      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
+    },
     "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/": {
       "content_hash": "c082506b6190cd60",
       "last_seen": "2026-07-26",
@@ -934,6 +959,11 @@
       "content_hash": "98943e8eb36baddf",
       "last_seen": "2026-06-10",
       "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing"
+    },
+    "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/": {
+      "content_hash": "abee4c0f615fa2f3",
+      "last_seen": "2026-07-28",
+      "title": "OpenAI says more workers are using ChatGPT to do other people's jobs"
     },
     "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/": {
       "content_hash": "2057cd3f5b672858",
@@ -1199,6 +1229,11 @@
       "content_hash": "4fce2f51b279f850",
       "last_seen": "2026-07-27",
       "title": "Chinese tech firms\u2019 \u2018snub\u2019 to US Congress advisers highlights Beijing\u2019s growing AI caution"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed": {
+      "content_hash": "46691a893fc5c347",
+      "last_seen": "2026-07-28",
+      "title": "Brazil turns to China trade deal after Trump\u2019s tariffs, as years of resistance end"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -1475,6 +1510,11 @@
       "last_seen": "2026-07-27",
       "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius"
     },
+    "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
+      "content_hash": "78d3236efe5b8a6c",
+      "last_seen": "2026-07-28",
+      "title": "Black Lake CEO\u2019s strategy to sell AI solutions to factories: turn to food couriers"
+    },
     "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed": {
       "content_hash": "e2521f2c8fdf002e",
       "last_seen": "2026-06-26",
@@ -1726,5 +1766,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-26T20:25:03.351854+00:00"
+  "updated_at": "2026-07-27T20:35:37.708249+00:00"
 }
