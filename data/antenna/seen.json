@@ -390,6 +390,11 @@
       "last_seen": "2026-06-20",
       "title": "NASA selects mission to study space weather interaction with Earth\u2019s atmosphere"
     },
+    "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/": {
+      "content_hash": "8097bc07a445dd0a",
+      "last_seen": "2026-07-29",
+      "title": "NASA selects successor to CAPSTONE lunar mission"
+    },
     "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/": {
       "content_hash": "640a5e1af695e8f5",
       "last_seen": "2026-07-17",
@@ -614,6 +619,11 @@
       "content_hash": "5c8c1819796423ed",
       "last_seen": "2026-07-03",
       "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters"
+    },
+    "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/": {
+      "content_hash": "554d2cba9d0687a8",
+      "last_seen": "2026-07-29",
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
     },
     "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/": {
       "content_hash": "a09e6eb16df0a5d2",
@@ -1045,6 +1055,11 @@
       "last_seen": "2026-07-02",
       "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
     },
+    "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/": {
+      "content_hash": "3692c607249de80a",
+      "last_seen": "2026-07-29",
+      "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe"
+    },
     "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/": {
       "content_hash": "391db9f854d49a82",
       "last_seen": "2026-07-11",
@@ -1234,6 +1249,11 @@
       "content_hash": "46691a893fc5c347",
       "last_seen": "2026-07-28",
       "title": "Brazil turns to China trade deal after Trump\u2019s tariffs, as years of resistance end"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3362147/china-woos-slovakia-ai-robotics-pitch-eu-trade-friction-mounts?utm_source=rss_feed": {
+      "content_hash": "7a72e56cc90b9b61",
+      "last_seen": "2026-07-29",
+      "title": "China woos Slovakia with AI, robotics pitch as EU trade friction mounts"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -1510,6 +1530,11 @@
       "last_seen": "2026-07-27",
       "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius"
     },
+    "https://www.scmp.com/news/china/science/article/3362083/china-tests-first-civilian-drone-can-fly-24-hours-non-stop-fully-loaded?utm_source=rss_feed": {
+      "content_hash": "8e4cc8062716edee",
+      "last_seen": "2026-07-29",
+      "title": "China tests first civilian drone that can fly 24 hours non-stop, fully loaded"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -1766,5 +1791,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-27T20:35:37.708249+00:00"
+  "updated_at": "2026-07-28T20:30:54.663571+00:00"
 }
