@@ -25,6 +25,11 @@
       "last_seen": "2026-07-17",
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory"
     },
+    "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/": {
+      "content_hash": "f0cbf01eb50b4e4e",
+      "last_seen": "2026-07-31",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety"
+    },
     "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
       "content_hash": "bd3080e2d304a01c",
       "last_seen": "2026-07-23",
@@ -360,6 +365,11 @@
       "last_seen": "2026-07-22",
       "title": "Italian startup ORiS raises funding for laser power-beaming technology"
     },
+    "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/": {
+      "content_hash": "54d7c82230e27fbe",
+      "last_seen": "2026-07-31",
+      "title": "K2 Space raises $500 million for commercial, defense satellite expansion"
+    },
     "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/": {
       "content_hash": "c6c7171ed9061e6c",
       "last_seen": "2026-06-12",
@@ -474,6 +484,11 @@
       "content_hash": "45c720af3d6a3c11",
       "last_seen": "2026-06-30",
       "title": "Rocket Lab to acquire Iridium"
+    },
+    "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/": {
+      "content_hash": "c7b759731de1be32",
+      "last_seen": "2026-07-31",
+      "title": "Roman Space Telescope on track for late August launch"
     },
     "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/": {
       "content_hash": "22a4cede628635ad",
@@ -770,6 +785,11 @@
       "last_seen": "2026-06-30",
       "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe"
     },
+    "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/": {
+      "content_hash": "f995f124a525105e",
+      "last_seen": "2026-07-31",
+      "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats"
+    },
     "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/": {
       "content_hash": "187a5c5ccad2bcc1",
       "last_seen": "2026-06-23",
@@ -864,6 +884,11 @@
       "content_hash": "1753e4fbe3e1f1d4",
       "last_seen": "2026-06-12",
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
+    },
+    "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/": {
+      "content_hash": "e795c404a3f69490",
+      "last_seen": "2026-07-31",
+      "title": "Language models can't spark scientific revolutions, but world models might"
     },
     "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/": {
       "content_hash": "79b6f0147bfb7e23",
@@ -974,6 +999,11 @@
       "content_hash": "439dec9b93f832bb",
       "last_seen": "2026-07-23",
       "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox"
+    },
+    "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/": {
+      "content_hash": "51dafd1eee69b19a",
+      "last_seen": "2026-07-31",
+      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
     },
     "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/": {
       "content_hash": "45b37c9560452fde",
@@ -1620,6 +1650,11 @@
       "last_seen": "2026-07-23",
       "title": "Trump tech official accuses China\u2019s Moonshot AI of stealing from Anthropic"
     },
+    "https://www.scmp.com/news/us/diplomacy/article/3362445/selection-next-un-chief-gets-underway-first-straw-poll?utm_source=rss_feed": {
+      "content_hash": "e3293d7a130a88dd",
+      "last_seen": "2026-07-31",
+      "title": "Selection for next UN chief gets underway with first \u2018straw poll\u2019"
+    },
     "https://www.scmp.com/news/us/politics/article/3361647/pentagon-expands-blacklist-include-chinas-top-civilian-universities?utm_source=rss_feed": {
       "content_hash": "a11368feee69924c",
       "last_seen": "2026-07-24",
@@ -1805,6 +1840,11 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/": {
+      "content_hash": "4cfa771553adfc3c",
+      "last_seen": "2026-07-31",
+      "title": "Teradyne Robotics revenue rises 33% year over year in Q2"
+    },
     "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/": {
       "content_hash": "d41eda7b2fc6b706",
       "last_seen": "2026-07-17",
@@ -1831,5 +1871,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-29T20:25:15.351135+00:00"
+  "updated_at": "2026-07-30T20:31:15.763661+00:00"
 }
