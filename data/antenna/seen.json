@@ -780,6 +780,11 @@
       "last_seen": "2026-07-28",
       "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction"
     },
+    "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/": {
+      "content_hash": "b1374bfa7008f4c0",
+      "last_seen": "2026-08-01",
+      "title": "EU pools up to \u20ac30 billion for AI gigafactories while US tech giants casually spend 20 times more"
+    },
     "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/": {
       "content_hash": "0140fd7ce325024f",
       "last_seen": "2026-06-30",
@@ -819,6 +824,11 @@
       "content_hash": "93d1d7bac0866189",
       "last_seen": "2026-06-20",
       "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic"
+    },
+    "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/": {
+      "content_hash": "43d46654d0ec4644",
+      "last_seen": "2026-08-01",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
     },
     "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/": {
       "content_hash": "df84cc01cc36dd5d",
@@ -1315,6 +1325,16 @@
       "last_seen": "2026-07-30",
       "title": "A new peak in US-China tech rivalry? Tibet drone hub launches on Mount Everest"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3362288/how-global-ai-boom-intensifying-us-china-undersea-stand?utm_source=rss_feed": {
+      "content_hash": "28dd2a940ba661df",
+      "last_seen": "2026-08-01",
+      "title": "How global AI boom is intensifying US-China undersea stand-off"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3362590/beijing-impose-exit-bans-export-control-tech-transfer-breaches?utm_source=rss_feed": {
+      "content_hash": "3d6c0015a5364cfe",
+      "last_seen": "2026-08-01",
+      "title": "Beijing to impose exit bans for export control, tech transfer breaches"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1399,6 +1419,11 @@
       "content_hash": "c686158705a23cf0",
       "last_seen": "2026-07-30",
       "title": "Can the US fend off China\u2019s subsea drones? Its coastguard looks for answers"
+    },
+    "https://www.scmp.com/news/china/military/article/3362573/china-signals-buildout-nuclear-missile-silos-strategic-trump-cards?utm_source=rss_feed": {
+      "content_hash": "c1fc4ae9c00a432e",
+      "last_seen": "2026-08-01",
+      "title": "China signals buildout of nuclear missile silos for \u2018strategic trump cards\u2019"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -1871,5 +1896,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-07-30T20:31:15.763661+00:00"
+  "updated_at": "2026-07-31T20:33:07.761325+00:00"
 }
