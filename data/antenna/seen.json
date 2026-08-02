@@ -750,6 +750,11 @@
       "last_seen": "2026-07-04",
       "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific"
     },
+    "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/": {
+      "content_hash": "3c2611f9ffc31141",
+      "last_seen": "2026-08-03",
+      "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music"
+    },
     "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/": {
       "content_hash": "6b2db7787dc77fb4",
       "last_seen": "2026-06-29",
@@ -925,6 +930,11 @@
       "last_seen": "2026-07-01",
       "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia"
     },
+    "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/": {
+      "content_hash": "0b770f775be1adbd",
+      "last_seen": "2026-08-03",
+      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track"
+    },
     "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/": {
       "content_hash": "65d699b241a5c9c0",
       "last_seen": "2026-07-02",
@@ -1039,6 +1049,11 @@
       "content_hash": "45b37c9560452fde",
       "last_seen": "2026-07-16",
       "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
+    },
+    "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/": {
+      "content_hash": "bcdefe3ad0753792",
+      "last_seen": "2026-08-03",
+      "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -1660,6 +1675,16 @@
       "last_seen": "2026-07-30",
       "title": "Is China\u2019s biotech boom at risk? Fear of policy backlash after death in gene-editing trial"
     },
+    "https://www.scmp.com/news/china/science/article/3362361/chinese-rocket-scientists-find-most-effective-way-nuke-doomsday-asteroid?utm_source=rss_feed": {
+      "content_hash": "39fedae695579afd",
+      "last_seen": "2026-08-03",
+      "title": "Chinese rocket scientists find \u2018most effective\u2019 way to nuke a doomsday asteroid"
+    },
+    "https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy?utm_source=rss_feed": {
+      "content_hash": "cf143400a976d71d",
+      "last_seen": "2026-08-03",
+      "title": "Chinese police AI algorithm tracks bitcoin money laundering with 90% accuracy"
+    },
     "https://www.scmp.com/news/china/science/article/3362629/china-hopes-banish-blackouts-quantum-tech-puts-power-grid-superposition?utm_source=rss_feed": {
       "content_hash": "aed25261e0efe820",
       "last_seen": "2026-08-02",
@@ -1779,6 +1804,11 @@
       "content_hash": "d8c62da537926727",
       "last_seen": "2026-07-06",
       "title": "Bot for Profit: Can China\u2019s Top AI App Convince Users to Pay?"
+    },
+    "https://www.sixthtone.com/news/1018782/hainan to ban sales of gas-powered vehicles from 2030": {
+      "content_hash": "fce0d5afb9427695",
+      "last_seen": "2026-08-03",
+      "title": "Hainan to Ban Sales of Gas-Powered Vehicles From 2030"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
@@ -1931,5 +1961,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-08-01T20:22:49.945868+00:00"
+  "updated_at": "2026-08-02T20:23:45.111747+00:00"
 }
