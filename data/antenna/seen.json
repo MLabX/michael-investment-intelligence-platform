@@ -335,6 +335,11 @@
       "last_seen": "2026-06-26",
       "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force"
     },
+    "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/": {
+      "content_hash": "7090a79e25545045",
+      "last_seen": "2026-08-04",
+      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink"
+    },
     "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/": {
       "content_hash": "54ad317b50470101",
       "last_seen": "2026-06-10",
@@ -600,6 +605,11 @@
       "last_seen": "2026-07-14",
       "title": "Voyager completes acquisition of Astrobotic"
     },
+    "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/": {
+      "content_hash": "2b7981f3254ce930",
+      "last_seen": "2026-08-04",
+      "title": "Xona secures spectrum approval for satellite navigation network"
+    },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
       "last_seen": "2026-06-14",
@@ -619,6 +629,11 @@
       "content_hash": "0d7247ff26ff3d6f",
       "last_seen": "2026-08-02",
       "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
+    },
+    "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/": {
+      "content_hash": "5c366c927c2eb13f",
+      "last_seen": "2026-08-04",
+      "title": "Alibaba\u2019s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
     },
     "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/": {
       "content_hash": "124f0eed1cb01828",
@@ -894,6 +909,11 @@
       "content_hash": "531d151c73f20fa2",
       "last_seen": "2026-06-09",
       "title": "Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips"
+    },
+    "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/": {
+      "content_hash": "bfc5ffd81aa5bc65",
+      "last_seen": "2026-08-04",
+      "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa"
     },
     "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/": {
       "content_hash": "152578ca7b758fc6",
@@ -1225,6 +1245,11 @@
       "last_seen": "2026-07-09",
       "title": "Anthropic hits back after China warns of Claude Code \u2018backdoor\u2019 risks"
     },
+    "https://www.scmp.com/news/china/article/3362846/chinese-executive-filmed-taking-cash-colombia-metro-south-americas-biggest-project?utm_source=rss_feed": {
+      "content_hash": "cd4fb21f6e043137",
+      "last_seen": "2026-08-04",
+      "title": "Chinese executive filmed taking cash on Colombia metro, South America\u2019s biggest project"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -1469,6 +1494,11 @@
       "content_hash": "5c51f033fac87c7c",
       "last_seen": "2026-08-02",
       "title": "Why China\u2019s JL-3 made waves with first submarine-based missile test in over 40 years"
+    },
+    "https://www.scmp.com/news/china/military/article/3362824/chinese-military-unveils-ai-system-plan-and-coordinate-mass-air-strikes?utm_source=rss_feed": {
+      "content_hash": "89df361a3d5bcffc",
+      "last_seen": "2026-08-04",
+      "title": "Chinese military unveils AI system to plan and coordinate mass air strikes"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -1925,6 +1955,11 @@
       "last_seen": "2026-07-01",
       "title": "Queue raises funding to build fully autonomous pharmacy"
     },
+    "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/": {
+      "content_hash": "b3a9eeae48d36a48",
+      "last_seen": "2026-08-04",
+      "title": "Reimagine Robotics emerges from stealth with robots that \u2018learn on the job\u2019"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -1961,5 +1996,5 @@
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     }
   },
-  "updated_at": "2026-08-02T20:23:45.111747+00:00"
+  "updated_at": "2026-08-03T20:34:28.561477+00:00"
 }
