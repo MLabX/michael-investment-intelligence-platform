@@ -385,6 +385,11 @@
       "last_seen": "2026-06-17",
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
     },
+    "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/": {
+      "content_hash": "17cff0999f0b376d",
+      "last_seen": "2026-08-05",
+      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus"
+    },
     "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/": {
       "content_hash": "5fa436ad2d99479b",
       "last_seen": "2026-07-26",
@@ -874,6 +879,11 @@
       "content_hash": "9e59e21593e8ea0c",
       "last_seen": "2026-06-23",
       "title": "Google makes Interactions API the default interface for Gemini models and agents"
+    },
+    "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/": {
+      "content_hash": "b0391c105c4b09a8",
+      "last_seen": "2026-08-05",
+      "title": "Google moves billions in Anthropic chip risk off its balance sheet"
     },
     "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/": {
       "content_hash": "c8313d4eb8cc7678",
@@ -1500,6 +1510,21 @@
       "last_seen": "2026-08-04",
       "title": "Chinese military unveils AI system to plan and coordinate mass air strikes"
     },
+    "https://www.scmp.com/news/china/military/article/3362942/chinas-df-17-hypersonic-glider-ready-strike-anywhere-any-time?utm_source=rss_feed": {
+      "content_hash": "beb0f06714849612",
+      "last_seen": "2026-08-05",
+      "title": "Is China\u2019s DF-17 hypersonic glider ready to strike from anywhere at any time?"
+    },
+    "https://www.scmp.com/news/china/military/article/3362957/japan-sounds-alarm-over-chinas-expanding-pacific-footprint-vows-defence-boost?utm_source=rss_feed": {
+      "content_hash": "b07c50eb3456ec0e",
+      "last_seen": "2026-08-05",
+      "title": "Japan sounds alarm over China\u2019s expanding Pacific footprint, vows defence boost"
+    },
+    "https://www.scmp.com/news/china/military/article/3362965/how-taiwan-preparing-pla-sea-blockade-its-biggest-war-games?utm_source=rss_feed": {
+      "content_hash": "796306f4beb7dd33",
+      "last_seen": "2026-08-05",
+      "title": "How Taiwan is preparing for a PLA sea blockade in its biggest war games"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -1755,6 +1780,11 @@
       "last_seen": "2026-07-17",
       "title": "Beijing denounces US chip curbs as threat to global supply chains"
     },
+    "https://www.scmp.com/news/us/article/3362974/us-ai-leaders-turn-chinese-open-weight-models-challenging-closed-source-safety-claims?utm_source=rss_feed": {
+      "content_hash": "0eee08fa2023d6ec",
+      "last_seen": "2026-08-05",
+      "title": "US AI leaders turn to Chinese open-weight models, challenging closed-source safety claims"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -1980,6 +2010,11 @@
       "last_seen": "2026-07-08",
       "title": "Tesollo initiates IPO process while developing humanoid hands"
     },
+    "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/": {
+      "content_hash": "8589eeba39031abc",
+      "last_seen": "2026-08-05",
+      "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys"
+    },
     "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/": {
       "content_hash": "74cf5cfb4d7b80a5",
       "last_seen": "2026-07-24",
@@ -1994,7 +2029,12 @@
       "content_hash": "0853d4252de887a8",
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
+    },
+    "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/": {
+      "content_hash": "ddc635c7e938e89e",
+      "last_seen": "2026-08-05",
+      "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-03T20:34:28.561477+00:00"
+  "updated_at": "2026-08-04T20:35:10.016988+00:00"
 }
