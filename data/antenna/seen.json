@@ -245,6 +245,11 @@
       "last_seen": "2026-06-19",
       "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch"
     },
+    "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/": {
+      "content_hash": "172e93f1b8342a14",
+      "last_seen": "2026-08-06",
+      "title": "Capella, Iceye and Umbra win NRO radar-data contracts"
+    },
     "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/": {
       "content_hash": "b3ba6081a3c7f90e",
       "last_seen": "2026-06-24",
@@ -429,6 +434,11 @@
       "content_hash": "640a5e1af695e8f5",
       "last_seen": "2026-07-17",
       "title": "Nature study identifies a new way to spot nuclear weapons in orbit"
+    },
+    "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/": {
+      "content_hash": "da64ed517a97f228",
+      "last_seen": "2026-08-06",
+      "title": "Neuraspace raises $18 million to expand sovereign space awareness"
     },
     "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/": {
       "content_hash": "286aa9488fb570df",
@@ -865,6 +875,11 @@
       "last_seen": "2026-06-20",
       "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic"
     },
+    "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/": {
+      "content_hash": "cd77e380d4d2a69b",
+      "last_seen": "2026-08-06",
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously"
+    },
     "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/": {
       "content_hash": "c69d2d1da1f56fbb",
       "last_seen": "2026-08-02",
@@ -1185,6 +1200,11 @@
       "last_seen": "2026-07-02",
       "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
     },
+    "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/": {
+      "content_hash": "9a01793d72a2b5e1",
+      "last_seen": "2026-08-06",
+      "title": "SpaceX\u2019s ambitious compute goals could require over two million Nvidia Rubin GPUs"
+    },
     "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/": {
       "content_hash": "3692c607249de80a",
       "last_seen": "2026-07-29",
@@ -1214,6 +1234,11 @@
       "content_hash": "bd31611e0b5d5d26",
       "last_seen": "2026-07-21",
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure"
+    },
+    "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/": {
+      "content_hash": "fa110c76b39f908b",
+      "last_seen": "2026-08-06",
+      "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -1409,6 +1434,11 @@
       "content_hash": "defb9178387ca60c",
       "last_seen": "2026-08-02",
       "title": "Pain or gain? US moves to decouple its defence industry from China\u2019s rare earths"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3363096/brazil-become-regular-borrower-china-treasury-official-says?utm_source=rss_feed": {
+      "content_hash": "3e263571a7d2f837",
+      "last_seen": "2026-08-06",
+      "title": "Brazil to become regular borrower in China, treasury official says"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -1805,6 +1835,11 @@
       "last_seen": "2026-07-24",
       "title": "Pentagon expands blacklist to include China\u2019s top civilian universities"
     },
+    "https://www.scmp.com/news/us/politics/article/3363095/china-competition-looms-large-2027-us-defence-bill?utm_source=rss_feed": {
+      "content_hash": "fea428884e250432",
+      "last_seen": "2026-08-06",
+      "title": "China competition looms large in 2027 US defence bill"
+    },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
@@ -1970,6 +2005,11 @@
       "last_seen": "2026-07-07",
       "title": "Kraken Robotics acquires Covelya Group for $615M"
     },
+    "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/": {
+      "content_hash": "5b11d6ece82329cf",
+      "last_seen": "2026-08-06",
+      "title": "Moove raises $250M to build infrastructure for autonomous vehicles"
+    },
     "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
       "content_hash": "f63b26092cbdf81e",
       "last_seen": "2026-06-17",
@@ -2036,5 +2076,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-04T20:35:10.016988+00:00"
+  "updated_at": "2026-08-05T20:33:57.409299+00:00"
 }
