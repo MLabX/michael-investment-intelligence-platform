@@ -50,6 +50,11 @@
       "last_seen": "2026-07-30",
       "title": "Who wins and who loses after US bans foreign robots?"
     },
+    "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/": {
+      "content_hash": "08058a858f10e446",
+      "last_seen": "2026-08-07",
+      "title": "Anthropic will design its own hardware to power Claude"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -104,6 +109,11 @@
       "content_hash": "6c78443017c86932",
       "last_seen": "2026-07-07",
       "title": "What is the oldest American object ever launched into space?"
+    },
+    "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/": {
+      "content_hash": "63362d69f7526e5e",
+      "last_seen": "2026-08-07",
+      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident"
     },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
@@ -274,6 +284,11 @@
       "content_hash": "bc2355889eb10962",
       "last_seen": "2026-07-11",
       "title": "China unveils members of state-backed commercial space consortium"
+    },
+    "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/": {
+      "content_hash": "83de8eb5279e9397",
+      "last_seen": "2026-08-07",
+      "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket"
     },
     "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/": {
       "content_hash": "16ae2adb2768ca2e",
@@ -1285,6 +1300,11 @@
       "last_seen": "2026-08-04",
       "title": "Chinese executive filmed taking cash on Colombia metro, South America\u2019s biggest project"
     },
+    "https://www.scmp.com/news/china/article/3363219/argentina-renews-us19-billion-china-currency-swap-brushing-washingtons-pressure?utm_source=rss_feed": {
+      "content_hash": "918aa31fcbe4401e",
+      "last_seen": "2026-08-07",
+      "title": "Argentina renews US$19 billion China currency swap, brushing off Washington\u2019s pressure"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -1775,6 +1795,16 @@
       "last_seen": "2026-08-02",
       "title": "China hopes to banish blackouts as quantum tech puts power grid in superposition"
     },
+    "https://www.scmp.com/news/china/science/article/3363193/chinese-ai-tail-tracking-robot-delivers-needle-free-pig-vaccinations-93-accuracy?utm_source=rss_feed": {
+      "content_hash": "42de46b8e8c7c195",
+      "last_seen": "2026-08-07",
+      "title": "Chinese AI robot delivers needle-free pig vaccinations with 93% accuracy"
+    },
+    "https://www.scmp.com/news/china/science/article/3363199/chinese-satellite-captures-video-spacex-rocket-debris-crashing-moon?utm_source=rss_feed": {
+      "content_hash": "f03822d5dafaa010",
+      "last_seen": "2026-08-07",
+      "title": "Chinese satellite captures video of SpaceX rocket debris crashing into the moon"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -1814,6 +1844,11 @@
       "content_hash": "0eee08fa2023d6ec",
       "last_seen": "2026-08-05",
       "title": "US AI leaders turn to Chinese open-weight models, challenging closed-source safety claims"
+    },
+    "https://www.scmp.com/news/us/article/3363222/us-presses-china-over-alleged-scam-bosses-despite-growing-police-cooperation?utm_source=rss_feed": {
+      "content_hash": "636f352388344c07",
+      "last_seen": "2026-08-07",
+      "title": "US presses China over alleged scam bosses despite growing police cooperation"
     },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
@@ -1975,6 +2010,11 @@
       "last_seen": "2026-07-22",
       "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing"
     },
+    "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/": {
+      "content_hash": "1ac26a0bab641a65",
+      "last_seen": "2026-08-07",
+      "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics"
+    },
     "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/": {
       "content_hash": "4c91aa8762a93d3f",
       "last_seen": "2026-06-23",
@@ -2076,5 +2116,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-05T20:33:57.409299+00:00"
+  "updated_at": "2026-08-06T21:56:46.779769+00:00"
 }
