@@ -1160,6 +1160,11 @@
       "last_seen": "2026-07-16",
       "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
     },
+    "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/": {
+      "content_hash": "491ba23aff7f3986",
+      "last_seen": "2026-08-11",
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do"
+    },
     "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/": {
       "content_hash": "bcdefe3ad0753792",
       "last_seen": "2026-08-03",
@@ -1635,6 +1640,16 @@
       "last_seen": "2026-08-09",
       "title": "How Beijing\u2019s hypersonic \u2018carrier killers\u2019 could distract US forces in a Taiwan conflict"
     },
+    "https://www.scmp.com/news/china/military/article/3363564/powerful-anti-drone-laser-spotted-pla-amphibious-ship-south-china-sea?utm_source=rss_feed": {
+      "content_hash": "844b65ca8653712b",
+      "last_seen": "2026-08-11",
+      "title": "Powerful anti-drone laser spotted on PLA amphibious ship in South China Sea"
+    },
+    "https://www.scmp.com/news/china/military/article/3363574/chinas-long-march-7a-rocket-explodes-after-launch-satellite-lost?utm_source=rss_feed": {
+      "content_hash": "35d2631b8b01d717",
+      "last_seen": "2026-08-11",
+      "title": "China\u2019s Long March 7A rocket explodes after launch, satellite lost"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -1654,6 +1669,11 @@
       "content_hash": "7b461e6dfd3ea071",
       "last_seen": "2026-07-19",
       "title": "Why data may become China\u2019s most durable advantage in the AI race"
+    },
+    "https://www.scmp.com/news/china/politics/article/3363551/why-taiwan-conducting-its-first-ever-mobile-network-throttling-exercise?utm_source=rss_feed": {
+      "content_hash": "9783bdca3e08411d",
+      "last_seen": "2026-08-11",
+      "title": "Why Taiwan is conducting its first-ever mobile network throttling exercise"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -1874,6 +1894,11 @@
       "content_hash": "5bfdfdcd988ba31e",
       "last_seen": "2026-08-08",
       "title": "China plans to increase mine output in world\u2019s largest rare earth deposit by 50%"
+    },
+    "https://www.scmp.com/news/china/science/article/3363246/china-releases-powerful-dna-screening-ai-tool-free-help-fight-rare-diseases?utm_source=rss_feed": {
+      "content_hash": "7069418e0e7832c1",
+      "last_seen": "2026-08-11",
+      "title": "China releases powerful DNA-screening AI tool for free to help fight rare diseases"
     },
     "https://www.scmp.com/news/china/science/article/3363350/chinese-breakthrough-paves-way-production-graphene-based-quantum-chips?utm_source=rss_feed": {
       "content_hash": "f3899d1bd3c60300",
@@ -2211,5 +2236,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-09T20:10:50.986513+00:00"
+  "updated_at": "2026-08-10T20:16:44.804483+00:00"
 }
