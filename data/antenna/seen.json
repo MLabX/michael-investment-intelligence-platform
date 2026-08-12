@@ -295,6 +295,11 @@
       "last_seen": "2026-07-11",
       "title": "China unveils members of state-backed commercial space consortium"
     },
+    "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/": {
+      "content_hash": "d9793fc8ab977132",
+      "last_seen": "2026-08-13",
+      "title": "China\u2019s iSpace raises first batch of series E funding for reusable rocketry"
+    },
     "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/": {
       "content_hash": "83de8eb5279e9397",
       "last_seen": "2026-08-07",
@@ -1255,6 +1260,11 @@
       "last_seen": "2026-06-16",
       "title": "Pok\u00e9mon Go data helped train AI now linked to military drones"
     },
+    "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/": {
+      "content_hash": "c3d5d92c41a6a698",
+      "last_seen": "2026-08-13",
+      "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy"
+    },
     "https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/": {
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
@@ -1294,6 +1304,11 @@
       "content_hash": "69c49027fb191862",
       "last_seen": "2026-07-02",
       "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
+    },
+    "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/": {
+      "content_hash": "b5df1c588c7cb7b3",
+      "last_seen": "2026-08-13",
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price"
     },
     "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/": {
       "content_hash": "9a01793d72a2b5e1",
@@ -1680,6 +1695,11 @@
       "last_seen": "2026-08-11",
       "title": "China\u2019s Long March 7A rocket explodes after launch, satellite lost"
     },
+    "https://www.scmp.com/news/china/military/article/3363775/pla-hold-first-joint-naval-drill-indonesia-waters-east-taiwan?utm_source=rss_feed": {
+      "content_hash": "0d8be05939ab785d",
+      "last_seen": "2026-08-13",
+      "title": "PLA holds first joint naval drill with Indonesia in waters east of Taiwan"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -1704,6 +1724,11 @@
       "content_hash": "9783bdca3e08411d",
       "last_seen": "2026-08-11",
       "title": "Why Taiwan is conducting its first-ever mobile network throttling exercise"
+    },
+    "https://www.scmp.com/news/china/politics/article/3363792/chinese-economic-reformer-zhu-rongji-dies-aged-97?utm_source=rss_feed": {
+      "content_hash": "cfda033c271b45f9",
+      "last_seen": "2026-08-13",
+      "title": "Zhu Rongji, China\u2019s chief engineer of economic reform and former premier, dies aged 97"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -2110,6 +2135,11 @@
       "last_seen": "2026-07-10",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts"
     },
+    "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/": {
+      "content_hash": "c26e4a7aa4b7912a",
+      "last_seen": "2026-08-13",
+      "title": "Scientists just created female clones of male mice"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -2139,6 +2169,11 @@
       "content_hash": "5891f7a197b96220",
       "last_seen": "2026-07-07",
       "title": "Boston Dynamics brings its legged robots to the FIFA World Cup"
+    },
+    "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/": {
+      "content_hash": "25800424583b5b5d",
+      "last_seen": "2026-08-13",
+      "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics"
     },
     "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/": {
       "content_hash": "c3875ecfda291e62",
@@ -2235,6 +2270,11 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/": {
+      "content_hash": "b51415a063cc65a7",
+      "last_seen": "2026-08-13",
+      "title": "Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution"
+    },
     "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/": {
       "content_hash": "4cfa771553adfc3c",
       "last_seen": "2026-07-31",
@@ -2276,5 +2316,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-11T20:17:28.722950+00:00"
+  "updated_at": "2026-08-12T20:17:39.209359+00:00"
 }
