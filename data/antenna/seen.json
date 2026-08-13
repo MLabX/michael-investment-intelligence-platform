@@ -215,6 +215,11 @@
       "last_seen": "2026-07-08",
       "title": "Apolink makes contact with first relay satellite"
     },
+    "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/": {
+      "content_hash": "ddeebd8121fd0060",
+      "last_seen": "2026-08-14",
+      "title": "Astranis unveils geostationary surveillance satellite"
+    },
     "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/": {
       "content_hash": "cf39b6ce80ff035a",
       "last_seen": "2026-06-21",
@@ -494,6 +499,11 @@
       "content_hash": "a250968a29efea3c",
       "last_seen": "2026-06-11",
       "title": "Orbital raises $5 million to join orbital data center race"
+    },
+    "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/": {
+      "content_hash": "90babc2c408c9a27",
+      "last_seen": "2026-08-14",
+      "title": "Paragon lays off staff after Gateway cancellation"
     },
     "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/": {
       "content_hash": "2523de53a1ea7094",
@@ -924,6 +934,11 @@
       "content_hash": "e9aedce7fb35a31e",
       "last_seen": "2026-07-30",
       "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control"
+    },
+    "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/": {
+      "content_hash": "2aa9b8f3e42c0830",
+      "last_seen": "2026-08-14",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
     },
     "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/": {
       "content_hash": "4b1a7d979b1a07e4",
@@ -1565,6 +1580,11 @@
       "last_seen": "2026-08-12",
       "title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3363853/us-china-rivalry-takes-flight-over-scramble-contracts-ethiopias-bishoftu-airport?utm_source=rss_feed": {
+      "content_hash": "a0c142856b6abe27",
+      "last_seen": "2026-08-14",
+      "title": "US-China rivalry takes flight over scramble for contracts at Ethiopia\u2019s Bishoftu airport"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1699,6 +1719,11 @@
       "content_hash": "0d8be05939ab785d",
       "last_seen": "2026-08-13",
       "title": "PLA holds first joint naval drill with Indonesia in waters east of Taiwan"
+    },
+    "https://www.scmp.com/news/china/military/article/3363894/satellite-images-show-50-cent-boost-chinas-type-054b-missile-capacity?utm_source=rss_feed": {
+      "content_hash": "a1b3942170a59a6e",
+      "last_seen": "2026-08-14",
+      "title": "Satellite images show 50 per cent boost to China\u2019s Type 054B missile capacity"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -1975,6 +2000,16 @@
       "last_seen": "2026-08-12",
       "title": "China\u2019s hypersonic weapons can be guided by the stars if GPS fails: report"
     },
+    "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed": {
+      "content_hash": "c3eef8916982fd3c",
+      "last_seen": "2026-08-14",
+      "title": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy"
+    },
+    "https://www.scmp.com/news/china/science/article/3363873/chinese-yeast-factory-boosts-cancer-drug-production-speed-1000-times?utm_source=rss_feed": {
+      "content_hash": "64d6e4381496f878",
+      "last_seen": "2026-08-14",
+      "title": "Chinese \u2018yeast factory\u2019 boosts cancer drug production by 1,000 times"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2139,6 +2174,11 @@
       "content_hash": "c26e4a7aa4b7912a",
       "last_seen": "2026-08-13",
       "title": "Scientists just created female clones of male mice"
+    },
+    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/": {
+      "content_hash": "f2a9d58fe5faaac3",
+      "last_seen": "2026-08-14",
+      "title": "Building a practical path to post-quantum cryptography"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -2316,5 +2356,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-12T20:17:39.209359+00:00"
+  "updated_at": "2026-08-13T20:15:22.581637+00:00"
 }
