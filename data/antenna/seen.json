@@ -60,6 +60,11 @@
       "last_seen": "2026-08-12",
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users"
     },
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/": {
+      "content_hash": "31e7a846c7f3e4ae",
+      "last_seen": "2026-08-15",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -260,6 +265,11 @@
       "last_seen": "2026-07-02",
       "title": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight"
     },
+    "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/": {
+      "content_hash": "480c0d6284dcf7e4",
+      "last_seen": "2026-08-15",
+      "title": "Blue Origin outlines plans for second Cape Canaveral launch pad"
+    },
     "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/": {
       "content_hash": "7d81abf52e4fd5bb",
       "last_seen": "2026-07-10",
@@ -394,6 +404,11 @@
       "content_hash": "f8619d3a139be8db",
       "last_seen": "2026-07-28",
       "title": "Intel debuts new chip for space computing"
+    },
+    "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/": {
+      "content_hash": "3d8facb75536a48d",
+      "last_seen": "2026-08-15",
+      "title": "Intuitive Machines wins contract for three GEO satellites"
     },
     "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/": {
       "content_hash": "9c66b9a890dac710",
@@ -709,6 +724,11 @@
       "content_hash": "5c366c927c2eb13f",
       "last_seen": "2026-08-04",
       "title": "Alibaba\u2019s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
+    },
+    "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/": {
+      "content_hash": "d5dbc708a0f43b44",
+      "last_seen": "2026-08-15",
+      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
     },
     "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/": {
       "content_hash": "124f0eed1cb01828",
@@ -1329,6 +1349,11 @@
       "content_hash": "9a01793d72a2b5e1",
       "last_seen": "2026-08-06",
       "title": "SpaceX\u2019s ambitious compute goals could require over two million Nvidia Rubin GPUs"
+    },
+    "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/": {
+      "content_hash": "12e24242691289ec",
+      "last_seen": "2026-08-15",
+      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach"
     },
     "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/": {
       "content_hash": "3692c607249de80a",
@@ -2010,6 +2035,16 @@
       "last_seen": "2026-08-14",
       "title": "Chinese \u2018yeast factory\u2019 boosts cancer drug production by 1,000 times"
     },
+    "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed": {
+      "content_hash": "e1bb08f91ae5b444",
+      "last_seen": "2026-08-15",
+      "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America"
+    },
+    "https://www.scmp.com/news/china/science/article/3364045/miles-ahead-china-team-boosts-atom-entanglement-distance-record-fourfold?utm_source=rss_feed": {
+      "content_hash": "620dbdde7f6db715",
+      "last_seen": "2026-08-15",
+      "title": "Miles ahead: China team boosts atom entanglement distance record fourfold"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2285,6 +2320,11 @@
       "last_seen": "2026-08-06",
       "title": "Moove raises $250M to build infrastructure for autonomous vehicles"
     },
+    "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/": {
+      "content_hash": "6bc6658ccef4cb72",
+      "last_seen": "2026-08-15",
+      "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026"
+    },
     "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
       "content_hash": "f63b26092cbdf81e",
       "last_seen": "2026-06-17",
@@ -2356,5 +2396,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-13T20:15:22.581637+00:00"
+  "updated_at": "2026-08-14T20:13:00.599089+00:00"
 }
