@@ -700,6 +700,11 @@
       "last_seen": "2026-08-02",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot"
     },
+    "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/": {
+      "content_hash": "e794f433aa010c1a",
+      "last_seen": "2026-08-16",
+      "title": "AI-generated books are flooding Amazon and tanking sales for human authors"
+    },
     "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/": {
       "content_hash": "487f4eca83a7dad0",
       "last_seen": "2026-08-10",
@@ -1055,6 +1060,11 @@
       "last_seen": "2026-08-04",
       "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa"
     },
+    "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/": {
+      "content_hash": "33a877441c5f7fbb",
+      "last_seen": "2026-08-16",
+      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings"
+    },
     "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/": {
       "content_hash": "152578ca7b758fc6",
       "last_seen": "2026-06-28",
@@ -1380,6 +1390,11 @@
       "last_seen": "2026-07-19",
       "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment"
     },
+    "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/": {
+      "content_hash": "2bc872a53fd0bcb5",
+      "last_seen": "2026-08-16",
+      "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise"
+    },
     "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/": {
       "content_hash": "bd31611e0b5d5d26",
       "last_seen": "2026-07-21",
@@ -1389,6 +1404,11 @@
       "content_hash": "fa110c76b39f908b",
       "last_seen": "2026-08-06",
       "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
+    },
+    "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/": {
+      "content_hash": "8c7a81fada58090a",
+      "last_seen": "2026-08-16",
+      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -1749,6 +1769,11 @@
       "content_hash": "a1b3942170a59a6e",
       "last_seen": "2026-08-14",
       "title": "Satellite images show 50 per cent boost to China\u2019s Type 054B missile capacity"
+    },
+    "https://www.scmp.com/news/china/military/article/3364142/taiwan-drone-defences-fall-short-against-beijings-evolving-technology-audit-reveals?utm_source=rss_feed": {
+      "content_hash": "4d64f33b89b1a91f",
+      "last_seen": "2026-08-16",
+      "title": "Taiwan drone defences fall short against Beijing\u2019s evolving technology, audit reveals"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2396,5 +2421,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-14T20:13:00.599089+00:00"
+  "updated_at": "2026-08-15T20:06:04.609022+00:00"
 }
