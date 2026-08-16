@@ -660,6 +660,11 @@
       "last_seen": "2026-07-15",
       "title": "U.K. government preparing to release new space strategy"
     },
+    "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/": {
+      "content_hash": "26a04b18664b7633",
+      "last_seen": "2026-08-17",
+      "title": "U.S. defense agencies tap three companies for satellite disposal study"
+    },
     "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/": {
       "content_hash": "e811ae65c8bbe3e1",
       "last_seen": "2026-08-08",
@@ -1214,6 +1219,11 @@
       "content_hash": "439dec9b93f832bb",
       "last_seen": "2026-07-23",
       "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox"
+    },
+    "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/": {
+      "content_hash": "c5da554e873949ba",
+      "last_seen": "2026-08-17",
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
     },
     "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/": {
       "content_hash": "13a4d7a311b82714",
@@ -2065,10 +2075,25 @@
       "last_seen": "2026-08-15",
       "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America"
     },
+    "https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it?utm_source=rss_feed": {
+      "content_hash": "8f8e299415c6ccd0",
+      "last_seen": "2026-08-17",
+      "title": "China\u2019s \u2018electric eel\u2019 sensor allows robots to feel an object without touching it"
+    },
     "https://www.scmp.com/news/china/science/article/3364045/miles-ahead-china-team-boosts-atom-entanglement-distance-record-fourfold?utm_source=rss_feed": {
       "content_hash": "620dbdde7f6db715",
       "last_seen": "2026-08-15",
       "title": "Miles ahead: China team boosts atom entanglement distance record fourfold"
+    },
+    "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed": {
+      "content_hash": "915801860e1312ba",
+      "last_seen": "2026-08-17",
+      "title": "China\u2019s 1MW perovskite solar farm beats silicon system in industrial-scale test"
+    },
+    "https://www.scmp.com/news/china/science/article/3364176/chinese-brain-reading-ai-model-may-help-predict-depression-risk-4-years-advance?utm_source=rss_feed": {
+      "content_hash": "580078238c5fd067",
+      "last_seen": "2026-08-17",
+      "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -2421,5 +2446,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-15T20:06:04.609022+00:00"
+  "updated_at": "2026-08-16T20:06:22.251106+00:00"
 }
