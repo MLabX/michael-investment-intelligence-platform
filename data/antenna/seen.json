@@ -125,6 +125,11 @@
       "last_seen": "2026-08-07",
       "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident"
     },
+    "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/": {
+      "content_hash": "800b6b3f2c490b7c",
+      "last_seen": "2026-08-18",
+      "title": "Satellite operators are in panic mode due to a worsening launch crisis"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -455,6 +460,11 @@
       "last_seen": "2026-06-24",
       "title": "Loft Orbital to test AI models on spacecraft for Earth observation"
     },
+    "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/": {
+      "content_hash": "5772dba2f867a2ef",
+      "last_seen": "2026-08-18",
+      "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE"
+    },
     "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/": {
       "content_hash": "7ab23f029d2fefd7",
       "last_seen": "2026-06-12",
@@ -669,6 +679,11 @@
       "content_hash": "e811ae65c8bbe3e1",
       "last_seen": "2026-08-08",
       "title": "U.S. Senate confirms Schiess to lead Space Force"
+    },
+    "https://spacenews.com/ula-names-peller-as-new-ceo/": {
+      "content_hash": "84cc63ccb1dae126",
+      "last_seen": "2026-08-18",
+      "title": "ULA names Peller as new CEO"
     },
     "https://spacenews.com/vast-establishes-division-for-national-security-projects/": {
       "content_hash": "0f18726fe8889693",
@@ -1280,6 +1295,11 @@
       "last_seen": "2026-06-24",
       "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
     },
+    "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/": {
+      "content_hash": "3adf97f3b96996d3",
+      "last_seen": "2026-08-18",
+      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion"
+    },
     "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/": {
       "content_hash": "43a0dd8b445c3540",
       "last_seen": "2026-06-12",
@@ -1785,6 +1805,11 @@
       "last_seen": "2026-08-16",
       "title": "Taiwan drone defences fall short against Beijing\u2019s evolving technology, audit reveals"
     },
+    "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed": {
+      "content_hash": "74d2bf700b21daae",
+      "last_seen": "2026-08-18",
+      "title": "Taiwan teams up with US start-up on underwater drones to boost island\u2019s defences"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2145,6 +2170,11 @@
       "last_seen": "2026-08-12",
       "title": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block"
     },
+    "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners?utm_source=rss_feed": {
+      "content_hash": "a7957d5c668ca551",
+      "last_seen": "2026-08-18",
+      "title": "Pentagon orders 30 US universities to scrutinise ties with Chinese research partners"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -2189,6 +2219,11 @@
       "content_hash": "de62361c51136291",
       "last_seen": "2026-07-10",
       "title": "US-China AI war boils down to a contest over electricity"
+    },
+    "https://www.scmp.com/plus/economy/china-economy/article/3364282/chinas-economy-cools-amid-debate-about-risks-global-crisis?utm_source=rss_feed": {
+      "content_hash": "64e91ee87525298a",
+      "last_seen": "2026-08-18",
+      "title": "China\u2019s economy cools amid debate about risks of global crisis"
     },
     "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed": {
       "content_hash": "5f5fd6c4a14fff95",
@@ -2330,6 +2365,11 @@
       "last_seen": "2026-07-22",
       "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing"
     },
+    "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/": {
+      "content_hash": "701f763c28627ed9",
+      "last_seen": "2026-08-18",
+      "title": "Gravis Robotics raises $200M for autonomous construction"
+    },
     "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/": {
       "content_hash": "1ac26a0bab641a65",
       "last_seen": "2026-08-07",
@@ -2446,5 +2486,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-16T20:06:22.251106+00:00"
+  "updated_at": "2026-08-17T20:08:45.138022+00:00"
 }
