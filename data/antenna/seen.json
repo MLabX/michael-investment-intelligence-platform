@@ -125,6 +125,11 @@
       "last_seen": "2026-08-07",
       "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident"
     },
+    "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/": {
+      "content_hash": "d17c9553d5396483",
+      "last_seen": "2026-08-20",
+      "title": "The floodgates are open after another Chinese company lands a reusable rocket"
+    },
     "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/": {
       "content_hash": "69d08087db8e3033",
       "last_seen": "2026-08-19",
@@ -384,6 +389,11 @@
       "content_hash": "8535bdd3ad20fe68",
       "last_seen": "2026-06-09",
       "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty"
+    },
+    "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/": {
+      "content_hash": "4e0e2af4924c259f",
+      "last_seen": "2026-08-20",
+      "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission"
     },
     "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/": {
       "content_hash": "fdb7a2bb0cadcf44",
@@ -675,6 +685,11 @@
       "last_seen": "2026-07-10",
       "title": "The Exploration Company establishes US entity to pursue government contracts"
     },
+    "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/": {
+      "content_hash": "df8d68bee47efeff",
+      "last_seen": "2026-08-20",
+      "title": "The space industry\u2019s next challenge: supply chain resilience"
+    },
     "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/": {
       "content_hash": "974045aa28398465",
       "last_seen": "2026-06-17",
@@ -820,6 +835,11 @@
       "last_seen": "2026-07-03",
       "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters"
     },
+    "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/": {
+      "content_hash": "56dc966295c72fa3",
+      "last_seen": "2026-08-20",
+      "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack"
+    },
     "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/": {
       "content_hash": "554d2cba9d0687a8",
       "last_seen": "2026-07-29",
@@ -865,6 +885,11 @@
       "last_seen": "2026-07-12",
       "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
     },
+    "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/": {
+      "content_hash": "56f33e701734f13b",
+      "last_seen": "2026-08-20",
+      "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
+    },
     "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/": {
       "content_hash": "195a7e61d5189534",
       "last_seen": "2026-06-22",
@@ -904,6 +929,11 @@
       "content_hash": "40ac58f830e9d0fc",
       "last_seen": "2026-07-08",
       "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
+    "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/": {
+      "content_hash": "668373d3d1083b1f",
+      "last_seen": "2026-08-20",
+      "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US"
     },
     "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/": {
       "content_hash": "fa4c0a1acf7e3835",
@@ -1685,6 +1715,11 @@
       "last_seen": "2026-08-14",
       "title": "US-China rivalry takes flight over scramble for contracts at Ethiopia\u2019s Bishoftu airport"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3364599/china-blocks-firms-aiding-eus-jdcom-probe-regulatory-clash-deepens?utm_source=rss_feed": {
+      "content_hash": "f9eb37d2f38a5162",
+      "last_seen": "2026-08-20",
+      "title": "China blocks firms from aiding EU\u2019s JD.com probe as regulatory clash deepens"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2275,6 +2310,11 @@
       "last_seen": "2026-07-14",
       "title": "China joins US in reusable orbital rocket capability"
     },
+    "https://www.scmp.com/plus/news/china/science/article/3364562/china-joins-musks-spacex-reusable-rocket-breakthroughs?utm_source=rss_feed": {
+      "content_hash": "6e267ac6146f97f5",
+      "last_seen": "2026-08-20",
+      "title": "China joins Musk\u2019s SpaceX with reusable rocket breakthroughs"
+    },
     "https://www.scmp.com/plus/tech/tech-war/article/3358319/could-chinas-photonic-chips-help-it-leapfrog-us-ai?utm_source=rss_feed": {
       "content_hash": "efaad14d698578ce",
       "last_seen": "2026-06-26",
@@ -2526,5 +2566,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-18T20:07:22.534753+00:00"
+  "updated_at": "2026-08-19T20:08:40.236695+00:00"
 }
