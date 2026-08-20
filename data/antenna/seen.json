@@ -330,6 +330,11 @@
       "last_seen": "2026-07-11",
       "title": "China unveils members of state-backed commercial space consortium"
     },
+    "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/": {
+      "content_hash": "59003bac87d1aaa7",
+      "last_seen": "2026-08-21",
+      "title": "China\u2019s Chang\u2019e-7 lunar ice-hunting mission set for Sunday launch"
+    },
     "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/": {
       "content_hash": "d9793fc8ab977132",
       "last_seen": "2026-08-13",
@@ -494,6 +499,11 @@
       "content_hash": "9e99e301306b3e73",
       "last_seen": "2026-06-15",
       "title": "Missile production push runs into solid rocket motor bottleneck"
+    },
+    "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/": {
+      "content_hash": "20218ef56fe86b5a",
+      "last_seen": "2026-08-21",
+      "title": "Muon Space raises $250 million to ramp up satellite production"
     },
     "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/": {
       "content_hash": "6d5d2a63b4c6b792",
@@ -935,6 +945,11 @@
       "last_seen": "2026-08-20",
       "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US"
     },
+    "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/": {
+      "content_hash": "77b38b228df64b5d",
+      "last_seen": "2026-08-21",
+      "title": "China now has its own AI circular financing scheme"
+    },
     "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/": {
       "content_hash": "fa4c0a1acf7e3835",
       "last_seen": "2026-08-08",
@@ -1030,10 +1045,20 @@
       "last_seen": "2026-07-30",
       "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control"
     },
+    "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/": {
+      "content_hash": "57918725adb87dfd",
+      "last_seen": "2026-08-21",
+      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?"
+    },
     "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/": {
       "content_hash": "2aa9b8f3e42c0830",
       "last_seen": "2026-08-14",
       "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
+    },
+    "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/": {
+      "content_hash": "19cdc6550cd15155",
+      "last_seen": "2026-08-21",
+      "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo"
     },
     "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/": {
       "content_hash": "4b1a7d979b1a07e4",
@@ -1875,6 +1900,11 @@
       "last_seen": "2026-08-19",
       "title": "Taiwan launches first live-fire exercise with first-person view drones"
     },
+    "https://www.scmp.com/news/china/military/article/3364713/taiwan-proposes-record-us35b-defence-budget-2027-plas-pressure-grows?utm_source=rss_feed": {
+      "content_hash": "908c5a8993d9f102",
+      "last_seen": "2026-08-21",
+      "title": "Taiwan proposes record US$35b defence budget for 2027 as PLA\u2019s pressure grows"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2185,6 +2215,11 @@
       "last_seen": "2026-08-17",
       "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance"
     },
+    "https://www.scmp.com/news/china/science/article/3364718/chinese-stem-cell-therapy-reverses-heart-failure-90-patients-landmark-trial?utm_source=rss_feed": {
+      "content_hash": "b3b7e98da5fce4ac",
+      "last_seen": "2026-08-21",
+      "title": "Chinese stem cell therapy reverses heart failure in 90% of patients in landmark trial"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2395,6 +2430,11 @@
       "last_seen": "2026-07-02",
       "title": "Apptronik unveils Apollo 2 and a flagship data collection and training facility"
     },
+    "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/": {
+      "content_hash": "4ce777ab47625283",
+      "last_seen": "2026-08-21",
+      "title": "ATDev gives update on its journey building autonomous wheelchairs"
+    },
     "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/": {
       "content_hash": "1dd7c201bc83f330",
       "last_seen": "2026-06-23",
@@ -2566,5 +2606,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-19T20:08:40.236695+00:00"
+  "updated_at": "2026-08-20T20:09:33.006264+00:00"
 }
