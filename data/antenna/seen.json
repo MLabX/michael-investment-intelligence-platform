@@ -840,6 +840,11 @@
       "last_seen": "2026-06-08",
       "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs"
     },
+    "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/": {
+      "content_hash": "b3cb1f72d08a2ba5",
+      "last_seen": "2026-08-22",
+      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense"
+    },
     "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/": {
       "content_hash": "5c8c1819796423ed",
       "last_seen": "2026-07-03",
@@ -1005,6 +1010,11 @@
       "last_seen": "2026-07-15",
       "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now"
     },
+    "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/": {
+      "content_hash": "7e63192165723359",
+      "last_seen": "2026-08-22",
+      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks"
+    },
     "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/": {
       "content_hash": "5a2fe75749125f53",
       "last_seen": "2026-06-08",
@@ -1129,6 +1139,11 @@
       "content_hash": "bbcbe7c49c656adb",
       "last_seen": "2026-07-18",
       "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
+    },
+    "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/": {
+      "content_hash": "586e937cb5fd5277",
+      "last_seen": "2026-08-22",
+      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic"
     },
     "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/": {
       "content_hash": "93b696a5e84f4acb",
@@ -1259,6 +1274,11 @@
       "content_hash": "9810c200f6ebd8ec",
       "last_seen": "2026-08-12",
       "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing"
+    },
+    "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/": {
+      "content_hash": "83a6aeedd08d96fa",
+      "last_seen": "2026-08-22",
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion"
     },
     "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/": {
       "content_hash": "50535bed02970084",
@@ -1515,6 +1535,11 @@
       "last_seen": "2026-08-06",
       "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
     },
+    "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/": {
+      "content_hash": "1cb6739b7de3f435",
+      "last_seen": "2026-08-22",
+      "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race"
+    },
     "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/": {
       "content_hash": "8c7a81fada58090a",
       "last_seen": "2026-08-16",
@@ -1745,6 +1770,11 @@
       "last_seen": "2026-08-20",
       "title": "China blocks firms from aiding EU\u2019s JD.com probe as regulatory clash deepens"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3364853/china-and-us-push-southeast-asia-over-their-ai-blocs-will-it-test-regions-non-alignment?utm_source=rss_feed": {
+      "content_hash": "5d80048ad6c821cb",
+      "last_seen": "2026-08-22",
+      "title": "China and US push Southeast Asia over their AI blocs. Will it test region\u2019s non-alignment?"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1904,6 +1934,11 @@
       "content_hash": "908c5a8993d9f102",
       "last_seen": "2026-08-21",
       "title": "Taiwan proposes record US$35b defence budget for 2027 as PLA\u2019s pressure grows"
+    },
+    "https://www.scmp.com/news/china/military/article/3364878/why-chinas-reusable-rocket-breakthrough-matters-plas-kill-chain?utm_source=rss_feed": {
+      "content_hash": "a9325af5032c1b66",
+      "last_seen": "2026-08-22",
+      "title": "Why China\u2019s reusable rocket breakthrough matters for the PLA\u2019s \u2018kill chain\u2019"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2606,5 +2641,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-20T20:09:33.006264+00:00"
+  "updated_at": "2026-08-21T20:08:14.481472+00:00"
 }
