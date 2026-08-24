@@ -160,6 +160,11 @@
       "last_seen": "2026-07-15",
       "title": "New York bans data center construction for a year, rattling AI industry"
     },
+    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
+      "content_hash": "0c09a6d7e6f0f6b0",
+      "last_seen": "2026-08-25",
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -805,6 +810,11 @@
       "last_seen": "2026-08-15",
       "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
     },
+    "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/": {
+      "content_hash": "fc3bac9ff783ccfe",
+      "last_seen": "2026-08-25",
+      "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents"
+    },
     "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/": {
       "content_hash": "124f0eed1cb01828",
       "last_seen": "2026-06-19",
@@ -1295,6 +1305,11 @@
       "last_seen": "2026-08-12",
       "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing"
     },
+    "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/": {
+      "content_hash": "d179e158d45c5e66",
+      "last_seen": "2026-08-25",
+      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation"
+    },
     "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/": {
       "content_hash": "83a6aeedd08d96fa",
       "last_seen": "2026-08-22",
@@ -1449,6 +1464,11 @@
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
       "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\""
+    },
+    "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/": {
+      "content_hash": "d3f67e22cc87ac33",
+      "last_seen": "2026-08-25",
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch"
     },
     "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/": {
       "content_hash": "408be62df773c486",
@@ -1815,6 +1835,11 @@
       "last_seen": "2026-08-24",
       "title": "The African firms adopting Chinese AI as US-China rivalry intensifies"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed": {
+      "content_hash": "65cdd1410e958cf6",
+      "last_seen": "2026-08-25",
+      "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -1979,6 +2004,11 @@
       "content_hash": "a9325af5032c1b66",
       "last_seen": "2026-08-22",
       "title": "Why China\u2019s reusable rocket breakthrough matters for the PLA\u2019s \u2018kill chain\u2019"
+    },
+    "https://www.scmp.com/news/china/military/article/3365082/taiwan-unveils-strong-bow-anti-ballistic-missile-specs-push-us113-billion-funding?utm_source=rss_feed": {
+      "content_hash": "eeae56a24e4dc415",
+      "last_seen": "2026-08-25",
+      "title": "Taiwan unveils Strong Bow anti-ballistic missile specs in push for US$1.13 billion funding"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2300,10 +2330,20 @@
       "last_seen": "2026-08-24",
       "title": "Your backyard could hold a rare earth fortune \u2013 and this orange lichen is the clue"
     },
+    "https://www.scmp.com/news/china/science/article/3364808/china-team-brings-x-ray-vision-life-compact-high-speed-ghost-video-cam?utm_source=rss_feed": {
+      "content_hash": "0ed00e8cec446534",
+      "last_seen": "2026-08-25",
+      "title": "China team brings X-ray vision to life with a compact high-speed ghost video cam"
+    },
     "https://www.scmp.com/news/china/science/article/3364982/china-puts-change-7-mission-lunar-south-pole?utm_source=rss_feed": {
       "content_hash": "fde85017b3eda218",
       "last_seen": "2026-08-24",
       "title": "China delays Chang\u2019e-7 mission to drill for ice near lunar south pole"
+    },
+    "https://www.scmp.com/news/china/science/article/3365027/china-boosts-coals-economic-value-700-after-turning-it-liquids-report?utm_source=rss_feed": {
+      "content_hash": "7c2f2131937b5006",
+      "last_seen": "2026-08-25",
+      "title": "China boosts coal\u2019s economic value 700% after turning it to liquids: report"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -2701,5 +2741,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-23T20:06:37.238349+00:00"
+  "updated_at": "2026-08-24T20:10:32.778847+00:00"
 }
