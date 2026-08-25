@@ -130,6 +130,11 @@
       "last_seen": "2026-08-24",
       "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027"
     },
+    "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/": {
+      "content_hash": "3e729b9cda124036",
+      "last_seen": "2026-08-26",
+      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport"
+    },
     "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/": {
       "content_hash": "d17c9553d5396483",
       "last_seen": "2026-08-20",
@@ -800,6 +805,11 @@
       "last_seen": "2026-08-10",
       "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
     },
+    "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/": {
+      "content_hash": "3cf1195dad158aa3",
+      "last_seen": "2026-08-26",
+      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
+    },
     "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/": {
       "content_hash": "5c366c927c2eb13f",
       "last_seen": "2026-08-04",
@@ -1140,6 +1150,11 @@
       "last_seen": "2026-06-13",
       "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters"
     },
+    "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/": {
+      "content_hash": "79f5d961e923eea1",
+      "last_seen": "2026-08-26",
+      "title": "Google launches Gemini for legal work to automate contracts and research"
+    },
     "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/": {
       "content_hash": "9e59e21593e8ea0c",
       "last_seen": "2026-06-23",
@@ -1445,6 +1460,11 @@
       "last_seen": "2026-06-21",
       "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
     },
+    "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/": {
+      "content_hash": "f3ff8bbb473b8373",
+      "last_seen": "2026-08-26",
+      "title": "OpenAI's first custom chip \"Jalape\u00f1o\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks"
+    },
     "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/": {
       "content_hash": "a3bc245861c45293",
       "last_seen": "2026-06-27",
@@ -1545,6 +1565,11 @@
       "last_seen": "2026-07-29",
       "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe"
     },
+    "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/": {
+      "content_hash": "f6ad391133fb5bcd",
+      "last_seen": "2026-08-26",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks"
+    },
     "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/": {
       "content_hash": "391db9f854d49a82",
       "last_seen": "2026-07-11",
@@ -1574,6 +1599,11 @@
       "content_hash": "bd31611e0b5d5d26",
       "last_seen": "2026-07-21",
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure"
+    },
+    "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/": {
+      "content_hash": "8fc75fc806700c91",
+      "last_seen": "2026-08-26",
+      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership"
     },
     "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/": {
       "content_hash": "fa110c76b39f908b",
@@ -1840,6 +1870,11 @@
       "last_seen": "2026-08-25",
       "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3365239/us-admits-defeat-china-minerals-race-can-brazil-turn-panic-processing-power?utm_source=rss_feed": {
+      "content_hash": "489551c56442a0a3",
+      "last_seen": "2026-08-26",
+      "title": "US admits defeat in China minerals race. Can Brazil turn panic into processing power?"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2009,6 +2044,11 @@
       "content_hash": "eeae56a24e4dc415",
       "last_seen": "2026-08-25",
       "title": "Taiwan unveils Strong Bow anti-ballistic missile specs in push for US$1.13 billion funding"
+    },
+    "https://www.scmp.com/news/china/military/article/3365247/china-seeks-public-tips-procurement-violations-pla-rocket-force-probe-continues?utm_source=rss_feed": {
+      "content_hash": "20ad5abdb49bf088",
+      "last_seen": "2026-08-26",
+      "title": "China seeks public tips on procurement violations as PLA Rocket Force probe continues"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2741,5 +2781,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-24T20:10:32.778847+00:00"
+  "updated_at": "2026-08-25T20:11:08.608395+00:00"
 }
