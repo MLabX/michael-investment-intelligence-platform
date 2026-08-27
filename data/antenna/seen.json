@@ -55,6 +55,11 @@
       "last_seen": "2026-08-07",
       "title": "Anthropic will design its own hardware to power Claude"
     },
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
+      "content_hash": "eed5b481d75720cf",
+      "last_seen": "2026-08-28",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world"
+    },
     "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/": {
       "content_hash": "a60dd6fcf3bb89b7",
       "last_seen": "2026-08-12",
@@ -64,6 +69,11 @@
       "content_hash": "31e7a846c7f3e4ae",
       "last_seen": "2026-08-15",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+    },
+    "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/": {
+      "content_hash": "64d57f10de5c9a0a",
+      "last_seen": "2026-08-28",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion"
     },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
@@ -1355,6 +1365,11 @@
       "last_seen": "2026-06-18",
       "title": "Nvidia research shows robots that train themselves through AI coding agents"
     },
+    "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/": {
+      "content_hash": "7d4bc56f8464071c",
+      "last_seen": "2026-08-28",
+      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away"
+    },
     "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/": {
       "content_hash": "165c47fa847e7957",
       "last_seen": "2026-07-21",
@@ -1424,6 +1439,11 @@
       "content_hash": "bcdefe3ad0753792",
       "last_seen": "2026-08-03",
       "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
+    },
+    "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/": {
+      "content_hash": "595e9e63ce6428e6",
+      "last_seen": "2026-08-28",
+      "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -2415,6 +2435,11 @@
       "last_seen": "2026-08-27",
       "title": "Could the delay to China\u2019s moon mission ease pressure on Nasa?"
     },
+    "https://www.scmp.com/news/china/science/article/3365488/china-and-nepal-built-early-warning-system-melting-glaciers-himalayas-does-it-work?utm_source=rss_feed": {
+      "content_hash": "8137bcd7d2702921",
+      "last_seen": "2026-08-28",
+      "title": "China and Nepal built an early warning system for melting glaciers in Himalayas. Does it work?"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2549,6 +2574,11 @@
       "content_hash": "6e267ac6146f97f5",
       "last_seen": "2026-08-20",
       "title": "China joins Musk\u2019s SpaceX with reusable rocket breakthroughs"
+    },
+    "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed": {
+      "content_hash": "409dc97e0eab72f8",
+      "last_seen": "2026-08-28",
+      "title": "Gates pitches US-China AI cooperation ahead of Xi meeting"
     },
     "https://www.scmp.com/plus/tech/tech-war/article/3358319/could-chinas-photonic-chips-help-it-leapfrog-us-ai?utm_source=rss_feed": {
       "content_hash": "efaad14d698578ce",
@@ -2745,6 +2775,11 @@
       "last_seen": "2026-08-15",
       "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026"
     },
+    "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/": {
+      "content_hash": "76d1af81589cabc4",
+      "last_seen": "2026-08-28",
+      "title": "NSF to invest $90M into three new technology centers, including one focused on robotics"
+    },
     "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
       "content_hash": "f63b26092cbdf81e",
       "last_seen": "2026-06-17",
@@ -2821,5 +2856,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-26T20:53:52.965572+00:00"
+  "updated_at": "2026-08-27T23:11:40.416137+00:00"
 }
