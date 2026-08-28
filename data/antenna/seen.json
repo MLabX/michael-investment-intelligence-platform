@@ -180,6 +180,11 @@
       "last_seen": "2026-08-25",
       "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China"
     },
+    "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
+      "content_hash": "cbe4d799c2860670",
+      "last_seen": "2026-08-29",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -840,6 +845,11 @@
       "last_seen": "2026-06-19",
       "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis"
     },
+    "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/": {
+      "content_hash": "237a2643d20290e9",
+      "last_seen": "2026-08-29",
+      "title": "Always-on and self-starting AI agents might be OpenAI's next big play"
+    },
     "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/": {
       "content_hash": "bf551f35bfd2c919",
       "last_seen": "2026-06-18",
@@ -1159,6 +1169,11 @@
       "content_hash": "c69d2d1da1f56fbb",
       "last_seen": "2026-08-02",
       "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
+    },
+    "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/": {
+      "content_hash": "8630e114aac20aab",
+      "last_seen": "2026-08-29",
+      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
     },
     "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/": {
       "content_hash": "a9bd244e791ff7cf",
@@ -1635,6 +1650,11 @@
       "last_seen": "2026-07-21",
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure"
     },
+    "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/": {
+      "content_hash": "f72a5aead186566e",
+      "last_seen": "2026-08-29",
+      "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful"
+    },
     "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/": {
       "content_hash": "8fc75fc806700c91",
       "last_seen": "2026-08-26",
@@ -1914,6 +1934,11 @@
       "content_hash": "d68b39e312d85721",
       "last_seen": "2026-08-27",
       "title": "China vows payback for US Iran sanctions, testing stability ahead of Xi-Trump summit"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3365645/uzbekistan-tests-us-china-ai-rift-bid-join-rival-tech-bloc?utm_source=rss_feed": {
+      "content_hash": "4818163f6a11abb8",
+      "last_seen": "2026-08-29",
+      "title": "Uzbekistan tests US-China AI rift with bid to join rival tech bloc"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -2440,6 +2465,16 @@
       "last_seen": "2026-08-28",
       "title": "China and Nepal built an early warning system for melting glaciers in Himalayas. Does it work?"
     },
+    "https://www.scmp.com/news/china/science/article/3365514/asian-water-tower-starting-wobble-computer-simulations-show?utm_source=rss_feed": {
+      "content_hash": "4d16f7e5a2b7512b",
+      "last_seen": "2026-08-29",
+      "title": "The \u2018Asian water tower\u2019 is starting to wobble, computer simulations show"
+    },
+    "https://www.scmp.com/news/china/science/article/3365533/gong-zizheng-who-led-chinas-planetary-defence-project-dies-61?utm_source=rss_feed": {
+      "content_hash": "3eb095cdf19f3f8f",
+      "last_seen": "2026-08-29",
+      "title": "Gong Zizheng, who led China\u2019s planetary defence project, dies at 61"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2765,6 +2800,11 @@
       "last_seen": "2026-07-07",
       "title": "Kraken Robotics acquires Covelya Group for $615M"
     },
+    "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/": {
+      "content_hash": "bf4557bbb7a0e9e5",
+      "last_seen": "2026-08-29",
+      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation"
+    },
     "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/": {
       "content_hash": "5b11d6ece82329cf",
       "last_seen": "2026-08-06",
@@ -2856,5 +2896,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-27T23:11:40.416137+00:00"
+  "updated_at": "2026-08-28T21:58:59.091632+00:00"
 }
