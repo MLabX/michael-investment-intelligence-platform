@@ -800,6 +800,11 @@
       "last_seen": "2026-08-16",
       "title": "AI-generated books are flooding Amazon and tanking sales for human authors"
     },
+    "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/": {
+      "content_hash": "ac7d5c6bff837423",
+      "last_seen": "2026-08-30",
+      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry"
+    },
     "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/": {
       "content_hash": "487f4eca83a7dad0",
       "last_seen": "2026-08-10",
@@ -929,6 +934,11 @@
       "content_hash": "e4b9eb0ff5aaa4b8",
       "last_seen": "2026-06-11",
       "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches"
+    },
+    "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/": {
+      "content_hash": "9476071b6baf781c",
+      "last_seen": "2026-08-30",
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software"
     },
     "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/": {
       "content_hash": "a88551d60855e100",
@@ -1185,6 +1195,11 @@
       "last_seen": "2026-06-13",
       "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters"
     },
+    "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/": {
+      "content_hash": "0c9a50a6fda2a00e",
+      "last_seen": "2026-08-30",
+      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance"
+    },
     "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/": {
       "content_hash": "79f5d961e923eea1",
       "last_seen": "2026-08-26",
@@ -1264,6 +1279,11 @@
       "content_hash": "6dd556797626cf37",
       "last_seen": "2026-07-17",
       "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI"
+    },
+    "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/": {
+      "content_hash": "da92a0e884bd88c1",
+      "last_seen": "2026-08-30",
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research"
     },
     "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/": {
       "content_hash": "1753e4fbe3e1f1d4",
@@ -1940,6 +1960,11 @@
       "last_seen": "2026-08-29",
       "title": "Uzbekistan tests US-China AI rift with bid to join rival tech bloc"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3365708/chinas-middle-east-policy-crossroads-6-months-us-israeli-war-iran?utm_source=rss_feed": {
+      "content_hash": "3e4aa3cef996b32a",
+      "last_seen": "2026-08-30",
+      "title": "China\u2019s Middle East policy at a crossroads 6 months into US-Israeli war on Iran"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2114,6 +2139,16 @@
       "content_hash": "20ad5abdb49bf088",
       "last_seen": "2026-08-26",
       "title": "China seeks public tips on procurement violations as PLA Rocket Force probe continues"
+    },
+    "https://www.scmp.com/news/china/military/article/3365654/china-tests-gj-21-stealth-drone-sichuan-type-076-warship-carries-out-sea-trials?utm_source=rss_feed": {
+      "content_hash": "8347273a09ae1982",
+      "last_seen": "2026-08-30",
+      "title": "China tests GJ-21 stealth drone as Sichuan Type 076 warship carries out sea trials"
+    },
+    "https://www.scmp.com/news/china/military/article/3365697/what-japans-coming-fighter-jet-deployment-india-means-china?utm_source=rss_feed": {
+      "content_hash": "aaffa458b7dbc697",
+      "last_seen": "2026-08-30",
+      "title": "What Japan\u2019s coming fighter jet deployment to India means for China"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2896,5 +2931,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-28T21:58:59.091632+00:00"
+  "updated_at": "2026-08-29T20:14:09.327519+00:00"
 }
