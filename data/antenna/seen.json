@@ -220,6 +220,11 @@
       "last_seen": "2026-07-03",
       "title": "Noah Smith on negative emotional contagion"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/08/china-fact-of-the-day-81.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-81": {
+      "content_hash": "b2017c7a1b759cb8",
+      "last_seen": "2026-08-31",
+      "title": "China fact of the day"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts": {
       "content_hash": "97e6b1befc43f8bf",
       "last_seen": "2026-08-19",
@@ -819,6 +824,11 @@
       "content_hash": "0d7247ff26ff3d6f",
       "last_seen": "2026-08-02",
       "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
+    },
+    "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/": {
+      "content_hash": "5689a6d03c666740",
+      "last_seen": "2026-08-31",
+      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce"
     },
     "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/": {
       "content_hash": "039bd77e63525d4d",
@@ -1600,6 +1610,11 @@
       "last_seen": "2026-06-25",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
     },
+    "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/": {
+      "content_hash": "6a38b5c8d6b26306",
+      "last_seen": "2026-08-31",
+      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
+    },
     "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/": {
       "content_hash": "52b290e0529afc7c",
       "last_seen": "2026-07-13",
@@ -2150,6 +2165,16 @@
       "last_seen": "2026-08-30",
       "title": "What Japan\u2019s coming fighter jet deployment to India means for China"
     },
+    "https://www.scmp.com/news/china/military/article/3365756/uzbekistan-confirmed-second-country-buy-chinas-j-10ce-fighter?utm_source=rss_feed": {
+      "content_hash": "66d9aba4fbf33391",
+      "last_seen": "2026-08-31",
+      "title": "Uzbekistan confirmed as second country to buy China\u2019s J-10CE fighter"
+    },
+    "https://www.scmp.com/news/china/military/article/3365761/pla-shift-systems-warfare-means-taiwans-defences-need-change-experts?utm_source=rss_feed": {
+      "content_hash": "ade961faa83bccd2",
+      "last_seen": "2026-08-31",
+      "title": "PLA shift to systems warfare means Taiwan\u2019s defences need to change: experts"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2695,6 +2720,11 @@
       "last_seen": "2026-08-23",
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
+    "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
+      "content_hash": "eeb96f5bc48374c3",
+      "last_seen": "2026-08-31",
+      "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -2931,5 +2961,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-29T20:14:09.327519+00:00"
+  "updated_at": "2026-08-30T20:14:37.733893+00:00"
 }
