@@ -995,6 +995,11 @@
       "last_seen": "2026-07-06",
       "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting"
     },
+    "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/": {
+      "content_hash": "af337ed855fcf0f1",
+      "last_seen": "2026-09-01",
+      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
+    },
     "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/": {
       "content_hash": "a13724f8ad509f80",
       "last_seen": "2026-06-10",
@@ -1004,6 +1009,11 @@
       "content_hash": "3fab22de402cd098",
       "last_seen": "2026-08-27",
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit"
+    },
+    "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/": {
+      "content_hash": "f87d1032f998ef80",
+      "last_seen": "2026-09-01",
+      "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
     },
     "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/": {
       "content_hash": "a8040b95cd4c13d1",
@@ -1034,6 +1044,11 @@
       "content_hash": "77b38b228df64b5d",
       "last_seen": "2026-08-21",
       "title": "China now has its own AI circular financing scheme"
+    },
+    "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/": {
+      "content_hash": "f98fa7d74b145be2",
+      "last_seen": "2026-09-01",
+      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap"
     },
     "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/": {
       "content_hash": "fa4c0a1acf7e3835",
@@ -2520,6 +2535,11 @@
       "last_seen": "2026-08-27",
       "title": "Could the delay to China\u2019s moon mission ease pressure on Nasa?"
     },
+    "https://www.scmp.com/news/china/science/article/3365415/chinese-team-maps-south-china-sea-floor-twice-resolution-western-models?utm_source=rss_feed": {
+      "content_hash": "2abf978e0c02b23a",
+      "last_seen": "2026-09-01",
+      "title": "Chinese team maps South China Sea floor with \u2018twice the resolution\u2019 of Western models"
+    },
     "https://www.scmp.com/news/china/science/article/3365488/china-and-nepal-built-early-warning-system-melting-glaciers-himalayas-does-it-work?utm_source=rss_feed": {
       "content_hash": "8137bcd7d2702921",
       "last_seen": "2026-08-28",
@@ -2900,6 +2920,11 @@
       "last_seen": "2026-07-01",
       "title": "Queue raises funding to build fully autonomous pharmacy"
     },
+    "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/": {
+      "content_hash": "338e66e1789d0f02",
+      "last_seen": "2026-09-01",
+      "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building"
+    },
     "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/": {
       "content_hash": "b3a9eeae48d36a48",
       "last_seen": "2026-08-04",
@@ -2961,5 +2986,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-30T20:14:37.733893+00:00"
+  "updated_at": "2026-08-31T20:16:09.586738+00:00"
 }
