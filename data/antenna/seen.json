@@ -1595,6 +1595,11 @@
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
     },
+    "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/": {
+      "content_hash": "5dc4bf639ee4a94b",
+      "last_seen": "2026-09-02",
+      "title": "Runway's Solaris is an AI system that generates software interfaces in real time"
+    },
     "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/": {
       "content_hash": "0607952bff1b26e4",
       "last_seen": "2026-08-27",
@@ -2190,6 +2195,11 @@
       "last_seen": "2026-08-31",
       "title": "PLA shift to systems warfare means Taiwan\u2019s defences need to change: experts"
     },
+    "https://www.scmp.com/news/china/military/article/3365993/china-highlights-advanced-wartime-tech-defence-mobilisation-law-update?utm_source=rss_feed": {
+      "content_hash": "c8be01ce8b442fc4",
+      "last_seen": "2026-09-02",
+      "title": "China highlights advanced wartime tech in defence mobilisation law update"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2555,6 +2565,11 @@
       "last_seen": "2026-08-29",
       "title": "Gong Zizheng, who led China\u2019s planetary defence project, dies at 61"
     },
+    "https://www.scmp.com/news/china/science/article/3365943/starship-could-create-more-debris-anti-satellite-test-if-it-explodes-orbit?utm_source=rss_feed": {
+      "content_hash": "de243d5842805271",
+      "last_seen": "2026-09-02",
+      "title": "Starship could create more debris than an anti-satellite test if it explodes in orbit"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2634,6 +2649,11 @@
       "content_hash": "e3293d7a130a88dd",
       "last_seen": "2026-07-31",
       "title": "Selection for next UN chief gets underway with first \u2018straw poll\u2019"
+    },
+    "https://www.scmp.com/news/us/diplomacy/article/3366032/us-military-carries-out-new-strikes-iranian-targets-hostilities-flare?utm_source=rss_feed": {
+      "content_hash": "b7d24711193a4bd8",
+      "last_seen": "2026-09-02",
+      "title": "US military carries out new strikes on Iranian targets as hostilities flare"
     },
     "https://www.scmp.com/news/us/politics/article/3361647/pentagon-expands-blacklist-include-chinas-top-civilian-universities?utm_source=rss_feed": {
       "content_hash": "a11368feee69924c",
@@ -2765,6 +2785,11 @@
       "last_seen": "2026-08-14",
       "title": "Building a practical path to post-quantum cryptography"
     },
+    "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/": {
+      "content_hash": "44ba0d4dcbd6deb4",
+      "last_seen": "2026-09-02",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -2819,6 +2844,11 @@
       "content_hash": "0a2897faa91781a3",
       "last_seen": "2026-08-19",
       "title": "FORT Robotics to take safety stack public via SPAC merger"
+    },
+    "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features/": {
+      "content_hash": "61da036e8c0ef734",
+      "last_seen": "2026-09-02",
+      "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD"
     },
     "https://www.therobotreport.com/gatik-brings-autonomous-freight-pepsico-north-american-supply-chain/": {
       "content_hash": "5c431c1d3e3efc75",
@@ -2986,5 +3016,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-08-31T20:16:09.586738+00:00"
+  "updated_at": "2026-09-01T20:16:18.378529+00:00"
 }
