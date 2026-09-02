@@ -190,6 +190,11 @@
       "last_seen": "2026-07-07",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
     },
+    "https://libertystreeteconomics.newyorkfed.org/2026/09/are-central-banks-moving-out-of-dollar-assets/": {
+      "content_hash": "af8eac4e2dd15678",
+      "last_seen": "2026-09-03",
+      "title": "Are Central Banks Moving Out of Dollar Assets?"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation": {
       "content_hash": "dcf9c2818477825b",
       "last_seen": "2026-06-27",
@@ -1585,6 +1590,11 @@
       "last_seen": "2026-06-16",
       "title": "Pok\u00e9mon Go data helped train AI now linked to military drones"
     },
+    "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/": {
+      "content_hash": "e7a66e2fbae92edb",
+      "last_seen": "2026-09-03",
+      "title": "Protests against AI data centers play into China's hands, Trump says"
+    },
     "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/": {
       "content_hash": "c3d5d92c41a6a698",
       "last_seen": "2026-08-13",
@@ -1720,6 +1730,16 @@
       "last_seen": "2026-08-06",
       "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
     },
+    "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/": {
+      "content_hash": "1fc73c5a92a081f9",
+      "last_seen": "2026-09-03",
+      "title": "US Department of Justice backs fair use for AI training in landmark copyright case"
+    },
+    "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/": {
+      "content_hash": "cdb30f57af9a2b69",
+      "last_seen": "2026-09-03",
+      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil"
+    },
     "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/": {
       "content_hash": "1cb6739b7de3f435",
       "last_seen": "2026-08-22",
@@ -1729,6 +1749,11 @@
       "content_hash": "8c7a81fada58090a",
       "last_seen": "2026-08-16",
       "title": "World Labs turns one real-world robot task into thousands of simulated variations for training"
+    },
+    "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/": {
+      "content_hash": "1ebf7582132571d0",
+      "last_seen": "2026-09-03",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos"
     },
     "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/": {
       "content_hash": "21ddd621c851f131",
@@ -2565,6 +2590,11 @@
       "last_seen": "2026-08-29",
       "title": "Gong Zizheng, who led China\u2019s planetary defence project, dies at 61"
     },
+    "https://www.scmp.com/news/china/science/article/3365942/chinas-2026-moon-laser-communication-speed-slower-nasas-2013?utm_source=rss_feed": {
+      "content_hash": "e099bb75b0f45e07",
+      "last_seen": "2026-09-03",
+      "title": "China\u2019s 2026 moon laser communication speed is slower than Nasa\u2019s in 2013"
+    },
     "https://www.scmp.com/news/china/science/article/3365943/starship-could-create-more-debris-anti-satellite-test-if-it-explodes-orbit?utm_source=rss_feed": {
       "content_hash": "de243d5842805271",
       "last_seen": "2026-09-02",
@@ -2685,6 +2715,11 @@
       "last_seen": "2026-07-10",
       "title": "US-China AI war boils down to a contest over electricity"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3365853/china-egypt-joint-drills-show-beijings-military-reach?utm_source=rss_feed": {
+      "content_hash": "86f08acdbaa56670",
+      "last_seen": "2026-09-03",
+      "title": "China-Egypt joint drills a show of Beijing\u2019s military reach"
+    },
     "https://www.scmp.com/plus/economy/china-economy/article/3364282/chinas-economy-cools-amid-debate-about-risks-global-crisis?utm_source=rss_feed": {
       "content_hash": "64e91ee87525298a",
       "last_seen": "2026-08-18",
@@ -2804,6 +2839,11 @@
       "content_hash": "5d99658f94c08c8f",
       "last_seen": "2026-07-11",
       "title": "AI\u00b2 Robotics raises $735M at $3B valuation for wheeled humanoid robots"
+    },
+    "https://www.therobotreport.com/air-uses-elmo-motion-control-technology-in-uncrewed-cargo-aircraft/": {
+      "content_hash": "aa324182ca6cef01",
+      "last_seen": "2026-09-03",
+      "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft"
     },
     "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/": {
       "content_hash": "66d86bb1810db77c",
@@ -3016,5 +3056,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-01T20:16:18.378529+00:00"
+  "updated_at": "2026-09-02T20:16:17.655229+00:00"
 }
