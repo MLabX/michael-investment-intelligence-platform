@@ -75,6 +75,11 @@
       "last_seen": "2026-08-28",
       "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion"
     },
+    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
+      "content_hash": "c8ee12d3894a21ef",
+      "last_seen": "2026-09-04",
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -920,6 +925,11 @@
       "last_seen": "2026-08-22",
       "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense"
     },
+    "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/": {
+      "content_hash": "315c991431caf9d2",
+      "last_seen": "2026-09-04",
+      "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal"
+    },
     "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/": {
       "content_hash": "5c8c1819796423ed",
       "last_seen": "2026-07-03",
@@ -1270,6 +1280,11 @@
       "last_seen": "2026-07-16",
       "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it"
     },
+    "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/": {
+      "content_hash": "6797eba36af7bbe8",
+      "last_seen": "2026-09-04",
+      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\""
+    },
     "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/": {
       "content_hash": "b9e8c332bdfc23c5",
       "last_seen": "2026-06-28",
@@ -1464,6 +1479,11 @@
       "content_hash": "8f409b78a29d98be",
       "last_seen": "2026-07-13",
       "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs"
+    },
+    "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/": {
+      "content_hash": "9f97d959bb9f3de0",
+      "last_seen": "2026-09-04",
+      "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout"
     },
     "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/": {
       "content_hash": "439dec9b93f832bb",
@@ -2225,6 +2245,16 @@
       "last_seen": "2026-09-02",
       "title": "China highlights advanced wartime tech in defence mobilisation law update"
     },
+    "https://www.scmp.com/news/china/military/article/3366256/chinese-militarys-ai-attack-chain-lags-foreign-models-researchers?utm_source=rss_feed": {
+      "content_hash": "248201b22f9fea9e",
+      "last_seen": "2026-09-04",
+      "title": "Chinese military\u2019s AI attack chain lags foreign models: researchers"
+    },
+    "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed": {
+      "content_hash": "bd6ed115415a0aa2",
+      "last_seen": "2026-09-04",
+      "title": "Extra funds push Taiwan\u2019s defence spending past NT$1 trillion for the first time"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2599,6 +2629,11 @@
       "content_hash": "de243d5842805271",
       "last_seen": "2026-09-02",
       "title": "Starship could create more debris than an anti-satellite test if it explodes in orbit"
+    },
+    "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals?utm_source=rss_feed": {
+      "content_hash": "43b78076d17107b7",
+      "last_seen": "2026-09-04",
+      "title": "China-Singapore security team claims breakthrough in hacking Starlink terminals"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -2985,6 +3020,11 @@
       "last_seen": "2026-07-26",
       "title": "Photos: First look at J&J\u2019s Ottava surgical robot"
     },
+    "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/": {
+      "content_hash": "8b601c1a7fc992b4",
+      "last_seen": "2026-09-04",
+      "title": "PlusAI to take autonomous trucking public via a SPAC deal"
+    },
     "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/": {
       "content_hash": "ccac03c7c838f21e",
       "last_seen": "2026-07-01",
@@ -3056,5 +3096,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-02T20:16:17.655229+00:00"
+  "updated_at": "2026-09-03T20:15:30.349023+00:00"
 }
