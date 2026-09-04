@@ -75,6 +75,11 @@
       "last_seen": "2026-08-28",
       "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion"
     },
+    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
+      "content_hash": "ca55a5a94123e1b1",
+      "last_seen": "2026-09-05",
+      "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight"
+    },
     "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
       "content_hash": "c8ee12d3894a21ef",
       "last_seen": "2026-09-04",
@@ -1125,6 +1130,11 @@
       "last_seen": "2026-07-15",
       "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now"
     },
+    "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/": {
+      "content_hash": "4c2bfe7e8ade2df2",
+      "last_seen": "2026-09-05",
+      "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia"
+    },
     "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/": {
       "content_hash": "7e63192165723359",
       "last_seen": "2026-08-22",
@@ -1595,6 +1605,11 @@
       "last_seen": "2026-07-12",
       "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour"
     },
+    "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/": {
+      "content_hash": "bb3d034073b461ee",
+      "last_seen": "2026-09-05",
+      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+    },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
@@ -2045,6 +2060,11 @@
       "last_seen": "2026-08-30",
       "title": "China\u2019s Middle East policy at a crossroads 6 months into US-Israeli war on Iran"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed": {
+      "content_hash": "5e8eafe763f7b3dc",
+      "last_seen": "2026-09-05",
+      "title": "Why the EU is giving Arctic shipping the cold shoulder as China and Russia push ahead"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2254,6 +2274,11 @@
       "content_hash": "bd6ed115415a0aa2",
       "last_seen": "2026-09-04",
       "title": "Extra funds push Taiwan\u2019s defence spending past NT$1 trillion for the first time"
+    },
+    "https://www.scmp.com/news/china/military/article/3366413/china-us-military-commanders-snap-2-year-break-talks-canada?utm_source=rss_feed": {
+      "content_hash": "4cc3648dc98afa26",
+      "last_seen": "2026-09-05",
+      "title": "China, US military commanders snap 2-year break with talks in Canada"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -2635,6 +2660,11 @@
       "last_seen": "2026-09-04",
       "title": "China-Singapore security team claims breakthrough in hacking Starlink terminals"
     },
+    "https://www.scmp.com/news/china/science/article/3366307/chinese-team-extracts-uranium-seawater-8-times-us-target-rate?utm_source=rss_feed": {
+      "content_hash": "f35a9dea328eae52",
+      "last_seen": "2026-09-05",
+      "title": "Chinese team extracts uranium from seawater at 8 times the US target rate"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2960,6 +2990,11 @@
       "last_seen": "2026-08-07",
       "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics"
     },
+    "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/": {
+      "content_hash": "bb541bdbb43d508d",
+      "last_seen": "2026-09-05",
+      "title": "How FPGAs become the gatekeepers of physical AI security"
+    },
     "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/": {
       "content_hash": "4c91aa8762a93d3f",
       "last_seen": "2026-06-23",
@@ -2994,6 +3029,11 @@
       "content_hash": "bf4557bbb7a0e9e5",
       "last_seen": "2026-08-29",
       "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation"
+    },
+    "https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/": {
+      "content_hash": "d81b5986082eb3df",
+      "last_seen": "2026-09-05",
+      "title": "Lyte raises $165M to help robots better sense their surroundings"
     },
     "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/": {
       "content_hash": "5b11d6ece82329cf",
@@ -3096,5 +3136,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-03T20:15:30.349023+00:00"
+  "updated_at": "2026-09-04T20:15:19.282206+00:00"
 }
