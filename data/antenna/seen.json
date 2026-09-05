@@ -1475,6 +1475,11 @@
       "last_seen": "2026-07-30",
       "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval"
     },
+    "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/": {
+      "content_hash": "04cdd98aca14d18c",
+      "last_seen": "2026-09-06",
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+    },
     "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/": {
       "content_hash": "11cf81315c1e2bd4",
       "last_seen": "2026-06-25",
@@ -2665,6 +2670,16 @@
       "last_seen": "2026-09-05",
       "title": "Chinese team extracts uranium from seawater at 8 times the US target rate"
     },
+    "https://www.scmp.com/news/china/science/article/3366481/chinese-german-team-builds-ultra-sensitive-floating-compass-hunt-dark-matter?utm_source=rss_feed": {
+      "content_hash": "0bc1a5f3a98629f6",
+      "last_seen": "2026-09-06",
+      "title": "Chinese-German team builds ultra-sensitive \u2018floating compass\u2019 to hunt dark matter"
+    },
+    "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions?utm_source=rss_feed": {
+      "content_hash": "e28a00033719a7b9",
+      "last_seen": "2026-09-06",
+      "title": "China launches plan for 3D satellite network to monitor sun and cosmic explosions"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2861,8 +2876,8 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "eeb96f5bc48374c3",
-      "last_seen": "2026-08-31",
+      "content_hash": "af150bd5a66facd9",
+      "last_seen": "2026-09-06",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -2914,6 +2929,11 @@
       "content_hash": "66d86bb1810db77c",
       "last_seen": "2026-07-02",
       "title": "Apptronik unveils Apollo 2 and a flagship data collection and training facility"
+    },
+    "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/": {
+      "content_hash": "f2da8d4793681c7d",
+      "last_seen": "2026-09-06",
+      "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing"
     },
     "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/": {
       "content_hash": "4ce777ab47625283",
@@ -3136,5 +3156,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-04T20:15:19.282206+00:00"
+  "updated_at": "2026-09-05T20:14:30.490967+00:00"
 }
