@@ -1030,6 +1030,11 @@
       "last_seen": "2026-08-27",
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit"
     },
+    "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/": {
+      "content_hash": "de4ff5c946582ee9",
+      "last_seen": "2026-09-07",
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists"
+    },
     "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/": {
       "content_hash": "f87d1032f998ef80",
       "last_seen": "2026-09-01",
@@ -1274,6 +1279,11 @@
       "content_hash": "4d93060642f67e2c",
       "last_seen": "2026-06-11",
       "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word"
+    },
+    "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/": {
+      "content_hash": "931a5b1ce35a306a",
+      "last_seen": "2026-09-07",
+      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data"
     },
     "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/": {
       "content_hash": "bbcbe7c49c656adb",
@@ -2285,6 +2295,16 @@
       "last_seen": "2026-09-05",
       "title": "China, US military commanders snap 2-year break with talks in Canada"
     },
+    "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed": {
+      "content_hash": "c576b3f146f8ec52",
+      "last_seen": "2026-09-07",
+      "title": "Chinese military university urged to revise AI course to \u2018educate for war\u2019"
+    },
+    "https://www.scmp.com/news/china/military/article/3366531/what-chinas-lop-nur-desert-base-expansion-means-pla-stealth-jets-race-us?utm_source=rss_feed": {
+      "content_hash": "a55993f3830fa077",
+      "last_seen": "2026-09-07",
+      "title": "What China\u2019s Lop Nur desert base expansion means for PLA stealth jets in race with US"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2670,6 +2690,11 @@
       "last_seen": "2026-09-05",
       "title": "Chinese team extracts uranium from seawater at 8 times the US target rate"
     },
+    "https://www.scmp.com/news/china/science/article/3366315/china-begins-mining-iron-tailings-low-grade-ore-can-meet-its-demand-decades?utm_source=rss_feed": {
+      "content_hash": "2af1967b7c81861d",
+      "last_seen": "2026-09-07",
+      "title": "China begins mining iron from tailings, low-grade ore that can meet its demand for decades"
+    },
     "https://www.scmp.com/news/china/science/article/3366481/chinese-german-team-builds-ultra-sensitive-floating-compass-hunt-dark-matter?utm_source=rss_feed": {
       "content_hash": "0bc1a5f3a98629f6",
       "last_seen": "2026-09-06",
@@ -2877,7 +2902,7 @@
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
       "content_hash": "af150bd5a66facd9",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -3156,5 +3181,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-05T20:14:30.490967+00:00"
+  "updated_at": "2026-09-06T20:15:00.449694+00:00"
 }
