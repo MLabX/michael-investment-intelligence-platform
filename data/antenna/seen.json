@@ -815,6 +815,11 @@
       "last_seen": "2026-08-02",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot"
     },
+    "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/": {
+      "content_hash": "0ec9ee30bba0d4e8",
+      "last_seen": "2026-09-08",
+      "title": "AI-designed drug appears to turn back the body's biological clock in early trial"
+    },
     "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/": {
       "content_hash": "e794f433aa010c1a",
       "last_seen": "2026-08-16",
@@ -939,6 +944,11 @@
       "content_hash": "5c8c1819796423ed",
       "last_seen": "2026-07-03",
       "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters"
+    },
+    "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/": {
+      "content_hash": "2c75e2c429faa291",
+      "last_seen": "2026-09-08",
+      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk"
     },
     "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/": {
       "content_hash": "56dc966295c72fa3",
@@ -1299,6 +1309,11 @@
       "content_hash": "93b696a5e84f4acb",
       "last_seen": "2026-07-16",
       "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it"
+    },
+    "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/": {
+      "content_hash": "814682032acbbe4d",
+      "last_seen": "2026-09-08",
+      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours"
     },
     "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/": {
       "content_hash": "6797eba36af7bbe8",
@@ -2305,6 +2320,11 @@
       "last_seen": "2026-09-07",
       "title": "What China\u2019s Lop Nur desert base expansion means for PLA stealth jets in race with US"
     },
+    "https://www.scmp.com/news/china/military/article/3366658/taiwan-sets-us-backed-cyber-unit-hunt-hidden-military-threats?utm_source=rss_feed": {
+      "content_hash": "442919fd6fe47b56",
+      "last_seen": "2026-09-08",
+      "title": "Taiwan sets up US-backed cyber unit to hunt hidden military threats"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2704,6 +2724,11 @@
       "content_hash": "e28a00033719a7b9",
       "last_seen": "2026-09-06",
       "title": "China launches plan for 3D satellite network to monitor sun and cosmic explosions"
+    },
+    "https://www.scmp.com/news/china/science/article/3366665/china-and-russia-launch-first-sea-ice-survey-aboard-xuelong-2-arctic-tensions-swell?utm_source=rss_feed": {
+      "content_hash": "c79d6d0b973c7c12",
+      "last_seen": "2026-09-08",
+      "title": "China and Russia launch first sea ice survey aboard Xuelong 2 as Arctic tensions swell"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3181,5 +3206,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-06T20:15:00.449694+00:00"
+  "updated_at": "2026-09-07T20:15:22.610643+00:00"
 }
