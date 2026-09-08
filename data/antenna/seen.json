@@ -100,6 +100,11 @@
       "last_seen": "2026-07-24",
       "title": "Google just had its first negative cash flow quarter due to massive AI spending"
     },
+    "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/": {
+      "content_hash": "9f54a85cf1e2179a",
+      "last_seen": "2026-09-09",
+      "title": "The secret to protecting next-gen spacecraft might be eggshells"
+    },
     "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/": {
       "content_hash": "16dd21496d67d130",
       "last_seen": "2026-06-16",
@@ -1005,6 +1010,11 @@
       "last_seen": "2026-07-12",
       "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
     },
+    "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/": {
+      "content_hash": "468a910b60a4f824",
+      "last_seen": "2026-09-09",
+      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip"
+    },
     "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/": {
       "content_hash": "56f33e701734f13b",
       "last_seen": "2026-08-20",
@@ -1424,6 +1434,11 @@
       "content_hash": "120777599ca198a1",
       "last_seen": "2026-06-17",
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
+    },
+    "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/": {
+      "content_hash": "fa1e818b62664804",
+      "last_seen": "2026-09-09",
+      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals"
     },
     "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/": {
       "content_hash": "b01f94b7f00a5114",
@@ -2095,6 +2110,16 @@
       "last_seen": "2026-09-05",
       "title": "Why the EU is giving Arctic shipping the cold shoulder as China and Russia push ahead"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed": {
+      "content_hash": "9474f1cd6a981122",
+      "last_seen": "2026-09-09",
+      "title": "Huawei goes on trial in US for racketeering after nearly decade of litigation"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3366833/us-secretary-state-rubio-arrives-colombia-clarify-china-ties-sign-minerals-deal?utm_source=rss_feed": {
+      "content_hash": "6359a924a9a90c40",
+      "last_seen": "2026-09-09",
+      "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2325,6 +2350,11 @@
       "last_seen": "2026-09-08",
       "title": "Taiwan sets up US-backed cyber unit to hunt hidden military threats"
     },
+    "https://www.scmp.com/news/china/military/article/3366797/chinas-hq-17ae-shorad-system-boost-pakistani-drone-defence-india-tensions-simmer?utm_source=rss_feed": {
+      "content_hash": "fe717412a1906dca",
+      "last_seen": "2026-09-09",
+      "title": "China\u2019s HQ-17AE Shorad system to boost Pakistani drone defence as India tensions simmer"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2359,6 +2389,11 @@
       "content_hash": "0eb76b18f23c6fad",
       "last_seen": "2026-08-27",
       "title": "China makes officials liable for environmental damage for life"
+    },
+    "https://www.scmp.com/news/china/politics/article/3366802/chinas-highest-court-sets-out-new-ai-red-lines-rules-deepfakes-and-privacy?utm_source=rss_feed": {
+      "content_hash": "1dcb391dd00c307b",
+      "last_seen": "2026-09-09",
+      "title": "China\u2019s highest court sets out new AI red lines with rules on deepfakes and privacy"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -2926,8 +2961,8 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "af150bd5a66facd9",
-      "last_seen": "2026-09-07",
+      "content_hash": "b8966ba24c03c5b3",
+      "last_seen": "2026-09-09",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -3206,5 +3241,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-07T20:15:22.610643+00:00"
+  "updated_at": "2026-09-08T20:15:29.067424+00:00"
 }
