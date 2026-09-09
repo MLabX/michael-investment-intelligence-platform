@@ -200,6 +200,11 @@
       "last_seen": "2026-08-29",
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge"
     },
+    "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/": {
+      "content_hash": "da1fcfa15d594e99",
+      "last_seen": "2026-09-10",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -965,6 +970,11 @@
       "last_seen": "2026-07-29",
       "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
     },
+    "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/": {
+      "content_hash": "970952d661559fc1",
+      "last_seen": "2026-09-10",
+      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade"
+    },
     "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/": {
       "content_hash": "cf123f9a140e0212",
       "last_seen": "2026-08-09",
@@ -1019,6 +1029,11 @@
       "content_hash": "56f33e701734f13b",
       "last_seen": "2026-08-20",
       "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
+    },
+    "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/": {
+      "content_hash": "83f75322acd9924f",
+      "last_seen": "2026-09-10",
+      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips"
     },
     "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/": {
       "content_hash": "195a7e61d5189534",
@@ -1755,6 +1770,11 @@
       "last_seen": "2026-08-23",
       "title": "Study explains why AI agents benefit from \"skills\" and when they fail"
     },
+    "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/": {
+      "content_hash": "64e2a2f02c7e8f3a",
+      "last_seen": "2026-09-10",
+      "title": "Suno launches v6 music models built with Warner, BMG, and Believe"
+    },
     "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/": {
       "content_hash": "3692c607249de80a",
       "last_seen": "2026-07-29",
@@ -1859,6 +1879,11 @@
       "content_hash": "de5a620e4eecfcba",
       "last_seen": "2026-07-14",
       "title": "China\u2019s drug industry pivots to AI-powered candidates to drive next wave of deals"
+    },
+    "https://www.scmp.com/business/china-business/article/3366863/china-embraces-ai-only-24-us-pharma-execs-bet-it-drug-making?utm_source=rss_feed": {
+      "content_hash": "bdd6f729a73225af",
+      "last_seen": "2026-09-10",
+      "title": "As China embraces AI, only 24% of US pharmaceutical execs bet on it for innovation"
     },
     "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed": {
       "content_hash": "b9d7ff6be0492b7c",
@@ -2355,6 +2380,11 @@
       "last_seen": "2026-09-09",
       "title": "China\u2019s HQ-17AE Shorad system to boost Pakistani drone defence as India tensions simmer"
     },
+    "https://www.scmp.com/news/china/military/article/3366915/merging-air-land-and-sea-swarms-next-frontier-chinas-drone-technology?utm_source=rss_feed": {
+      "content_hash": "564822501f5ebb94",
+      "last_seen": "2026-09-10",
+      "title": "Merging air, land and sea swarms \u2013 the next frontier in China\u2019s drone technology"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2765,6 +2795,11 @@
       "last_seen": "2026-09-08",
       "title": "China and Russia launch first sea ice survey aboard Xuelong 2 as Arctic tensions swell"
     },
+    "https://www.scmp.com/news/china/science/article/3366908/us-scrambles-match-chinas-air-breathing-hypersonic-missiles-darpa-programme?utm_source=rss_feed": {
+      "content_hash": "e9f738541a42450e",
+      "last_seen": "2026-09-10",
+      "title": "US scrambles to match China\u2019s air-breathing hypersonic missiles with Darpa programme"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -2961,8 +2996,8 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "b8966ba24c03c5b3",
-      "last_seen": "2026-09-09",
+      "content_hash": "7ed5df8e8be1230a",
+      "last_seen": "2026-09-10",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -3241,5 +3276,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-08T20:15:29.067424+00:00"
+  "updated_at": "2026-09-09T20:16:01.896088+00:00"
 }
