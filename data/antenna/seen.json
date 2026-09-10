@@ -175,6 +175,11 @@
       "last_seen": "2026-08-18",
       "title": "Satellite operators are in panic mode due to a worsening launch crisis"
     },
+    "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/": {
+      "content_hash": "bef1f5e8e6882d13",
+      "last_seen": "2026-09-11",
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -199,6 +204,11 @@
       "content_hash": "cbe4d799c2860670",
       "last_seen": "2026-08-29",
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge"
+    },
+    "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
+      "content_hash": "fbdad24e4756894c",
+      "last_seen": "2026-09-11",
+      "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google"
     },
     "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/": {
       "content_hash": "da1fcfa15d594e99",
@@ -855,6 +865,11 @@
       "last_seen": "2026-08-02",
       "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
     },
+    "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/": {
+      "content_hash": "c32f9f20c0625a92",
+      "last_seen": "2026-09-11",
+      "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News"
+    },
     "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/": {
       "content_hash": "5689a6d03c666740",
       "last_seen": "2026-08-31",
@@ -1479,6 +1494,11 @@
       "content_hash": "f499961043554c59",
       "last_seen": "2026-07-14",
       "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast"
+    },
+    "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/": {
+      "content_hash": "fc84ccd2732ca2c0",
+      "last_seen": "2026-09-11",
+      "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation"
     },
     "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/": {
       "content_hash": "9810c200f6ebd8ec",
@@ -2385,6 +2405,16 @@
       "last_seen": "2026-09-10",
       "title": "Merging air, land and sea swarms \u2013 the next frontier in China\u2019s drone technology"
     },
+    "https://www.scmp.com/news/china/military/article/3367060/japans-ai-satellites-and-other-space-ambitions-serious-threat-china-warns?utm_source=rss_feed": {
+      "content_hash": "5d62b347a5664f9a",
+      "last_seen": "2026-09-11",
+      "title": "Japan\u2019s AI satellites and other space ambitions \u2018a serious threat\u2019, China warns"
+    },
+    "https://www.scmp.com/news/china/military/article/3367069/us-navy-plans-compact-silent-anvil-torpedo-chinas-submarine-fleet-surges?utm_source=rss_feed": {
+      "content_hash": "96909a6db867e2d2",
+      "last_seen": "2026-09-11",
+      "title": "US Navy plans compact Silent Anvil torpedo as China\u2019s submarine fleet surges"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2799,6 +2829,11 @@
       "content_hash": "e9f738541a42450e",
       "last_seen": "2026-09-10",
       "title": "US scrambles to match China\u2019s air-breathing hypersonic missiles with Darpa programme"
+    },
+    "https://www.scmp.com/news/china/science/article/3367077/chinese-scientists-boost-hydrogen-fuel-cell-power-fourfold-new-design?utm_source=rss_feed": {
+      "content_hash": "2bac7391b1be3285",
+      "last_seen": "2026-09-11",
+      "title": "Chinese scientists boost hydrogen fuel cell power fourfold with new design"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3276,5 +3311,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-09T20:16:01.896088+00:00"
+  "updated_at": "2026-09-10T20:14:32.856999+00:00"
 }
