@@ -915,6 +915,11 @@
       "last_seen": "2026-06-19",
       "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis"
     },
+    "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/": {
+      "content_hash": "092fd68331d982b5",
+      "last_seen": "2026-09-14",
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
+    },
     "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/": {
       "content_hash": "237a2643d20290e9",
       "last_seen": "2026-08-29",
@@ -1389,6 +1394,11 @@
       "content_hash": "6797eba36af7bbe8",
       "last_seen": "2026-09-04",
       "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\""
+    },
+    "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/": {
+      "content_hash": "bb308cc204f6e171",
+      "last_seen": "2026-09-14",
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own"
     },
     "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/": {
       "content_hash": "b9e8c332bdfc23c5",
@@ -2475,6 +2485,11 @@
       "last_seen": "2026-09-13",
       "title": "Why PLA\u2019s laser-equipped Type 19 vehicle could matter in a Taiwan conflict"
     },
+    "https://www.scmp.com/news/china/military/article/3367350/china-h-6n-bomber-enhances-nuclear-deterrence-and-second-strike-capability?utm_source=rss_feed": {
+      "content_hash": "25f3f7b60a6bb61b",
+      "last_seen": "2026-09-14",
+      "title": "For China, H-6N bomber enhances nuclear deterrence and second-strike capability"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2895,6 +2910,16 @@
       "last_seen": "2026-09-11",
       "title": "Chinese scientists boost hydrogen fuel cell power fourfold with new design"
     },
+    "https://www.scmp.com/news/china/science/article/3367154/chinas-fast-telescope-maps-neutral-hydrogen-cosmic-gas-making-stars?utm_source=rss_feed": {
+      "content_hash": "1d69639659788bec",
+      "last_seen": "2026-09-14",
+      "title": "China\u2019s FAST telescope maps neutral hydrogen, the cosmic gas for making stars"
+    },
+    "https://www.scmp.com/news/china/science/article/3367332/chinese-scientists-develop-new-oil-refining-method-may-cut-energy-use-90?utm_source=rss_feed": {
+      "content_hash": "70ed98a392a1cba7",
+      "last_seen": "2026-09-14",
+      "title": "Chinese scientists develop new oil refining method that may cut energy use by 90%"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -3096,9 +3121,14 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "7ed5df8e8be1230a",
-      "last_seen": "2026-09-10",
+      "content_hash": "b8966ba24c03c5b3",
+      "last_seen": "2026-09-14",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
+    },
+    "https://www.sixthtone.com/news/1018990/china moves to address self-driving cars in national law": {
+      "content_hash": "5449ed84c38ffe4c",
+      "last_seen": "2026-09-14",
+      "title": "China Moves to Address Self-Driving Cars in National Law"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
@@ -3376,5 +3406,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-12T20:14:53.664666+00:00"
+  "updated_at": "2026-09-13T20:15:05.360783+00:00"
 }
