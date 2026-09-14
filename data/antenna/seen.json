@@ -75,6 +75,11 @@
       "last_seen": "2026-08-28",
       "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion"
     },
+    "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/": {
+      "content_hash": "e1020a48872f52db",
+      "last_seen": "2026-09-15",
+      "title": "AI leaders want to hit the brakes after years of reckless speed"
+    },
     "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
       "content_hash": "ca55a5a94123e1b1",
       "last_seen": "2026-09-05",
@@ -209,6 +214,11 @@
       "content_hash": "cbe4d799c2860670",
       "last_seen": "2026-08-29",
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge"
+    },
+    "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
+      "content_hash": "6f175087702e305c",
+      "last_seen": "2026-09-15",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out"
     },
     "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
       "content_hash": "fbdad24e4756894c",
@@ -1130,6 +1140,11 @@
       "last_seen": "2026-07-08",
       "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
     },
+    "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/": {
+      "content_hash": "9d4b4bf0753ae95f",
+      "last_seen": "2026-09-15",
+      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage"
+    },
     "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/": {
       "content_hash": "668373d3d1083b1f",
       "last_seen": "2026-08-20",
@@ -1509,6 +1524,11 @@
       "content_hash": "e670e5596a90aa1a",
       "last_seen": "2026-06-15",
       "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner"
+    },
+    "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/": {
+      "content_hash": "8996f90d6ae98e63",
+      "last_seen": "2026-09-15",
+      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights"
     },
     "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/": {
       "content_hash": "120777599ca198a1",
@@ -3020,6 +3040,11 @@
       "last_seen": "2026-06-16",
       "title": "EU says China trained Russian troops as bloc weighs tougher stance on Beijing"
     },
+    "https://www.scmp.com/news/world/europe/article/3367505/german-intelligence-report-warns-rising-chinese-russian-spy-threat?utm_source=rss_feed": {
+      "content_hash": "82aa0d084740bdba",
+      "last_seen": "2026-09-15",
+      "title": "German intelligence report warns of rising Chinese, Russian spy threat"
+    },
     "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions?utm_source=rss_feed": {
       "content_hash": "1a60545f77e706f3",
       "last_seen": "2026-07-07",
@@ -3040,6 +3065,11 @@
       "last_seen": "2026-09-03",
       "title": "China-Egypt joint drills a show of Beijing\u2019s military reach"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3367255/chinas-j-10ce-has-foreign-buyers-not-yet-market?utm_source=rss_feed": {
+      "content_hash": "65a7f754e7bca137",
+      "last_seen": "2026-09-15",
+      "title": "China\u2019s J-10CE has foreign buyers, but not yet a market"
+    },
     "https://www.scmp.com/plus/economy/china-economy/article/3364282/chinas-economy-cools-amid-debate-about-risks-global-crisis?utm_source=rss_feed": {
       "content_hash": "64e91ee87525298a",
       "last_seen": "2026-08-18",
@@ -3054,6 +3084,11 @@
       "content_hash": "7b844f7f73bdfa6f",
       "last_seen": "2026-09-12",
       "title": "Xi in India, bank capital injections, EU-China trade"
+    },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed": {
+      "content_hash": "10b07e69c9089a8b",
+      "last_seen": "2026-09-15",
+      "title": "Xi touts Brics cooperation on AI as US titans flag tech risks"
     },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
@@ -3154,6 +3189,11 @@
       "content_hash": "44ba0d4dcbd6deb4",
       "last_seen": "2026-09-02",
       "title": "How AI plotted an interstellar journey to Alpha Centauri"
+    },
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/": {
+      "content_hash": "22cf1df822950041",
+      "last_seen": "2026-09-15",
+      "title": "The AI industry has taken a doomer turn. What now?"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -3406,5 +3446,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-13T20:15:05.360783+00:00"
+  "updated_at": "2026-09-14T20:16:26.096607+00:00"
 }
