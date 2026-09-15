@@ -190,6 +190,11 @@
       "last_seen": "2026-09-12",
       "title": "NASA moving at warp speed to set up US Space Academy"
     },
+    "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/": {
+      "content_hash": "06d5b5ccba454a94",
+      "last_seen": "2026-09-16",
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -595,6 +600,11 @@
       "last_seen": "2026-06-15",
       "title": "Missile production push runs into solid rocket motor bottleneck"
     },
+    "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/": {
+      "content_hash": "486e284c976ad7c5",
+      "last_seen": "2026-09-16",
+      "title": "More satellites watch the battlefield, putting a premium on making sense of the data"
+    },
     "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/": {
       "content_hash": "20218ef56fe86b5a",
       "last_seen": "2026-08-21",
@@ -855,6 +865,11 @@
       "last_seen": "2026-08-02",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot"
     },
+    "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/": {
+      "content_hash": "b5d0b3742c17027a",
+      "last_seen": "2026-09-16",
+      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside"
+    },
     "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/": {
       "content_hash": "0ec9ee30bba0d4e8",
       "last_seen": "2026-09-08",
@@ -884,6 +899,11 @@
       "content_hash": "0d7247ff26ff3d6f",
       "last_seen": "2026-08-02",
       "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
+    },
+    "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/": {
+      "content_hash": "b20515e1f4e8c2ce",
+      "last_seen": "2026-09-16",
+      "title": "AI labs have a data trust problem that their policies haven't solved"
     },
     "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/": {
       "content_hash": "c32f9f20c0625a92",
@@ -1349,6 +1369,11 @@
       "content_hash": "0c9a50a6fda2a00e",
       "last_seen": "2026-08-30",
       "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance"
+    },
+    "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/": {
+      "content_hash": "87e4452df69eaa84",
+      "last_seen": "2026-09-16",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost"
     },
     "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/": {
       "content_hash": "79f5d961e923eea1",
@@ -2510,6 +2535,11 @@
       "last_seen": "2026-09-14",
       "title": "For China, H-6N bomber enhances nuclear deterrence and second-strike capability"
     },
+    "https://www.scmp.com/news/china/military/article/3367614/taiwan-tests-us-made-mq-9b-drones-counter-pla-grey-zone-operations?utm_source=rss_feed": {
+      "content_hash": "ccf413c16df9224b",
+      "last_seen": "2026-09-16",
+      "title": "Taiwan tests US-made MQ-9B drones to counter PLA \u2018grey-zone\u2019 operations"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -2939,6 +2969,16 @@
       "content_hash": "70ed98a392a1cba7",
       "last_seen": "2026-09-14",
       "title": "Chinese scientists develop new oil refining method that may cut energy use by 90%"
+    },
+    "https://www.scmp.com/news/china/science/article/3367490/chinese-plant-extracts-critical-rare-metals-lithium-waste-world-first?utm_source=rss_feed": {
+      "content_hash": "ff450a76f256f226",
+      "last_seen": "2026-09-16",
+      "title": "Chinese plant extracts critical rare metals from lithium waste in world first"
+    },
+    "https://www.scmp.com/news/china/science/article/3367546/china-mulls-building-nuclear-powered-tank-450km-range-railgun-2-decades?utm_source=rss_feed": {
+      "content_hash": "6e243c426058d254",
+      "last_seen": "2026-09-16",
+      "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3446,5 +3486,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-14T20:16:26.096607+00:00"
+  "updated_at": "2026-09-15T20:16:08.846447+00:00"
 }
