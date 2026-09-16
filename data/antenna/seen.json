@@ -1275,6 +1275,11 @@
       "last_seen": "2026-08-01",
       "title": "EU pools up to \u20ac30 billion for AI gigafactories while US tech giants casually spend 20 times more"
     },
+    "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/": {
+      "content_hash": "f8c488b77efd98de",
+      "last_seen": "2026-09-17",
+      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
+    },
     "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/": {
       "content_hash": "0140fd7ce325024f",
       "last_seen": "2026-06-30",
@@ -1334,6 +1339,11 @@
       "content_hash": "a0668dec00887f92",
       "last_seen": "2026-07-20",
       "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
+    },
+    "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/": {
+      "content_hash": "dba70d2d327ce137",
+      "last_seen": "2026-09-17",
+      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI"
     },
     "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/": {
       "content_hash": "93d1d7bac0866189",
@@ -1575,6 +1585,11 @@
       "last_seen": "2026-07-28",
       "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
     },
+    "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/": {
+      "content_hash": "40a916ba64384652",
+      "last_seen": "2026-09-17",
+      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024"
+    },
     "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/": {
       "content_hash": "b263861b1ad14b42",
       "last_seen": "2026-08-23",
@@ -1804,6 +1819,11 @@
       "content_hash": "408be62df773c486",
       "last_seen": "2026-06-16",
       "title": "Pok\u00e9mon Go data helped train AI now linked to military drones"
+    },
+    "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/": {
+      "content_hash": "c18bbb95c84c4d93",
+      "last_seen": "2026-09-17",
+      "title": "Political opposites unite in Washington to rein in AI"
     },
     "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/": {
       "content_hash": "e7a66e2fbae92edb",
@@ -2980,6 +3000,11 @@
       "last_seen": "2026-09-16",
       "title": "China mulls building nuclear-powered tank with 450km-range railgun in 2 decades"
     },
+    "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system?utm_source=rss_feed": {
+      "content_hash": "fa0f5e9e588c92d6",
+      "last_seen": "2026-09-17",
+      "title": "China uses 100,000 home-grown AI chips to build leading weather forecast system"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -3486,5 +3511,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-15T20:16:08.846447+00:00"
+  "updated_at": "2026-09-16T20:16:51.462125+00:00"
 }
