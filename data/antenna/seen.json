@@ -190,6 +190,11 @@
       "last_seen": "2026-09-12",
       "title": "NASA moving at warp speed to set up US Space Academy"
     },
+    "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/": {
+      "content_hash": "9b751962e3c2b586",
+      "last_seen": "2026-09-18",
+      "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans"
+    },
     "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/": {
       "content_hash": "06d5b5ccba454a94",
       "last_seen": "2026-09-16",
@@ -720,6 +725,11 @@
       "last_seen": "2026-07-16",
       "title": "Satellite investment sets annual record halfway through 2026"
     },
+    "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/": {
+      "content_hash": "d5adf21a060b5921",
+      "last_seen": "2026-09-18",
+      "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation"
+    },
     "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/": {
       "content_hash": "339dbf373597fefa",
       "last_seen": "2026-06-12",
@@ -994,6 +1004,11 @@
       "content_hash": "2f9370a308fa1e31",
       "last_seen": "2026-08-19",
       "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion"
+    },
+    "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/": {
+      "content_hash": "3b3f5ca3105150b7",
+      "last_seen": "2026-09-18",
+      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows"
     },
     "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/": {
       "content_hash": "fffaed19c99fab9b",
@@ -1735,6 +1750,11 @@
       "last_seen": "2026-08-28",
       "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent"
     },
+    "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/": {
+      "content_hash": "ff345055fac14cb6",
+      "last_seen": "2026-09-18",
+      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem"
+    },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
       "last_seen": "2026-06-08",
@@ -2289,6 +2309,11 @@
       "content_hash": "3ee53d1fc060923c",
       "last_seen": "2026-09-13",
       "title": "Under Trump\u2019s shadow, Brics takes step towards de-dollarisation"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries?utm_source=rss_feed": {
+      "content_hash": "33c5125b39acd6a1",
+      "last_seen": "2026-09-18",
+      "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3005,6 +3030,11 @@
       "last_seen": "2026-09-17",
       "title": "China uses 100,000 home-grown AI chips to build leading weather forecast system"
     },
+    "https://www.scmp.com/news/china/science/article/3367792/us-sanctions-boost-chinas-science-driven-innovation-over-70-study-finds?utm_source=rss_feed": {
+      "content_hash": "e01c3686b221fb78",
+      "last_seen": "2026-09-18",
+      "title": "US sanctions boost China\u2019s science-driven innovation by over 70%, study finds"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -3511,5 +3541,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-16T20:16:51.462125+00:00"
+  "updated_at": "2026-09-17T20:16:48.352865+00:00"
 }
