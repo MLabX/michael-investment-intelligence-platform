@@ -85,6 +85,11 @@
       "last_seen": "2026-09-05",
       "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight"
     },
+    "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/": {
+      "content_hash": "3dfe303ad311e18f",
+      "last_seen": "2026-09-19",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion"
+    },
     "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
       "content_hash": "c8ee12d3894a21ef",
       "last_seen": "2026-09-04",
@@ -870,6 +875,11 @@
       "last_seen": "2026-06-14",
       "title": "Visual Language Models Train Robots to Read Human Emotions"
     },
+    "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/": {
+      "content_hash": "a4a998a03afde0ac",
+      "last_seen": "2026-09-19",
+      "title": "42 leading mathematicians warn that AI existential risk is real and urgent"
+    },
     "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/": {
       "content_hash": "1d8c72ebdd3a24e8",
       "last_seen": "2026-08-02",
@@ -1144,6 +1154,11 @@
       "content_hash": "3fab22de402cd098",
       "last_seen": "2026-08-27",
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit"
+    },
+    "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/": {
+      "content_hash": "8e5769d900c692e6",
+      "last_seen": "2026-09-19",
+      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models"
     },
     "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/": {
       "content_hash": "de4ff5c946582ee9",
@@ -1880,6 +1895,11 @@
       "last_seen": "2026-07-23",
       "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup"
     },
+    "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/": {
+      "content_hash": "dfb1abc9d546006f",
+      "last_seen": "2026-09-19",
+      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours"
+    },
     "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/": {
       "content_hash": "ac7a89749a62eae3",
       "last_seen": "2026-07-04",
@@ -1989,6 +2009,11 @@
       "content_hash": "fa110c76b39f908b",
       "last_seen": "2026-08-06",
       "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
+    },
+    "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/": {
+      "content_hash": "4f4ccbef79e4a4cf",
+      "last_seen": "2026-09-19",
+      "title": "US and China experts push for shared rules banning AI control over nuclear weapons"
     },
     "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/": {
       "content_hash": "1fc73c5a92a081f9",
@@ -2584,6 +2609,11 @@
       "content_hash": "ccf413c16df9224b",
       "last_seen": "2026-09-16",
       "title": "Taiwan tests US-made MQ-9B drones to counter PLA \u2018grey-zone\u2019 operations"
+    },
+    "https://www.scmp.com/news/china/military/article/3368012/could-mystery-shanghai-vessel-be-mothership-chinas-underwater-drones?utm_source=rss_feed": {
+      "content_hash": "c7136c3f8a500cd4",
+      "last_seen": "2026-09-19",
+      "title": "Could mystery Shanghai vessel be a mothership for China\u2019s underwater drones?"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -3415,6 +3445,11 @@
       "last_seen": "2026-06-25",
       "title": "Humanoid maker Agility Robotics to go public through SPAC merger"
     },
+    "https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time/": {
+      "content_hash": "6dbbc813daf66f40",
+      "last_seen": "2026-09-19",
+      "title": "Icarus Robotics flies ISS-bound robot in microgravity for the first time"
+    },
     "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/": {
       "content_hash": "0c68976d4e753ebf",
       "last_seen": "2026-07-02",
@@ -3490,6 +3525,11 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/": {
+      "content_hash": "5704eb648979b4a7",
+      "last_seen": "2026-09-19",
+      "title": "SoftBank agrees to acquire Robotics and AI Institute"
+    },
     "https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/": {
       "content_hash": "b51415a063cc65a7",
       "last_seen": "2026-08-13",
@@ -3541,5 +3581,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-17T20:16:48.352865+00:00"
+  "updated_at": "2026-09-18T20:15:23.731289+00:00"
 }
