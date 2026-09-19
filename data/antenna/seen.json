@@ -1156,8 +1156,8 @@
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit"
     },
     "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/": {
-      "content_hash": "8e5769d900c692e6",
-      "last_seen": "2026-09-19",
+      "content_hash": "1e455a1a694df26f",
+      "last_seen": "2026-09-20",
       "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models"
     },
     "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/": {
@@ -1395,6 +1395,11 @@
       "last_seen": "2026-08-29",
       "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
     },
+    "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/": {
+      "content_hash": "77e45c6280c51f5a",
+      "last_seen": "2026-09-20",
+      "title": "Google Deepmind's Dream-RSI helps AI agents improve by \u201cdreaming\u201d about past attempts"
+    },
     "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/": {
       "content_hash": "a9bd244e791ff7cf",
       "last_seen": "2026-08-10",
@@ -1434,6 +1439,11 @@
       "content_hash": "c8313d4eb8cc7678",
       "last_seen": "2026-07-21",
       "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains"
+    },
+    "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/": {
+      "content_hash": "416e1bd285cfecdf",
+      "last_seen": "2026-09-20",
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing"
     },
     "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/": {
       "content_hash": "4d93060642f67e2c",
@@ -1864,6 +1874,11 @@
       "content_hash": "e7a66e2fbae92edb",
       "last_seen": "2026-09-03",
       "title": "Protests against AI data centers play into China's hands, Trump says"
+    },
+    "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/": {
+      "content_hash": "383b80ac32b3ec70",
+      "last_seen": "2026-09-20",
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
     },
     "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/": {
       "content_hash": "c3d5d92c41a6a698",
@@ -2615,6 +2630,11 @@
       "last_seen": "2026-09-19",
       "title": "Could mystery Shanghai vessel be a mothership for China\u2019s underwater drones?"
     },
+    "https://www.scmp.com/news/china/military/article/3368097/us-space-weapons-move-has-broken-taboo-could-spark-new-arms-race-beijing-forum-told?utm_source=rss_feed": {
+      "content_hash": "e095547503645778",
+      "last_seen": "2026-09-20",
+      "title": "US space weapons move has \u2018broken taboo\u2019, could spark new arms race, Beijing forum told"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -3281,13 +3301,13 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "b8966ba24c03c5b3",
-      "last_seen": "2026-09-14",
+      "content_hash": "52a2b8986fcba198",
+      "last_seen": "2026-09-20",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.sixthtone.com/news/1018990/china moves to address self-driving cars in national law": {
-      "content_hash": "5449ed84c38ffe4c",
-      "last_seen": "2026-09-14",
+      "content_hash": "de4786cdf4885fd6",
+      "last_seen": "2026-09-20",
       "title": "China Moves to Address Self-Driving Cars in National Law"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -3581,5 +3601,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-18T20:15:23.731289+00:00"
+  "updated_at": "2026-09-19T20:14:40.512463+00:00"
 }
