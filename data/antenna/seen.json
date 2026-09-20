@@ -945,6 +945,11 @@
       "last_seen": "2026-08-26",
       "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
     },
+    "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/": {
+      "content_hash": "e3a316a0c8bba8f7",
+      "last_seen": "2026-09-21",
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters"
+    },
     "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/": {
       "content_hash": "5c366c927c2eb13f",
       "last_seen": "2026-08-04",
@@ -1259,6 +1264,11 @@
       "content_hash": "3fd9a30ca3b2b87b",
       "last_seen": "2026-07-27",
       "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work"
+    },
+    "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/": {
+      "content_hash": "d3aaa5ca01b2b796",
+      "last_seen": "2026-09-21",
+      "title": "Daily AI usage in the U.S. has more than doubled in just six months"
     },
     "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/": {
       "content_hash": "6b0d350b9ceea141",
@@ -1985,6 +1995,11 @@
       "last_seen": "2026-07-11",
       "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
     },
+    "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/": {
+      "content_hash": "ad943b6e8dcdba80",
+      "last_seen": "2026-09-21",
+      "title": "Tencent's Gander aims to keep talking while it works in the background"
+    },
     "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/": {
       "content_hash": "6852da6c02eae96f",
       "last_seen": "2026-07-12",
@@ -2009,6 +2024,11 @@
       "content_hash": "bd31611e0b5d5d26",
       "last_seen": "2026-07-21",
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure"
+    },
+    "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/": {
+      "content_hash": "a8f4163d434a9920",
+      "last_seen": "2026-09-21",
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
     },
     "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/": {
       "content_hash": "f72a5aead186566e",
@@ -2354,6 +2374,11 @@
       "content_hash": "33c5125b39acd6a1",
       "last_seen": "2026-09-18",
       "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed": {
+      "content_hash": "21aeb712a1edffb4",
+      "last_seen": "2026-09-21",
+      "title": "Does Trump\u2019s new AI Force signal tech race escalation ahead of Xi Jinping summit?"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3301,8 +3326,8 @@
       "title": "China-Developed ALS Therapy Shows Early Trial Promise"
     },
     "https://www.sixthtone.com/news/1018923/china\u2019s first booster landing marks leap toward reusable rockets": {
-      "content_hash": "52a2b8986fcba198",
-      "last_seen": "2026-09-20",
+      "content_hash": "b8966ba24c03c5b3",
+      "last_seen": "2026-09-21",
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.sixthtone.com/news/1018990/china moves to address self-driving cars in national law": {
@@ -3601,5 +3626,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-19T20:14:40.512463+00:00"
+  "updated_at": "2026-09-20T20:14:50.377851+00:00"
 }
