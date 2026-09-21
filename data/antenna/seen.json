@@ -330,6 +330,11 @@
       "last_seen": "2026-07-24",
       "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work"
     },
+    "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/": {
+      "content_hash": "b4e0e3aa6920a89f",
+      "last_seen": "2026-09-22",
+      "title": "SpaceX\u2019s Super Heavy booster arrives at pad ahead of first orbital Starship launch"
+    },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
       "last_seen": "2026-07-21",
@@ -1940,6 +1945,11 @@
       "last_seen": "2026-06-25",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
     },
+    "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/": {
+      "content_hash": "25ebdb4e37636d22",
+      "last_seen": "2026-09-22",
+      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake"
+    },
     "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/": {
       "content_hash": "6a38b5c8d6b26306",
       "last_seen": "2026-08-31",
@@ -2044,6 +2054,16 @@
       "content_hash": "fa110c76b39f908b",
       "last_seen": "2026-08-06",
       "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater"
+    },
+    "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/": {
+      "content_hash": "4eeb4ff4a6d6604b",
+      "last_seen": "2026-09-22",
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
+    },
+    "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/": {
+      "content_hash": "145f8944614ddff9",
+      "last_seen": "2026-09-22",
+      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit"
     },
     "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/": {
       "content_hash": "4f4ccbef79e4a4cf",
@@ -2660,6 +2680,11 @@
       "last_seen": "2026-09-20",
       "title": "US space weapons move has \u2018broken taboo\u2019, could spark new arms race, Beijing forum told"
     },
+    "https://www.scmp.com/news/china/military/article/3368246/djibouti-base-upgrade-may-offer-pla-window-foreign-military-middle-east-operations?utm_source=rss_feed": {
+      "content_hash": "a08c9f8cdfab5ade",
+      "last_seen": "2026-09-22",
+      "title": "China\u2019s Djibouti base upgrade may give PLA eyes on foreign military in Middle East"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -3109,6 +3134,16 @@
       "content_hash": "e01c3686b221fb78",
       "last_seen": "2026-09-18",
       "title": "US sanctions boost China\u2019s science-driven innovation by over 70%, study finds"
+    },
+    "https://www.scmp.com/news/china/science/article/3367934/china-tests-first-practical-submarine-solar-power-plant-10-metres-depth-open-sea?utm_source=rss_feed": {
+      "content_hash": "709368ebbc15e38f",
+      "last_seen": "2026-09-22",
+      "title": "China tests first practical submarine solar power plant at 10-metre depth in the open sea"
+    },
+    "https://www.scmp.com/news/china/science/article/3368292/china-gets-closer-jupiter-mission-bringing-nasas-starnav-concept-life?utm_source=rss_feed": {
+      "content_hash": "e719eca210a167cf",
+      "last_seen": "2026-09-22",
+      "title": "China gets closer to Jupiter mission by bringing Nasa\u2019s StarNAV concept to life"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3626,5 +3661,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-20T20:14:50.377851+00:00"
+  "updated_at": "2026-09-21T20:15:42.178286+00:00"
 }
