@@ -1025,6 +1025,11 @@
       "last_seen": "2026-08-19",
       "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion"
     },
+    "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/": {
+      "content_hash": "98a7fea8093fefb2",
+      "last_seen": "2026-09-23",
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments"
+    },
     "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/": {
       "content_hash": "3b3f5ca3105150b7",
       "last_seen": "2026-09-18",
@@ -1730,6 +1735,11 @@
       "last_seen": "2026-08-02",
       "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
     },
+    "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/": {
+      "content_hash": "a996faa046606a2e",
+      "last_seen": "2026-09-23",
+      "title": "OpenAI calls for international standards on AI that could improve itself"
+    },
     "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/": {
       "content_hash": "8f409b78a29d98be",
       "last_seen": "2026-07-13",
@@ -1864,6 +1874,11 @@
       "content_hash": "bb3d034073b461ee",
       "last_seen": "2026-09-05",
       "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+    },
+    "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/": {
+      "content_hash": "aece2ae2297adda0",
+      "last_seen": "2026-09-23",
+      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance"
     },
     "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/": {
       "content_hash": "74be7e1235e2926a",
@@ -2685,6 +2700,11 @@
       "last_seen": "2026-09-22",
       "title": "China\u2019s Djibouti base upgrade may give PLA eyes on foreign military in Middle East"
     },
+    "https://www.scmp.com/news/china/military/article/3368380/taiwan-coastguards-rare-missile-firing-reveals-deepening-links-navy?utm_source=rss_feed": {
+      "content_hash": "4f0564b728adab22",
+      "last_seen": "2026-09-23",
+      "title": "Taiwan coastguard\u2019s rare missile firing reveals deepening links with navy"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -3144,6 +3164,11 @@
       "content_hash": "e719eca210a167cf",
       "last_seen": "2026-09-22",
       "title": "China gets closer to Jupiter mission by bringing Nasa\u2019s StarNAV concept to life"
+    },
+    "https://www.scmp.com/news/china/science/article/3368337/china-breaks-ground-worlds-first-supercritical-co2-and-molten-salt-energy-plant?utm_source=rss_feed": {
+      "content_hash": "4e5f097425d36a5b",
+      "last_seen": "2026-09-23",
+      "title": "China breaks ground on the world\u2019s first supercritical CO2 and molten salt energy plant"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3661,5 +3686,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-21T20:15:42.178286+00:00"
+  "updated_at": "2026-09-22T20:15:17.415516+00:00"
 }
