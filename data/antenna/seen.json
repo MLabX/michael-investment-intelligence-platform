@@ -190,6 +190,11 @@
       "last_seen": "2026-09-11",
       "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument"
     },
+    "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/": {
+      "content_hash": "6f91ba430db87e4b",
+      "last_seen": "2026-09-24",
+      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans"
+    },
     "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/": {
       "content_hash": "2058868e08fbcce9",
       "last_seen": "2026-09-12",
@@ -304,6 +309,11 @@
       "content_hash": "e99bc185e0437177",
       "last_seen": "2026-09-12",
       "title": "The Allocative Cost of War"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling": {
+      "content_hash": "3bf78feeb765df13",
+      "last_seen": "2026-09-24",
+      "title": "The Price of Intelligence is Falling Rapidly"
     },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
       "content_hash": "251420b1eff3d469",
@@ -494,6 +504,11 @@
       "content_hash": "d5158863c097a74d",
       "last_seen": "2026-07-17",
       "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit"
+    },
+    "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/": {
+      "content_hash": "fac1d5e1c7fcb4b7",
+      "last_seen": "2026-09-24",
+      "title": "Ethereal Space Awarded NOAA SBEM Task Order 1"
     },
     "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/": {
       "content_hash": "73d9cf0577c676b3",
@@ -950,6 +965,11 @@
       "last_seen": "2026-08-26",
       "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
     },
+    "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/": {
+      "content_hash": "6fa958145bc267f0",
+      "last_seen": "2026-09-24",
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
+    },
     "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/": {
       "content_hash": "e3a316a0c8bba8f7",
       "last_seen": "2026-09-21",
@@ -1019,6 +1039,11 @@
       "content_hash": "709a40f2fa34caae",
       "last_seen": "2026-06-27",
       "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow"
+    },
+    "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/": {
+      "content_hash": "f37ba68fd514f72f",
+      "last_seen": "2026-09-24",
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter"
     },
     "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/": {
       "content_hash": "2f9370a308fa1e31",
@@ -1189,6 +1214,11 @@
       "content_hash": "a8040b95cd4c13d1",
       "last_seen": "2026-07-15",
       "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots"
+    },
+    "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/": {
+      "content_hash": "d43cf561dd93ad91",
+      "last_seen": "2026-09-24",
+      "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access"
     },
     "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/": {
       "content_hash": "1a5e00a92f3a30ee",
@@ -3425,6 +3455,11 @@
       "last_seen": "2026-09-15",
       "title": "The AI industry has taken a doomer turn. What now?"
     },
+    "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/": {
+      "content_hash": "afbc317fc402ea5d",
+      "last_seen": "2026-09-24",
+      "title": "A congressional representative just proposed killing America\u2019s border tower program"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -3610,6 +3645,11 @@
       "last_seen": "2026-09-04",
       "title": "PlusAI to take autonomous trucking public via a SPAC deal"
     },
+    "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/": {
+      "content_hash": "a9adc267928d2442",
+      "last_seen": "2026-09-24",
+      "title": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source"
+    },
     "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/": {
       "content_hash": "ccac03c7c838f21e",
       "last_seen": "2026-07-01",
@@ -3686,5 +3726,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-22T20:15:17.415516+00:00"
+  "updated_at": "2026-09-23T20:17:17.696098+00:00"
 }
