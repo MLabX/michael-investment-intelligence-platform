@@ -110,6 +110,11 @@
       "last_seen": "2026-07-24",
       "title": "Google just had its first negative cash flow quarter due to massive AI spending"
     },
+    "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/": {
+      "content_hash": "0ac015ea1af2928c",
+      "last_seen": "2026-09-25",
+      "title": "Google's first Suncatcher orbital data center test launches October 1"
+    },
     "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/": {
       "content_hash": "9f54a85cf1e2179a",
       "last_seen": "2026-09-09",
@@ -194,6 +199,11 @@
       "content_hash": "6f91ba430db87e4b",
       "last_seen": "2026-09-24",
       "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans"
+    },
+    "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/": {
+      "content_hash": "8c23b0b287227e1e",
+      "last_seen": "2026-09-25",
+      "title": "NASA chief concerned China may deny access to parts of Moon's south pole"
     },
     "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/": {
       "content_hash": "2058868e08fbcce9",
@@ -1500,6 +1510,11 @@
       "last_seen": "2026-06-11",
       "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word"
     },
+    "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/": {
+      "content_hash": "0237a0ce94fc8174",
+      "last_seen": "2026-09-25",
+      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy"
+    },
     "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/": {
       "content_hash": "931a5b1ce35a306a",
       "last_seen": "2026-09-07",
@@ -1955,6 +1970,11 @@
       "last_seen": "2026-09-02",
       "title": "Runway's Solaris is an AI system that generates software interfaces in real time"
     },
+    "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/": {
+      "content_hash": "8657251c9a8527b1",
+      "last_seen": "2026-09-25",
+      "title": "Sakana AI hires J\u00fcrgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update"
+    },
     "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/": {
       "content_hash": "0607952bff1b26e4",
       "last_seen": "2026-08-27",
@@ -2075,6 +2095,11 @@
       "last_seen": "2026-08-16",
       "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise"
     },
+    "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/": {
+      "content_hash": "ef65bd1aeb3fc0f4",
+      "last_seen": "2026-09-25",
+      "title": "Top AI experts badly underestimated how fast the field is moving, study finds"
+    },
     "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/": {
       "content_hash": "bd31611e0b5d5d26",
       "last_seen": "2026-07-21",
@@ -2084,6 +2109,11 @@
       "content_hash": "a8f4163d434a9920",
       "last_seen": "2026-09-21",
       "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
+    },
+    "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/": {
+      "content_hash": "7d3c4d6c3cf25af8",
+      "last_seen": "2026-09-25",
+      "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency"
     },
     "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/": {
       "content_hash": "f72a5aead186566e",
@@ -2444,6 +2474,11 @@
       "content_hash": "21aeb712a1edffb4",
       "last_seen": "2026-09-21",
       "title": "Does Trump\u2019s new AI Force signal tech race escalation ahead of Xi Jinping summit?"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3368543/american-ai-development-cannot-separate-itself-china-zheng-yongnian?utm_source=rss_feed": {
+      "content_hash": "5c5deda47f4a8a63",
+      "last_seen": "2026-09-25",
+      "title": "American AI development \u2018cannot separate itself from China\u2019: Zheng Yongnian"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3350,6 +3385,11 @@
       "last_seen": "2026-09-15",
       "title": "Xi touts Brics cooperation on AI as US titans flag tech risks"
     },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3368652/us-china-agree-two-month-trade-truce-extension-ahead-summit?utm_source=rss_feed": {
+      "content_hash": "6d1dd5584c47b125",
+      "last_seen": "2026-09-25",
+      "title": "US, China agree two-month trade truce extension ahead of summit"
+    },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
@@ -3726,5 +3766,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-23T20:17:17.696098+00:00"
+  "updated_at": "2026-09-24T20:17:25.093234+00:00"
 }
