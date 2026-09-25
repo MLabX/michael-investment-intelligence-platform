@@ -205,6 +205,11 @@
       "last_seen": "2026-09-25",
       "title": "NASA chief concerned China may deny access to parts of Moon's south pole"
     },
+    "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/": {
+      "content_hash": "59a8a476d48e5443",
+      "last_seen": "2026-09-26",
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time"
+    },
     "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/": {
       "content_hash": "2058868e08fbcce9",
       "last_seen": "2026-09-12",
@@ -1035,6 +1040,11 @@
       "last_seen": "2026-07-22",
       "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested"
     },
+    "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/": {
+      "content_hash": "9e1927751c7a2bf5",
+      "last_seen": "2026-09-26",
+      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\""
+    },
     "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/": {
       "content_hash": "9a92b21781c3f739",
       "last_seen": "2026-09-13",
@@ -1124,6 +1134,11 @@
       "content_hash": "a09e6eb16df0a5d2",
       "last_seen": "2026-06-16",
       "title": "Anthropic shutdown sparks sovereignty debate across Europe"
+    },
+    "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/": {
+      "content_hash": "100ecb3a9b85b6ee",
+      "last_seen": "2026-09-26",
+      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
     },
     "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/": {
       "content_hash": "e4b9eb0ff5aaa4b8",
@@ -1929,6 +1944,11 @@
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
       "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\""
+    },
+    "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/": {
+      "content_hash": "fc61da07c82f5322",
+      "last_seen": "2026-09-26",
+      "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
     },
     "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/": {
       "content_hash": "d3f67e22cc87ac33",
@@ -3585,6 +3605,11 @@
       "last_seen": "2026-06-28",
       "title": "General Intuition raises $320M to use video game data to train robots"
     },
+    "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/": {
+      "content_hash": "9ca6022a024b9ba1",
+      "last_seen": "2026-09-26",
+      "title": "General Robotics is betting on modular intelligence, not one robot brain"
+    },
     "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/": {
       "content_hash": "3d3e27ba96e0074d",
       "last_seen": "2026-07-25",
@@ -3766,5 +3791,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-24T20:17:25.093234+00:00"
+  "updated_at": "2026-09-25T20:14:36.342767+00:00"
 }
