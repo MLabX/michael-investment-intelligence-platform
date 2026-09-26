@@ -1405,6 +1405,11 @@
       "last_seen": "2026-06-23",
       "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months"
     },
+    "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/": {
+      "content_hash": "b77650bd053ea02e",
+      "last_seen": "2026-09-27",
+      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army"
+    },
     "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/": {
       "content_hash": "e9aedce7fb35a31e",
       "last_seen": "2026-07-30",
@@ -1850,6 +1855,11 @@
       "last_seen": "2026-08-12",
       "title": "OpenAI lets employees cash out another $7 billion in stock"
     },
+    "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/": {
+      "content_hash": "36609d3166cef766",
+      "last_seen": "2026-09-27",
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data"
+    },
     "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/": {
       "content_hash": "bcdefe3ad0753792",
       "last_seen": "2026-08-03",
@@ -1929,6 +1939,11 @@
       "content_hash": "8d635eb504459481",
       "last_seen": "2026-07-12",
       "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour"
+    },
+    "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/": {
+      "content_hash": "b7c5b14213274ca1",
+      "last_seen": "2026-09-27",
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf"
     },
     "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/": {
       "content_hash": "bb3d034073b461ee",
@@ -2245,6 +2260,11 @@
       "last_seen": "2026-08-07",
       "title": "Argentina renews US$19 billion China currency swap, brushing off Washington\u2019s pressure"
     },
+    "https://www.scmp.com/news/china/article/3368919/beijing-says-us-china-pursue-military-crisis-communication-pact?utm_source=rss_feed": {
+      "content_hash": "ad8a9170e74b28a3",
+      "last_seen": "2026-09-27",
+      "title": "Beijing says US, China to pursue military crisis-communication pact"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -2499,6 +2519,11 @@
       "content_hash": "5c5deda47f4a8a63",
       "last_seen": "2026-09-25",
       "title": "American AI development \u2018cannot separate itself from China\u2019: Zheng Yongnian"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3368889/why-us-deal-greenland-could-narrow-chinas-arctic-engagement?utm_source=rss_feed": {
+      "content_hash": "6d73a32d2a4a9a5c",
+      "last_seen": "2026-09-27",
+      "title": "Why US deal on Greenland could narrow China\u2019s Arctic engagement"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3585,6 +3610,11 @@
       "last_seen": "2026-08-19",
       "title": "FORT Robotics to take safety stack public via SPAC merger"
     },
+    "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/": {
+      "content_hash": "e1df570c635cd664",
+      "last_seen": "2026-09-27",
+      "title": "From 14 cities to 15,000: What it will take to scale robotaxis?"
+    },
     "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features/": {
       "content_hash": "61da036e8c0ef734",
       "last_seen": "2026-09-02",
@@ -3791,5 +3821,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-25T20:14:36.342767+00:00"
+  "updated_at": "2026-09-26T20:14:49.606221+00:00"
 }
