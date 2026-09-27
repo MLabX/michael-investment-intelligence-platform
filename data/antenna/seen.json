@@ -1440,6 +1440,11 @@
       "last_seen": "2026-06-11",
       "title": "Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI"
     },
+    "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/": {
+      "content_hash": "0930d62e83d16251",
+      "last_seen": "2026-09-28",
+      "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+    },
     "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/": {
       "content_hash": "45abc5971887203c",
       "last_seen": "2026-06-15",
@@ -2000,6 +2005,11 @@
       "last_seen": "2026-06-08",
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss"
     },
+    "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/": {
+      "content_hash": "66edb5b388b1844c",
+      "last_seen": "2026-09-28",
+      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen"
+    },
     "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/": {
       "content_hash": "5dc4bf639ee4a94b",
       "last_seen": "2026-09-02",
@@ -2049,6 +2059,11 @@
       "content_hash": "25ebdb4e37636d22",
       "last_seen": "2026-09-22",
       "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake"
+    },
+    "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/": {
+      "content_hash": "c9cce7dc4fd4b884",
+      "last_seen": "2026-09-28",
+      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\""
     },
     "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/": {
       "content_hash": "6a38b5c8d6b26306",
@@ -2109,6 +2124,11 @@
       "content_hash": "ad943b6e8dcdba80",
       "last_seen": "2026-09-21",
       "title": "Tencent's Gander aims to keep talking while it works in the background"
+    },
+    "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/": {
+      "content_hash": "78d848b94df38edd",
+      "last_seen": "2026-09-28",
+      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning"
     },
     "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/": {
       "content_hash": "6852da6c02eae96f",
@@ -2524,6 +2544,11 @@
       "content_hash": "6d73a32d2a4a9a5c",
       "last_seen": "2026-09-27",
       "title": "Why US deal on Greenland could narrow China\u2019s Arctic engagement"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3368915/how-kenyas-sacred-mrima-hill-became-new-front-us-china-minerals-rivalry?utm_source=rss_feed": {
+      "content_hash": "3d365209481de872",
+      "last_seen": "2026-09-28",
+      "title": "How Kenya\u2019s sacred Mrima Hill became new front in US-China minerals rivalry"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3280,6 +3305,11 @@
       "last_seen": "2026-09-23",
       "title": "China breaks ground on the world\u2019s first supercritical CO2 and molten salt energy plant"
     },
+    "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race?utm_source=rss_feed": {
+      "content_hash": "64c5d305638c60de",
+      "last_seen": "2026-09-28",
+      "title": "Why claims that China\u2019s BeiDou satellite was refuelled in orbit could change space race"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -3506,8 +3536,8 @@
       "title": "China\u2019s First Booster Landing Marks Leap Toward Reusable Rockets"
     },
     "https://www.sixthtone.com/news/1018990/china moves to address self-driving cars in national law": {
-      "content_hash": "de4786cdf4885fd6",
-      "last_seen": "2026-09-20",
+      "content_hash": "04301358279ab04f",
+      "last_seen": "2026-09-28",
       "title": "China Moves to Address Self-Driving Cars in National Law"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
@@ -3821,5 +3851,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-26T20:14:49.606221+00:00"
+  "updated_at": "2026-09-27T20:15:44.339763+00:00"
 }
