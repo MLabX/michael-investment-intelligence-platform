@@ -920,6 +920,11 @@
       "last_seen": "2026-08-02",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot"
     },
+    "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/": {
+      "content_hash": "72eead056e092134",
+      "last_seen": "2026-09-29",
+      "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases"
+    },
     "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/": {
       "content_hash": "b5d0b3742c17027a",
       "last_seen": "2026-09-16",
@@ -1665,6 +1670,11 @@
       "last_seen": "2026-07-02",
       "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers"
     },
+    "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/": {
+      "content_hash": "18e9926f55296a77",
+      "last_seen": "2026-09-29",
+      "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses"
+    },
     "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/": {
       "content_hash": "d2a06025f080478b",
       "last_seen": "2026-07-22",
@@ -1714,6 +1724,11 @@
       "content_hash": "f4b9732c6007aac8",
       "last_seen": "2026-07-28",
       "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
+    },
+    "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/": {
+      "content_hash": "9a6b5f9891e852a9",
+      "last_seen": "2026-09-29",
+      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks"
     },
     "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/": {
       "content_hash": "40a916ba64384652",
@@ -1774,6 +1789,11 @@
       "content_hash": "7d4bc56f8464071c",
       "last_seen": "2026-08-28",
       "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away"
+    },
+    "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/": {
+      "content_hash": "fb2aa47b66f2b133",
+      "last_seen": "2026-09-29",
+      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
     },
     "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/": {
       "content_hash": "165c47fa847e7957",
@@ -2840,6 +2860,11 @@
       "last_seen": "2026-09-23",
       "title": "Taiwan coastguard\u2019s rare missile firing reveals deepening links with navy"
     },
+    "https://www.scmp.com/news/china/military/article/3369080/china-deploys-advanced-wz-7-drone-first-time-near-scarborough-shoal?utm_source=rss_feed": {
+      "content_hash": "1f17dc356cc0f375",
+      "last_seen": "2026-09-29",
+      "title": "China deploys advanced WZ-7 drone for first time near Scarborough Shoal"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -3309,6 +3334,21 @@
       "content_hash": "64c5d305638c60de",
       "last_seen": "2026-09-28",
       "title": "Why claims that China\u2019s BeiDou satellite was refuelled in orbit could change space race"
+    },
+    "https://www.scmp.com/news/china/science/article/3368780/us-police-report-raises-more-questions-about-chinese-researcher-wang-danhaos-death?utm_source=rss_feed": {
+      "content_hash": "a853fac38d5a4805",
+      "last_seen": "2026-09-29",
+      "title": "US police report raises more questions about Chinese researcher Wang Danhao\u2019s death"
+    },
+    "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint?utm_source=rss_feed": {
+      "content_hash": "c6fa63bd1dc973a6",
+      "last_seen": "2026-09-29",
+      "title": "China targets AI and frontier tech in newly unveiled innovation blueprint"
+    },
+    "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel?utm_source=rss_feed": {
+      "content_hash": "07ae43a0dcad919b",
+      "last_seen": "2026-09-29",
+      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3851,5 +3891,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-27T20:15:44.339763+00:00"
+  "updated_at": "2026-09-28T20:16:36.158817+00:00"
 }
