@@ -1035,6 +1035,11 @@
       "last_seen": "2026-08-09",
       "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon"
     },
+    "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/": {
+      "content_hash": "ca942df1db8e770d",
+      "last_seen": "2026-09-30",
+      "title": "AMD buys AI world model startup World Labs for $8.2 billion"
+    },
     "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/": {
       "content_hash": "d867fb0ac68fa991",
       "last_seen": "2026-08-24",
@@ -2195,6 +2200,11 @@
       "last_seen": "2026-08-29",
       "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful"
     },
+    "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/": {
+      "content_hash": "2266949baeb5e9dd",
+      "last_seen": "2026-09-30",
+      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor"
+    },
     "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/": {
       "content_hash": "8fc75fc806700c91",
       "last_seen": "2026-08-26",
@@ -2865,6 +2875,16 @@
       "last_seen": "2026-09-29",
       "title": "China deploys advanced WZ-7 drone for first time near Scarborough Shoal"
     },
+    "https://www.scmp.com/news/china/military/article/3369099/can-chinas-new-satellite-coordination-standards-boost-pla-targeting-and-resilience?utm_source=rss_feed": {
+      "content_hash": "1ee042561773fba2",
+      "last_seen": "2026-09-30",
+      "title": "Can China\u2019s new satellite coordination standards boost PLA targeting and resilience?"
+    },
+    "https://www.scmp.com/news/china/military/article/3369223/us-navy-launches-drone-command-could-reshape-taiwan-war-planning?utm_source=rss_feed": {
+      "content_hash": "e2b74c565fef02f1",
+      "last_seen": "2026-09-30",
+      "title": "US Navy launches drone command that could reshape Taiwan war planning"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -3435,6 +3455,11 @@
       "last_seen": "2026-09-02",
       "title": "US military carries out new strikes on Iranian targets as hostilities flare"
     },
+    "https://www.scmp.com/news/us/diplomacy/article/3369150/important-and-consequential-nvidias-jensen-huang-us-china-ai-race-risk-management?utm_source=rss_feed": {
+      "content_hash": "43412fe65508cdc7",
+      "last_seen": "2026-09-30",
+      "title": "\u2018Important and consequential\u2019: Nvidia\u2019s Jensen Huang on US-China AI race, risk management"
+    },
     "https://www.scmp.com/news/us/politics/article/3361647/pentagon-expands-blacklist-include-chinas-top-civilian-universities?utm_source=rss_feed": {
       "content_hash": "a11368feee69924c",
       "last_seen": "2026-07-24",
@@ -3891,5 +3916,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-28T20:16:36.158817+00:00"
+  "updated_at": "2026-09-29T20:18:34.339014+00:00"
 }
