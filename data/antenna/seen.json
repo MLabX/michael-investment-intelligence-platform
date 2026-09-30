@@ -95,6 +95,11 @@
       "last_seen": "2026-09-04",
       "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion"
     },
+    "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/": {
+      "content_hash": "10615c0ea3bfeb7c",
+      "last_seen": "2026-10-01",
+      "title": "OpenAI delays IPO over AI safety concerns"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -1285,6 +1290,11 @@
       "last_seen": "2026-08-21",
       "title": "China now has its own AI circular financing scheme"
     },
+    "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/": {
+      "content_hash": "8748d7570e2a6004",
+      "last_seen": "2026-10-01",
+      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips"
+    },
     "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/": {
       "content_hash": "f98fa7d74b145be2",
       "last_seen": "2026-09-01",
@@ -1429,6 +1439,11 @@
       "content_hash": "57918725adb87dfd",
       "last_seen": "2026-08-21",
       "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?"
+    },
+    "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/": {
+      "content_hash": "ed6b734e11bbf557",
+      "last_seen": "2026-10-01",
+      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
     },
     "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/": {
       "content_hash": "2aa9b8f3e42c0830",
@@ -1824,6 +1839,11 @@
       "content_hash": "11cf81315c1e2bd4",
       "last_seen": "2026-06-25",
       "title": "OpenAI and Broadcom unveil \"Jalape\u00f1o,\" a custom chip built for LLM inference"
+    },
+    "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/": {
+      "content_hash": "85664c20836309d2",
+      "last_seen": "2026-10-01",
+      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer"
     },
     "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/": {
       "content_hash": "49adc1bc692267af",
@@ -2580,6 +2600,11 @@
       "last_seen": "2026-09-28",
       "title": "How Kenya\u2019s sacred Mrima Hill became new front in US-China minerals rivalry"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3369303/eu-weighs-sweeping-new-trade-powers-against-china-make-or-break-october?utm_source=rss_feed": {
+      "content_hash": "2300e26a91ebb840",
+      "last_seen": "2026-10-01",
+      "title": "EU weighs sweeping new trade powers against China before make-or-break October"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -2924,6 +2949,11 @@
       "content_hash": "1dcb391dd00c307b",
       "last_seen": "2026-09-09",
       "title": "China\u2019s highest court sets out new AI red lines with rules on deepfakes and privacy"
+    },
+    "https://www.scmp.com/news/china/politics/article/3369183/slow-beautiful-china-launches-war-against-ai-drama-goes-beyond-algorithms?utm_source=rss_feed": {
+      "content_hash": "4d26029209b82eaf",
+      "last_seen": "2026-10-01",
+      "title": "Slow is beautiful: China launches war against AI drama, goes beyond algorithms"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -3369,6 +3399,11 @@
       "content_hash": "07ae43a0dcad919b",
       "last_seen": "2026-09-29",
       "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel"
+    },
+    "https://www.scmp.com/news/china/science/article/3369347/chinese-researchers-say-missile-lidar-model-can-spot-us-f-35-615km?utm_source=rss_feed": {
+      "content_hash": "86f83960b94de7e6",
+      "last_seen": "2026-10-01",
+      "title": "Chinese researchers say missile lidar model can spot US F-35 at up to 61.5km"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -3870,6 +3905,11 @@
       "last_seen": "2026-08-13",
       "title": "Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution"
     },
+    "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets/": {
+      "content_hash": "1f2cb5a3772883f6",
+      "last_seen": "2026-10-01",
+      "title": "Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets"
+    },
     "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/": {
       "content_hash": "4cfa771553adfc3c",
       "last_seen": "2026-07-31",
@@ -3916,5 +3956,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-29T20:18:34.339014+00:00"
+  "updated_at": "2026-09-30T20:18:49.739681+00:00"
 }
