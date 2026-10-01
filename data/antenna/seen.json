@@ -270,6 +270,16 @@
       "last_seen": "2026-09-10",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models"
     },
+    "https://arxiv.org/abs/2609.38652": {
+      "content_hash": "4ac6a998baceb287",
+      "last_seen": "2026-10-02",
+      "title": "AgBench: Agentic AI Benchmarks for Personal AI Devices"
+    },
+    "https://arxiv.org/abs/2609.39107": {
+      "content_hash": "60adf7b163273c1f",
+      "last_seen": "2026-10-02",
+      "title": "MASCRDM: Multi-Agent System for Compliance Risk Detection and Mitigation in Training Process of Large Language Models"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -364,6 +374,11 @@
       "content_hash": "b4e0e3aa6920a89f",
       "last_seen": "2026-09-22",
       "title": "SpaceX\u2019s Super Heavy booster arrives at pad ahead of first orbital Starship launch"
+    },
+    "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/": {
+      "content_hash": "c5f9eae596919403",
+      "last_seen": "2026-10-02",
+      "title": "Launch preview: More than 100 spacecraft hitch a ride to orbit on SpaceX\u2019s Transporter-18"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -464,6 +479,11 @@
       "content_hash": "4ece6db2b7268a86",
       "last_seen": "2026-06-18",
       "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch"
+    },
+    "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/": {
+      "content_hash": "314006203daa1193",
+      "last_seen": "2026-10-02",
+      "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest"
     },
     "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/": {
       "content_hash": "0a45a71d08a67b77",
@@ -904,6 +924,11 @@
       "content_hash": "d65c14e976dabb14",
       "last_seen": "2026-07-14",
       "title": "Voyager completes acquisition of Astrobotic"
+    },
+    "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/": {
+      "content_hash": "bb98755b7d1ee8fe",
+      "last_seen": "2026-10-02",
+      "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d"
     },
     "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/": {
       "content_hash": "2b7981f3254ce930",
@@ -1940,6 +1965,11 @@
       "last_seen": "2026-06-10",
       "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing"
     },
+    "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/": {
+      "content_hash": "da27818ad6b011be",
+      "last_seen": "2026-10-02",
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
+    },
     "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/": {
       "content_hash": "2ccc860637ed1423",
       "last_seen": "2026-08-19",
@@ -2084,6 +2114,11 @@
       "content_hash": "dfb1abc9d546006f",
       "last_seen": "2026-09-19",
       "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours"
+    },
+    "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/": {
+      "content_hash": "559f21dc2c23ee10",
+      "last_seen": "2026-10-02",
+      "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly"
     },
     "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/": {
       "content_hash": "ac7a89749a62eae3",
@@ -3870,6 +3905,11 @@
       "last_seen": "2026-09-04",
       "title": "PlusAI to take autonomous trucking public via a SPAC deal"
     },
+    "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/": {
+      "content_hash": "c86ec1621c5c9d66",
+      "last_seen": "2026-10-02",
+      "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026"
+    },
     "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/": {
       "content_hash": "a9adc267928d2442",
       "last_seen": "2026-09-24",
@@ -3956,5 +3996,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-09-30T20:18:49.739681+00:00"
+  "updated_at": "2026-10-01T20:18:47.326006+00:00"
 }
