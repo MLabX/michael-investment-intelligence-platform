@@ -230,6 +230,11 @@
       "last_seen": "2026-09-16",
       "title": "SpaceX declares Starship ready for orbit, sets launch date next week"
     },
+    "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/": {
+      "content_hash": "74fcea3a3a97f56b",
+      "last_seen": "2026-10-03",
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -279,6 +284,16 @@
       "content_hash": "60adf7b163273c1f",
       "last_seen": "2026-10-02",
       "title": "MASCRDM: Multi-Agent System for Compliance Risk Detection and Mitigation in Training Process of Large Language Models"
+    },
+    "https://arxiv.org/abs/2610.00663": {
+      "content_hash": "be40c5ab8d7bbbfe",
+      "last_seen": "2026-10-03",
+      "title": "Backdoor Containment via Expert Quarantine and Shutdown in LLMs"
+    },
+    "https://arxiv.org/abs/2610.00917": {
+      "content_hash": "8497061be2b9c52c",
+      "last_seen": "2026-10-03",
+      "title": "Finding the Right Fit: Model-Harness Interactions across Agent Tasks"
     },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
@@ -940,6 +955,11 @@
       "last_seen": "2026-06-14",
       "title": "Visual Language Models Train Robots to Read Human Emotions"
     },
+    "https://spectrum.ieee.org/video-friday-bioinspired-robotics": {
+      "content_hash": "5ff72c7264942a80",
+      "last_seen": "2026-10-03",
+      "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
+    },
     "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/": {
       "content_hash": "a4a998a03afde0ac",
       "last_seen": "2026-09-19",
@@ -1360,6 +1380,11 @@
       "last_seen": "2026-08-03",
       "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music"
     },
+    "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/": {
+      "content_hash": "21c0ca07b59324e8",
+      "last_seen": "2026-10-03",
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
+    },
     "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/": {
       "content_hash": "6b2db7787dc77fb4",
       "last_seen": "2026-06-29",
@@ -1719,6 +1744,11 @@
       "content_hash": "18e9926f55296a77",
       "last_seen": "2026-09-29",
       "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses"
+    },
+    "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/": {
+      "content_hash": "de5bd693fe3704ba",
+      "last_seen": "2026-10-03",
+      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents"
     },
     "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/": {
       "content_hash": "d2a06025f080478b",
@@ -2639,6 +2669,11 @@
       "content_hash": "2300e26a91ebb840",
       "last_seen": "2026-10-01",
       "title": "EU weighs sweeping new trade powers against China before make-or-break October"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3369609/if-young-us-people-accept-xis-invitation-china-what-will-beijing-show-them?utm_source=rss_feed": {
+      "content_hash": "bc472c6ee7bd1d3e",
+      "last_seen": "2026-10-03",
+      "title": "If young US people accept Xi\u2019s invitation to China, what will Beijing show them?"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3755,6 +3790,11 @@
       "last_seen": "2026-07-07",
       "title": "Boston Dynamics brings its legged robots to the FIFA World Cup"
     },
+    "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/": {
+      "content_hash": "23f911d84a42eea7",
+      "last_seen": "2026-10-03",
+      "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon"
+    },
     "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/": {
       "content_hash": "25800424583b5b5d",
       "last_seen": "2026-08-13",
@@ -3996,5 +4036,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-01T20:18:47.326006+00:00"
+  "updated_at": "2026-10-02T20:16:29.192130+00:00"
 }
