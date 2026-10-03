@@ -275,6 +275,11 @@
       "last_seen": "2026-09-10",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models"
     },
+    "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
+      "content_hash": "bda186356057417e",
+      "last_seen": "2026-10-04",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China"
+    },
     "https://arxiv.org/abs/2609.38652": {
       "content_hash": "4ac6a998baceb287",
       "last_seen": "2026-10-02",
@@ -957,7 +962,7 @@
     },
     "https://spectrum.ieee.org/video-friday-bioinspired-robotics": {
       "content_hash": "5ff72c7264942a80",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
     },
     "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/": {
@@ -1105,6 +1110,11 @@
       "last_seen": "2026-09-26",
       "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\""
     },
+    "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/": {
+      "content_hash": "18a75950974d5ffd",
+      "last_seen": "2026-10-04",
+      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings"
+    },
     "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/": {
       "content_hash": "9a92b21781c3f739",
       "last_seen": "2026-09-13",
@@ -1229,6 +1239,11 @@
       "content_hash": "a354dc6bc449834b",
       "last_seen": "2026-08-12",
       "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds"
+    },
+    "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/": {
+      "content_hash": "236cd2d5805bf295",
+      "last_seen": "2026-10-04",
+      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
     },
     "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/": {
       "content_hash": "d960ac2696003ed7",
@@ -2400,6 +2415,11 @@
       "last_seen": "2026-09-27",
       "title": "Beijing says US, China to pursue military crisis-communication pact"
     },
+    "https://www.scmp.com/news/china/article/3369654/chinese-art-takes-long-march-home-us-museums?utm_source=rss_feed": {
+      "content_hash": "a7defbebcfb61bc5",
+      "last_seen": "2026-10-04",
+      "title": "Chinese art takes long march home from US museums"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -3475,6 +3495,11 @@
       "last_seen": "2026-10-01",
       "title": "Chinese researchers say missile lidar model can spot US F-35 at up to 61.5km"
     },
+    "https://www.scmp.com/news/china/science/article/3369652/us-china-botanists-sign-landmark-proposal-cooperation-global-issues-and-projects?utm_source=rss_feed": {
+      "content_hash": "5828e2d5577325e3",
+      "last_seen": "2026-10-04",
+      "title": "US, China botanists sign landmark proposal on cooperation, global issues and projects"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -3895,6 +3920,11 @@
       "last_seen": "2026-07-02",
       "title": "In Robotics, Ruggedization Is No Longer Optional"
     },
+    "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/": {
+      "content_hash": "db07e9a8bd530cd6",
+      "last_seen": "2026-10-04",
+      "title": "Inside Omron\u2019s next-generation LD mobile robots"
+    },
     "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/": {
       "content_hash": "a5db537c513c95ea",
       "last_seen": "2026-06-12",
@@ -3939,6 +3969,11 @@
       "content_hash": "efe9d16cf00f0858",
       "last_seen": "2026-07-26",
       "title": "Photos: First look at J&J\u2019s Ottava surgical robot"
+    },
+    "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/": {
+      "content_hash": "900fe97d7b2a216b",
+      "last_seen": "2026-10-04",
+      "title": "The physical AI race will be won in the patent office"
     },
     "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/": {
       "content_hash": "8b601c1a7fc992b4",
@@ -4036,5 +4071,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-02T20:16:29.192130+00:00"
+  "updated_at": "2026-10-03T21:04:21.671872+00:00"
 }
