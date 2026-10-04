@@ -365,6 +365,11 @@
       "last_seen": "2026-09-24",
       "title": "The Price of Intelligence is Falling Rapidly"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585": {
+      "content_hash": "525152cb316ad819",
+      "last_seen": "2026-10-05",
+      "title": "Sunday assorted links"
+    },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
       "content_hash": "251420b1eff3d469",
       "last_seen": "2026-06-08",
@@ -399,6 +404,11 @@
       "content_hash": "c5f9eae596919403",
       "last_seen": "2026-10-02",
       "title": "Launch preview: More than 100 spacecraft hitch a ride to orbit on SpaceX\u2019s Transporter-18"
+    },
+    "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/": {
+      "content_hash": "aa1240eeaf05c17c",
+      "last_seen": "2026-10-05",
+      "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -1242,7 +1252,7 @@
     },
     "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/": {
       "content_hash": "236cd2d5805bf295",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
     },
     "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/": {
@@ -1609,6 +1619,11 @@
       "content_hash": "b0391c105c4b09a8",
       "last_seen": "2026-08-05",
       "title": "Google moves billions in Anthropic chip risk off its balance sheet"
+    },
+    "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/": {
+      "content_hash": "a78512c861ea7546",
+      "last_seen": "2026-10-05",
+      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests"
     },
     "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/": {
       "content_hash": "c8313d4eb8cc7678",
@@ -2695,6 +2710,11 @@
       "last_seen": "2026-10-03",
       "title": "If young US people accept Xi\u2019s invitation to China, what will Beijing show them?"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3369678/china-urged-build-system-protect-expanding-overseas-interests?utm_source=rss_feed": {
+      "content_hash": "da5b15bc62fb573e",
+      "last_seen": "2026-10-05",
+      "title": "China urged to build \u2018system\u2019 to protect expanding overseas interests"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -3615,6 +3635,11 @@
       "last_seen": "2026-07-07",
       "title": "Canada picks German company to build new submarine fleet in deal worth billions"
     },
+    "https://www.scmp.com/opinion/asia-opinion/article/3369358/how-g2-effect-trump-xi-summit-reverberating-through-asia?utm_source=rss_feed": {
+      "content_hash": "edf95e630985366a",
+      "last_seen": "2026-10-05",
+      "title": "How the \u2018G2\u2019 effect of Trump-Xi summit is reverberating through Asia"
+    },
     "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots?utm_source=rss_feed": {
       "content_hash": "1102730ddd7420e2",
       "last_seen": "2026-07-06",
@@ -3734,6 +3759,11 @@
       "content_hash": "04301358279ab04f",
       "last_seen": "2026-09-28",
       "title": "China Moves to Address Self-Driving Cars in National Law"
+    },
+    "https://www.sixthtone.com/news/1019014/pizza bao, spaghetti stir-fry: chinese students hack home cooking abroad": {
+      "content_hash": "fd2a7decd229fd29",
+      "last_seen": "2026-10-05",
+      "title": "Pizza Bao, Spaghetti Stir-Fry: Chinese Students Hack Home Cooking Abroad"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
@@ -3899,6 +3929,11 @@
       "content_hash": "4c91aa8762a93d3f",
       "last_seen": "2026-06-23",
       "title": "How Intrinsic eliminates manual robot coding"
+    },
+    "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/": {
+      "content_hash": "1808472514327720",
+      "last_seen": "2026-10-05",
+      "title": "How robotics and physical AI can responsibly tackle key physical security challenges"
     },
     "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/": {
       "content_hash": "cee7420444d8f55f",
@@ -4071,5 +4106,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-03T21:04:21.671872+00:00"
+  "updated_at": "2026-10-04T20:58:02.965478+00:00"
 }
