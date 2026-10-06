@@ -125,6 +125,11 @@
       "last_seen": "2026-09-09",
       "title": "The secret to protecting next-gen spacecraft might be eggshells"
     },
+    "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
+      "content_hash": "e750dff8551e98de",
+      "last_seen": "2026-10-07",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic"
+    },
     "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/": {
       "content_hash": "16dd21496d67d130",
       "last_seen": "2026-06-16",
@@ -574,6 +579,11 @@
       "content_hash": "d5158863c097a74d",
       "last_seen": "2026-07-17",
       "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit"
+    },
+    "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/": {
+      "content_hash": "06a933971ee1d5b6",
+      "last_seen": "2026-10-07",
+      "title": "Deposition Sciences, Inc. Expands Sunshade\u00ae Tape Offering with New 12\u2033 \u00d7 30\u2033 Format"
     },
     "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/": {
       "content_hash": "fac1d5e1c7fcb4b7",
@@ -1700,6 +1710,11 @@
       "last_seen": "2026-07-21",
       "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back"
     },
+    "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/": {
+      "content_hash": "45fb22075d77d439",
+      "last_seen": "2026-10-07",
+      "title": "Insurers brace for millions in claims as AI agents spin out of control"
+    },
     "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/": {
       "content_hash": "531d151c73f20fa2",
       "last_seen": "2026-06-09",
@@ -2360,6 +2375,11 @@
       "last_seen": "2026-08-22",
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race"
     },
+    "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/": {
+      "content_hash": "bc3d76ae7d16d017",
+      "last_seen": "2026-10-07",
+      "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure"
+    },
     "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/": {
       "content_hash": "8c7a81fada58090a",
       "last_seen": "2026-08-16",
@@ -2714,6 +2734,11 @@
       "content_hash": "da5b15bc62fb573e",
       "last_seen": "2026-10-05",
       "title": "China urged to build \u2018system\u2019 to protect expanding overseas interests"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3369943/how-traditional-chinese-medicine-shaping-kazakhstans-health-system?utm_source=rss_feed": {
+      "content_hash": "496ad5534b4e574e",
+      "last_seen": "2026-10-07",
+      "title": "How traditional Chinese medicine is shaping Kazakhstan\u2019s health system"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3660,6 +3685,11 @@
       "last_seen": "2026-09-15",
       "title": "China\u2019s J-10CE has foreign buyers, but not yet a market"
     },
+    "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed": {
+      "content_hash": "a69a6a7e7364dcc4",
+      "last_seen": "2026-10-07",
+      "title": "Hong Kong\u2019s bridge of gold completes China\u2019s yuan ambition"
+    },
     "https://www.scmp.com/plus/economy/china-economy/article/3364282/chinas-economy-cools-amid-debate-about-risks-global-crisis?utm_source=rss_feed": {
       "content_hash": "64e91ee87525298a",
       "last_seen": "2026-08-18",
@@ -3865,6 +3895,11 @@
       "last_seen": "2026-06-10",
       "title": "Effort to establish a National Commission on Robotics advances in Congress"
     },
+    "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/": {
+      "content_hash": "3879bf13c7a4a73a",
+      "last_seen": "2026-10-07",
+      "title": "FireDome builds autonomous \u2018artillery\u2019 for wildfire defense"
+    },
     "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/": {
       "content_hash": "0a2897faa91781a3",
       "last_seen": "2026-08-19",
@@ -3995,6 +4030,11 @@
       "last_seen": "2026-08-28",
       "title": "NSF to invest $90M into three new technology centers, including one focused on robotics"
     },
+    "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/": {
+      "content_hash": "3c7a8ff05bd94e84",
+      "last_seen": "2026-10-07",
+      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs"
+    },
     "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/": {
       "content_hash": "f63b26092cbdf81e",
       "last_seen": "2026-06-17",
@@ -4106,5 +4146,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-04T20:58:02.965478+00:00"
+  "updated_at": "2026-10-06T20:18:18.452035+00:00"
 }
