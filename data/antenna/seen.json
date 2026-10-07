@@ -305,6 +305,21 @@
       "last_seen": "2026-10-03",
       "title": "Finding the Right Fit: Model-Harness Interactions across Agent Tasks"
     },
+    "https://arxiv.org/abs/2610.07261": {
+      "content_hash": "a74adc2fc8981449",
+      "last_seen": "2026-10-08",
+      "title": "Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner"
+    },
+    "https://arxiv.org/abs/2610.07459": {
+      "content_hash": "b0187758465767f5",
+      "last_seen": "2026-10-08",
+      "title": "Auditable Claims about AI Agents"
+    },
+    "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
+      "content_hash": "64d4dbc6dfd5ba4c",
+      "last_seen": "2026-10-08",
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
+    },
     "https://huggingface.co/blog/lerobot-release-v060": {
       "content_hash": "d855b28642bdbb03",
       "last_seen": "2026-07-07",
@@ -1345,6 +1360,11 @@
       "last_seen": "2026-07-24",
       "title": "ChatGPT will give you worse health advice if you don't pay"
     },
+    "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/": {
+      "content_hash": "ffd71e34c27d8f10",
+      "last_seen": "2026-10-08",
+      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps"
+    },
     "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/": {
       "content_hash": "a91129d1501039b0",
       "last_seen": "2026-06-19",
@@ -1974,6 +1994,11 @@
       "content_hash": "c5da554e873949ba",
       "last_seen": "2026-08-17",
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
+    },
+    "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/": {
+      "content_hash": "be0e4518320a86a9",
+      "last_seen": "2026-10-08",
+      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up"
     },
     "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/": {
       "content_hash": "13a4d7a311b82714",
@@ -2739,6 +2764,16 @@
       "content_hash": "496ad5534b4e574e",
       "last_seen": "2026-10-07",
       "title": "How traditional Chinese medicine is shaping Kazakhstan\u2019s health system"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370009/how-closer-china-us-ties-and-more-xi-trump-summits-could-work-irans-favour?utm_source=rss_feed": {
+      "content_hash": "cafe4ba44f1a8fdf",
+      "last_seen": "2026-10-08",
+      "title": "How closer China-US ties \u2013 and more Xi-Trump summits \u2013 could work in Iran\u2019s favour"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal?utm_source=rss_feed": {
+      "content_hash": "f5eba82f37589436",
+      "last_seen": "2026-10-08",
+      "title": "US issues first outbound investment fine over Chinese robotics AI deal"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4105,6 +4140,11 @@
       "last_seen": "2026-07-31",
       "title": "Teradyne Robotics revenue rises 33% year over year in Q2"
     },
+    "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/": {
+      "content_hash": "6a254d4475716f63",
+      "last_seen": "2026-10-08",
+      "title": "Teradyne Robotics, Elite Robots settle cobot dispute"
+    },
     "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/": {
       "content_hash": "d41eda7b2fc6b706",
       "last_seen": "2026-07-17",
@@ -4146,5 +4186,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-06T20:18:18.452035+00:00"
+  "updated_at": "2026-10-07T20:19:02.547591+00:00"
 }
