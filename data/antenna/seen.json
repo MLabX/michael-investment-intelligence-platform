@@ -307,12 +307,12 @@
     },
     "https://arxiv.org/abs/2610.07261": {
       "content_hash": "a74adc2fc8981449",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "title": "Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner"
     },
     "https://arxiv.org/abs/2610.07459": {
       "content_hash": "b0187758465767f5",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "title": "Auditable Claims about AI Agents"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
@@ -1009,6 +1009,11 @@
       "content_hash": "1d8c72ebdd3a24e8",
       "last_seen": "2026-08-02",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot"
+    },
+    "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/": {
+      "content_hash": "b3073453f1e355b2",
+      "last_seen": "2026-10-09",
+      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found"
     },
     "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/": {
       "content_hash": "72eead056e092134",
@@ -2245,6 +2250,11 @@
       "last_seen": "2026-09-28",
       "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\""
     },
+    "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/": {
+      "content_hash": "b9b723385bdcaa31",
+      "last_seen": "2026-10-09",
+      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field"
+    },
     "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/": {
       "content_hash": "6a38b5c8d6b26306",
       "last_seen": "2026-08-31",
@@ -2774,6 +2784,11 @@
       "content_hash": "f5eba82f37589436",
       "last_seen": "2026-10-08",
       "title": "US issues first outbound investment fine over Chinese robotics AI deal"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370214/china-nominates-song-li-who-chief-agency-faces-funding-shake-us-exit?utm_source=rss_feed": {
+      "content_hash": "9a412d5d846417ca",
+      "last_seen": "2026-10-09",
+      "title": "China nominates Song Li for WHO chief as agency faces funding shake-up from US exit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3750,6 +3765,11 @@
       "last_seen": "2026-09-25",
       "title": "US, China agree two-month trade truce extension ahead of summit"
     },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3370186/trump-pushed-xi-end-japan-freeze-chinese-leader-unmoved?utm_source=rss_feed": {
+      "content_hash": "a2f9e9a86d0c0fef",
+      "last_seen": "2026-10-09",
+      "title": "Trump pushed Xi to end Japan freeze, but Chinese leader unmoved"
+    },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
@@ -3864,6 +3884,11 @@
       "content_hash": "afbc317fc402ea5d",
       "last_seen": "2026-09-24",
       "title": "A congressional representative just proposed killing America\u2019s border tower program"
+    },
+    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/": {
+      "content_hash": "b8badbe54633e003",
+      "last_seen": "2026-10-09",
+      "title": "Building a safer path to autonomous industrial AI"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -4035,6 +4060,11 @@
       "last_seen": "2026-06-12",
       "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research"
     },
+    "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/": {
+      "content_hash": "d498f5ad0b63073f",
+      "last_seen": "2026-10-09",
+      "title": "Jabil discusses the pace of humanoid robot development and production"
+    },
     "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/": {
       "content_hash": "994588edcfc67ba3",
       "last_seen": "2026-07-07",
@@ -4186,5 +4216,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-07T20:19:02.547591+00:00"
+  "updated_at": "2026-10-08T20:18:06.573084+00:00"
 }
