@@ -315,6 +315,16 @@
       "last_seen": "2026-10-09",
       "title": "Auditable Claims about AI Agents"
     },
+    "https://arxiv.org/abs/2610.11317": {
+      "content_hash": "62a065ab0267051e",
+      "last_seen": "2026-10-10",
+      "title": "DivMoE: Fine-Grained MoE Upcycling via Cross-Domain Expert Composition"
+    },
+    "https://arxiv.org/abs/2610.11655": {
+      "content_hash": "ff6e924bd02c05e8",
+      "last_seen": "2026-10-10",
+      "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1265,6 +1275,11 @@
       "last_seen": "2026-07-23",
       "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
     },
+    "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/": {
+      "content_hash": "81205bf07fc38cab",
+      "last_seen": "2026-10-10",
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+    },
     "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/": {
       "content_hash": "28e258e2026a912f",
       "last_seen": "2026-06-28",
@@ -2144,6 +2159,11 @@
       "content_hash": "74be7e1235e2926a",
       "last_seen": "2026-06-11",
       "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\""
+    },
+    "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/": {
+      "content_hash": "698fe0b935d540ba",
+      "last_seen": "2026-10-10",
+      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse"
     },
     "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/": {
       "content_hash": "fc61da07c82f5322",
@@ -3745,6 +3765,11 @@
       "last_seen": "2026-08-18",
       "title": "China\u2019s economy cools amid debate about risks of global crisis"
     },
+    "https://www.scmp.com/plus/economy/china-economy/article/3370339/china-rejects-yuan-complaints-golden-week-travel-canton-fair?utm_source=rss_feed": {
+      "content_hash": "92c2167a3f7981be",
+      "last_seen": "2026-10-10",
+      "title": "China rejects yuan complaints, \u2018golden week\u2019 travel, Canton Fair"
+    },
     "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed": {
       "content_hash": "5f5fd6c4a14fff95",
       "last_seen": "2026-06-24",
@@ -3890,6 +3915,11 @@
       "last_seen": "2026-10-09",
       "title": "Building a safer path to autonomous industrial AI"
     },
+    "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/": {
+      "content_hash": "c3091589c687b499",
+      "last_seen": "2026-10-10",
+      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -3934,6 +3964,11 @@
       "content_hash": "5891f7a197b96220",
       "last_seen": "2026-07-07",
       "title": "Boston Dynamics brings its legged robots to the FIFA World Cup"
+    },
+    "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/": {
+      "content_hash": "10c451bc572606c9",
+      "last_seen": "2026-10-10",
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand"
     },
     "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/": {
       "content_hash": "23f911d84a42eea7",
@@ -4210,11 +4245,16 @@
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     },
+    "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/": {
+      "content_hash": "bd886f27bcc95d0b",
+      "last_seen": "2026-10-10",
+      "title": "Why humanoid robot demos still fail the generalization test"
+    },
     "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/": {
       "content_hash": "ddc635c7e938e89e",
       "last_seen": "2026-08-05",
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-08T20:18:06.573084+00:00"
+  "updated_at": "2026-10-09T20:17:07.546851+00:00"
 }
