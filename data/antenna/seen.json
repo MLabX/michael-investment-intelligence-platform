@@ -105,6 +105,11 @@
       "last_seen": "2026-06-26",
       "title": "IBM claims world\u2019s first sub-1 nanometer chip technology"
     },
+    "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
+      "content_hash": "aa5276298c265f14",
+      "last_seen": "2026-10-11",
+      "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\""
+    },
     "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/": {
       "content_hash": "9692f1c7ea8cf4c7",
       "last_seen": "2026-06-11",
@@ -439,6 +444,11 @@
       "content_hash": "aa1240eeaf05c17c",
       "last_seen": "2026-10-05",
       "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
+    },
+    "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/": {
+      "content_hash": "354834c13ef5e833",
+      "last_seen": "2026-10-11",
+      "title": "SpaceX launches 21 data satellites for the Space Development Agency"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -1010,6 +1020,11 @@
       "last_seen": "2026-10-04",
       "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
     },
+    "https://spectrum.ieee.org/video-friday-reachy-mini-raps": {
+      "content_hash": "b6d5c5184267079a",
+      "last_seen": "2026-10-11",
+      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn"
+    },
     "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/": {
       "content_hash": "a4a998a03afde0ac",
       "last_seen": "2026-09-19",
@@ -1277,7 +1292,7 @@
     },
     "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/": {
       "content_hash": "81205bf07fc38cab",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
     },
     "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/": {
@@ -2069,6 +2084,11 @@
       "content_hash": "ff345055fac14cb6",
       "last_seen": "2026-09-18",
       "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem"
+    },
+    "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/": {
+      "content_hash": "864aba468a7693f2",
+      "last_seen": "2026-10-11",
+      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data"
     },
     "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/": {
       "content_hash": "aaf6d475b4e5a884",
@@ -3160,6 +3180,11 @@
       "last_seen": "2026-10-01",
       "title": "Slow is beautiful: China launches war against AI drama, goes beyond algorithms"
     },
+    "https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war?utm_source=rss_feed": {
+      "content_hash": "66d77842bcddafbb",
+      "last_seen": "2026-10-11",
+      "title": "Taiwanese leader welcomes talks between Washington and Beijing \u2018to reduce risk of war\u2019"
+    },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
       "last_seen": "2026-06-09",
@@ -3614,6 +3639,11 @@
       "content_hash": "5828e2d5577325e3",
       "last_seen": "2026-10-04",
       "title": "US, China botanists sign landmark proposal on cooperation, global issues and projects"
+    },
+    "https://www.scmp.com/news/china/science/article/3370437/china-unveils-ai-powered-robot-designed-help-farmers-breed-better-strains-wheat?utm_source=rss_feed": {
+      "content_hash": "403679082388b519",
+      "last_seen": "2026-10-11",
+      "title": "China unveils AI-powered robot designed to help farmers breed better strains of wheat"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -4245,6 +4275,11 @@
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     },
+    "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/": {
+      "content_hash": "1cf1fb1c1f53bccb",
+      "last_seen": "2026-10-11",
+      "title": "Why dexterity is physical AI\u2019s real bottleneck"
+    },
     "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/": {
       "content_hash": "bd886f27bcc95d0b",
       "last_seen": "2026-10-10",
@@ -4256,5 +4291,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-09T20:17:07.546851+00:00"
+  "updated_at": "2026-10-10T20:16:09.296672+00:00"
 }
