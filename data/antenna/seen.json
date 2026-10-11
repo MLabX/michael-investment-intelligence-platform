@@ -400,9 +400,19 @@
       "last_seen": "2026-09-24",
       "title": "The Price of Intelligence is Falling Rapidly"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba": {
+      "content_hash": "e56b34d2d981489d",
+      "last_seen": "2026-10-12",
+      "title": "Sky Roomba!"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585": {
       "content_hash": "525152cb316ad819",
       "last_seen": "2026-10-05",
+      "title": "Sunday assorted links"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586": {
+      "content_hash": "2dc7fff2ff894d85",
+      "last_seen": "2026-10-12",
       "title": "Sunday assorted links"
     },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
@@ -1049,6 +1059,16 @@
       "content_hash": "b5d0b3742c17027a",
       "last_seen": "2026-09-16",
       "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside"
+    },
+    "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/": {
+      "content_hash": "73ed53db18871cf1",
+      "last_seen": "2026-10-12",
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds"
+    },
+    "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/": {
+      "content_hash": "9e9d4002de4de3ec",
+      "last_seen": "2026-10-12",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds"
     },
     "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/": {
       "content_hash": "0ec9ee30bba0d4e8",
@@ -2830,6 +2850,16 @@
       "last_seen": "2026-10-09",
       "title": "China nominates Song Li for WHO chief as agency faces funding shake-up from US exit"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3370482/eus-china-dilemma-how-counter-beijing-without-alienating-friends?utm_source=rss_feed": {
+      "content_hash": "b57489c1b23c1e87",
+      "last_seen": "2026-10-12",
+      "title": "The EU\u2019s China dilemma: how to counter Beijing without alienating friends"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370497/putin-aide-looks-boost-russian-shipbuilding-ties-china-during-visit?utm_source=rss_feed": {
+      "content_hash": "d3a2bd67a2f16860",
+      "last_seen": "2026-10-12",
+      "title": "Putin aide looks to boost Russian shipbuilding ties with China during visit"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -3905,6 +3935,11 @@
       "last_seen": "2026-10-05",
       "title": "Pizza Bao, Spaghetti Stir-Fry: Chinese Students Hack Home Cooking Abroad"
     },
+    "https://www.sixthtone.com/news/1019103/two chinese books shortlisted for us national translation awards": {
+      "content_hash": "c8a1925cb227927d",
+      "last_seen": "2026-10-12",
+      "title": "Two Chinese Books Shortlisted for US National Translation Awards"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -4285,11 +4320,16 @@
       "last_seen": "2026-10-10",
       "title": "Why humanoid robot demos still fail the generalization test"
     },
+    "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/": {
+      "content_hash": "7c0781adf80a642c",
+      "last_seen": "2026-10-12",
+      "title": "Will \u2018boring\u2019 robots win in the real world? Why robotic form should follow workflow"
+    },
     "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/": {
       "content_hash": "ddc635c7e938e89e",
       "last_seen": "2026-08-05",
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-10T20:16:09.296672+00:00"
+  "updated_at": "2026-10-11T20:17:07.111241+00:00"
 }
