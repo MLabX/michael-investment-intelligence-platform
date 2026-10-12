@@ -330,6 +330,16 @@
       "last_seen": "2026-10-10",
       "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin"
     },
+    "https://arxiv.org/abs/2610.12933": {
+      "content_hash": "72dcfe3e3440b161",
+      "last_seen": "2026-10-13",
+      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training"
+    },
+    "https://arxiv.org/abs/2610.13000": {
+      "content_hash": "aa957c32950c3656",
+      "last_seen": "2026-10-13",
+      "title": "Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -399,6 +409,11 @@
       "content_hash": "3bf78feeb765df13",
       "last_seen": "2026-09-24",
       "title": "The Price of Intelligence is Falling Rapidly"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel": {
+      "content_hash": "b6a62055bb45cb26",
+      "last_seen": "2026-10-13",
+      "title": "Michael Woodford Wins Nobel"
     },
     "https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba": {
       "content_hash": "e56b34d2d981489d",
@@ -709,6 +724,11 @@
       "content_hash": "9679ca9cc7e1999a",
       "last_seen": "2026-07-22",
       "title": "Italian startup ORiS raises funding for laser power-beaming technology"
+    },
+    "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/": {
+      "content_hash": "9ae8c7a510a39dff",
+      "last_seen": "2026-10-13",
+      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission."
     },
     "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/": {
       "content_hash": "54d7c82230e27fbe",
@@ -1890,6 +1910,11 @@
       "last_seen": "2026-07-03",
       "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients"
     },
+    "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/": {
+      "content_hash": "a94cefd916706418",
+      "last_seen": "2026-10-13",
+      "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027"
+    },
     "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/": {
       "content_hash": "e670e5596a90aa1a",
       "last_seen": "2026-06-15",
@@ -2470,6 +2495,11 @@
       "last_seen": "2026-08-22",
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race"
     },
+    "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/": {
+      "content_hash": "049fc059ff52a367",
+      "last_seen": "2026-10-13",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models"
+    },
     "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/": {
       "content_hash": "bc3d76ae7d16d017",
       "last_seen": "2026-10-07",
@@ -2859,6 +2889,11 @@
       "content_hash": "d3a2bd67a2f16860",
       "last_seen": "2026-10-12",
       "title": "Putin aide looks to boost Russian shipbuilding ties with China during visit"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370626/chinas-top-diplomat-visit-azerbaijan-croatia-montenegro-and-bulgaria-boost-ties?utm_source=rss_feed": {
+      "content_hash": "9ba59138026d681a",
+      "last_seen": "2026-10-13",
+      "title": "China\u2019s top diplomat to visit Azerbaijan, Croatia, Montenegro and Bulgaria to boost ties"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -3775,6 +3810,11 @@
       "last_seen": "2026-08-06",
       "title": "China competition looms large in 2027 US defence bill"
     },
+    "https://www.scmp.com/news/world/article/3370528/trumps-china-savvy-spokeswoman-hong-kong-trail-emergencies-5-weekend-reads-you-missed?utm_source=rss_feed": {
+      "content_hash": "5a918b687acc6f2f",
+      "last_seen": "2026-10-13",
+      "title": "Trump\u2019s China-savvy spokeswoman, Hong Kong trail emergencies: 5 weekend reads you missed"
+    },
     "https://www.scmp.com/news/world/europe/article/3357208/eu-says-china-trained-russian-troops-bloc-weighs-tougher-stance-beijing?utm_source=rss_feed": {
       "content_hash": "78e64eb91fd88dcf",
       "last_seen": "2026-06-16",
@@ -4331,5 +4371,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-11T20:17:07.111241+00:00"
+  "updated_at": "2026-10-12T20:17:56.393861+00:00"
 }
