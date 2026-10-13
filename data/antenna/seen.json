@@ -332,12 +332,12 @@
     },
     "https://arxiv.org/abs/2610.12933": {
       "content_hash": "72dcfe3e3440b161",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training"
     },
     "https://arxiv.org/abs/2610.13000": {
       "content_hash": "aa957c32950c3656",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "title": "Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
@@ -474,6 +474,11 @@
       "content_hash": "354834c13ef5e833",
       "last_seen": "2026-10-11",
       "title": "SpaceX launches 21 data satellites for the Space Development Agency"
+    },
+    "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/": {
+      "content_hash": "6fb01d77d9b835c3",
+      "last_seen": "2026-10-14",
+      "title": "SpaceX launches NASA science and cargo to the International Space Station"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -1055,6 +1060,11 @@
       "last_seen": "2026-10-11",
       "title": "Video Friday: Robot Decommissioning Takes a Fun Turn"
     },
+    "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
+      "content_hash": "f38b00c5104bcc14",
+      "last_seen": "2026-10-14",
+      "title": "406 scientists demand AI models be cut off from the internet immediately"
+    },
     "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/": {
       "content_hash": "a4a998a03afde0ac",
       "last_seen": "2026-09-19",
@@ -1319,6 +1329,11 @@
       "content_hash": "e4b9eb0ff5aaa4b8",
       "last_seen": "2026-06-11",
       "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches"
+    },
+    "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/": {
+      "content_hash": "104187de1b872475",
+      "last_seen": "2026-10-14",
+      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices"
     },
     "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/": {
       "content_hash": "9476071b6baf781c",
@@ -3200,6 +3215,11 @@
       "last_seen": "2026-09-30",
       "title": "US Navy launches drone command that could reshape Taiwan war planning"
     },
+    "https://www.scmp.com/news/china/military/article/3370742/chinas-zhuhai-air-show-feature-first-ever-dedicated-naval-equipment-display?utm_source=rss_feed": {
+      "content_hash": "8d831f96fdd7f89e",
+      "last_seen": "2026-10-14",
+      "title": "China\u2019s Zhuhai air show to feature first dedicated naval equipment display"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -4025,6 +4045,11 @@
       "last_seen": "2026-10-10",
       "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects"
     },
+    "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/": {
+      "content_hash": "d0b3a937937d8c09",
+      "last_seen": "2026-10-14",
+      "title": "The Download: open model trade-offs and geothermal power\u2019s promise"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4149,6 +4174,11 @@
       "content_hash": "701f763c28627ed9",
       "last_seen": "2026-08-18",
       "title": "Gravis Robotics raises $200M for autonomous construction"
+    },
+    "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/": {
+      "content_hash": "c70870a0a9e8533e",
+      "last_seen": "2026-10-14",
+      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness"
     },
     "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/": {
       "content_hash": "1ac26a0bab641a65",
@@ -4371,5 +4401,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-12T20:17:56.393861+00:00"
+  "updated_at": "2026-10-13T20:17:10.801092+00:00"
 }
