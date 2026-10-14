@@ -285,6 +285,16 @@
       "last_seen": "2026-09-10",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models"
     },
+    "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/": {
+      "content_hash": "83574f22761f76b1",
+      "last_seen": "2026-10-15",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room"
+    },
+    "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
+      "content_hash": "cdea59ba0ec8ecb8",
+      "last_seen": "2026-10-15",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
+    },
     "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
       "content_hash": "bda186356057417e",
       "last_seen": "2026-10-04",
@@ -689,6 +699,11 @@
       "content_hash": "0f6512a478856db9",
       "last_seen": "2026-06-26",
       "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force"
+    },
+    "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/": {
+      "content_hash": "afdf0d9e2be33c03",
+      "last_seen": "2026-10-15",
+      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit"
     },
     "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/": {
       "content_hash": "7090a79e25545045",
@@ -1114,6 +1129,11 @@
       "content_hash": "ac7d5c6bff837423",
       "last_seen": "2026-08-30",
       "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry"
+    },
+    "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/": {
+      "content_hash": "83747de6e2d5b2eb",
+      "last_seen": "2026-10-15",
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap"
     },
     "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/": {
       "content_hash": "487f4eca83a7dad0",
@@ -2195,6 +2215,11 @@
       "last_seen": "2026-06-12",
       "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing"
     },
+    "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/": {
+      "content_hash": "76876cf3f8cd7a87",
+      "last_seen": "2026-10-15",
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work"
+    },
     "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/": {
       "content_hash": "da69520694eea5d4",
       "last_seen": "2026-06-21",
@@ -2595,6 +2620,11 @@
       "last_seen": "2026-10-04",
       "title": "Chinese art takes long march home from US museums"
     },
+    "https://www.scmp.com/news/china/article/3370914/eu-leaders-urgently-call-new-trade-weapons-tackle-china-shock?utm_source=rss_feed": {
+      "content_hash": "c719d895fc1c69a0",
+      "last_seen": "2026-10-15",
+      "title": "EU leaders to \u2018urgently\u2019 call for new trade weapons to tackle China shock"
+    },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
       "last_seen": "2026-06-08",
@@ -2909,6 +2939,11 @@
       "content_hash": "9ba59138026d681a",
       "last_seen": "2026-10-13",
       "title": "China\u2019s top diplomat to visit Azerbaijan, Croatia, Montenegro and Bulgaria to boost ties"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3370847/us-pursues-mine-deals-xi-warns-african-resources-are-not-tools-rivalry?utm_source=rss_feed": {
+      "content_hash": "91b62f954467099b",
+      "last_seen": "2026-10-15",
+      "title": "As US pursues mine deals, Xi warns African resources are not tools for \u2018rivalry\u2019"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4355,6 +4390,11 @@
       "last_seen": "2026-07-08",
       "title": "Tesollo initiates IPO process while developing humanoid hands"
     },
+    "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/": {
+      "content_hash": "1a41c90b0edc31f3",
+      "last_seen": "2026-10-15",
+      "title": "Timken Precision Drives puts the motion challenge first in humanoid robots"
+    },
     "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/": {
       "content_hash": "8589eeba39031abc",
       "last_seen": "2026-08-05",
@@ -4401,5 +4441,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-13T20:17:10.801092+00:00"
+  "updated_at": "2026-10-14T20:16:05.343603+00:00"
 }
