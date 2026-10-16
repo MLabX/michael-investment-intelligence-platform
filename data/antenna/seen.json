@@ -360,6 +360,16 @@
       "last_seen": "2026-10-16",
       "title": "Correction Training for Diffusion Models"
     },
+    "https://arxiv.org/abs/2610.20965": {
+      "content_hash": "7db0fbcab40f3937",
+      "last_seen": "2026-10-17",
+      "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data"
+    },
+    "https://arxiv.org/abs/2610.21055": {
+      "content_hash": "eca0bb8516adc341",
+      "last_seen": "2026-10-17",
+      "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1095,6 +1105,11 @@
       "last_seen": "2026-10-11",
       "title": "Video Friday: Robot Decommissioning Takes a Fun Turn"
     },
+    "https://spectrum.ieee.org/video-friday-reconfigurable-robots": {
+      "content_hash": "044dc401f62c60f8",
+      "last_seen": "2026-10-17",
+      "title": "Video Friday: When Two Robots Become One"
+    },
     "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
       "content_hash": "f38b00c5104bcc14",
       "last_seen": "2026-10-14",
@@ -1289,6 +1304,11 @@
       "content_hash": "f37ba68fd514f72f",
       "last_seen": "2026-09-24",
       "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter"
+    },
+    "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/": {
+      "content_hash": "c85f327a5d30f602",
+      "last_seen": "2026-10-17",
+      "title": "Anthropic gives METR inside access to audit its AI models and safety practices"
     },
     "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/": {
       "content_hash": "2f9370a308fa1e31",
@@ -1524,6 +1544,11 @@
       "content_hash": "77b38b228df64b5d",
       "last_seen": "2026-08-21",
       "title": "China now has its own AI circular financing scheme"
+    },
+    "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/": {
+      "content_hash": "c8716a1457ad5a82",
+      "last_seen": "2026-10-17",
+      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies"
     },
     "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/": {
       "content_hash": "8748d7570e2a6004",
@@ -2975,6 +3000,11 @@
       "last_seen": "2026-10-15",
       "title": "As US pursues mine deals, Xi warns African resources are not tools for \u2018rivalry\u2019"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3371212/china-pushes-back-us-lawmaker-seeks-blacklist-universities-and-tech-labs?utm_source=rss_feed": {
+      "content_hash": "d35bf7e888e97ba3",
+      "last_seen": "2026-10-17",
+      "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4125,6 +4155,11 @@
       "last_seen": "2026-10-14",
       "title": "The Download: open model trade-offs and geothermal power\u2019s promise"
     },
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
+      "content_hash": "fc75e13eb8e4ed51",
+      "last_seen": "2026-10-17",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4325,6 +4360,11 @@
       "last_seen": "2026-09-05",
       "title": "Lyte raises $165M to help robots better sense their surroundings"
     },
+    "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/": {
+      "content_hash": "463c1fdc4442c8e6",
+      "last_seen": "2026-10-17",
+      "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program"
+    },
     "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/": {
       "content_hash": "5b11d6ece82329cf",
       "last_seen": "2026-08-06",
@@ -4481,5 +4521,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-15T20:14:40.998621+00:00"
+  "updated_at": "2026-10-16T20:15:00.248411+00:00"
 }
