@@ -1107,7 +1107,7 @@
     },
     "https://spectrum.ieee.org/video-friday-reconfigurable-robots": {
       "content_hash": "044dc401f62c60f8",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "title": "Video Friday: When Two Robots Become One"
     },
     "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
@@ -1274,6 +1274,11 @@
       "content_hash": "9dfcf2c4898b374e",
       "last_seen": "2026-07-22",
       "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested"
+    },
+    "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/": {
+      "content_hash": "e3f9f5bef0fbf1ba",
+      "last_seen": "2026-10-18",
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
     },
     "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/": {
       "content_hash": "9e1927751c7a2bf5",
@@ -1949,6 +1954,11 @@
       "content_hash": "79b6f0147bfb7e23",
       "last_seen": "2026-06-27",
       "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit"
+    },
+    "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/": {
+      "content_hash": "ce276a9d3443b621",
+      "last_seen": "2026-10-18",
+      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
     },
     "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/": {
       "content_hash": "ba7f7febf693e9b7",
@@ -3005,6 +3015,11 @@
       "last_seen": "2026-10-17",
       "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3371233/coming-roses-how-trump-planted-new-seed-chinese-gift-diplomacy?utm_source=rss_feed": {
+      "content_hash": "4be037f73eada780",
+      "last_seen": "2026-10-18",
+      "title": "Coming up roses? How Trump planted a new seed for Chinese gift diplomacy"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -3364,6 +3379,11 @@
       "content_hash": "66d77842bcddafbb",
       "last_seen": "2026-10-11",
       "title": "Taiwanese leader welcomes talks between Washington and Beijing \u2018to reduce risk of war\u2019"
+    },
+    "https://www.scmp.com/news/china/politics/article/3371206/chinas-shenzhen-ready-host-xi-trump-and-putin-during-apec-summit?utm_source=rss_feed": {
+      "content_hash": "9b2ea0495189eabd",
+      "last_seen": "2026-10-18",
+      "title": "Is China\u2019s Shenzhen ready to host Xi, Trump and Putin during Apec summit?"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -4157,7 +4177,7 @@
     },
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
       "content_hash": "fc75e13eb8e4ed51",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
@@ -4430,6 +4450,11 @@
       "last_seen": "2026-08-04",
       "title": "Reimagine Robotics emerges from stealth with robots that \u2018learn on the job\u2019"
     },
+    "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/": {
+      "content_hash": "b207ed25bc1d39c9",
+      "last_seen": "2026-10-18",
+      "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -4510,6 +4535,11 @@
       "last_seen": "2026-10-10",
       "title": "Why humanoid robot demos still fail the generalization test"
     },
+    "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/": {
+      "content_hash": "e264aacbcb42e886",
+      "last_seen": "2026-10-18",
+      "title": "Why opportunity charging is winning as robot fleets scale"
+    },
     "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/": {
       "content_hash": "7c0781adf80a642c",
       "last_seen": "2026-10-12",
@@ -4521,5 +4551,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-16T20:15:00.248411+00:00"
+  "updated_at": "2026-10-17T20:14:32.279197+00:00"
 }
