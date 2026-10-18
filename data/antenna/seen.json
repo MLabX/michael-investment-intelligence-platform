@@ -100,6 +100,11 @@
       "last_seen": "2026-10-01",
       "title": "OpenAI delays IPO over AI safety concerns"
     },
+    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
+      "content_hash": "db7ebc61bdfbc149",
+      "last_seen": "2026-10-19",
+      "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -514,6 +519,11 @@
       "content_hash": "1822c5136da83daa",
       "last_seen": "2026-10-16",
       "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force"
+    },
+    "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/": {
+      "content_hash": "8bfb20f7320f7aca",
+      "last_seen": "2026-10-19",
+      "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -1145,6 +1155,11 @@
       "last_seen": "2026-10-12",
       "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds"
     },
+    "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/": {
+      "content_hash": "aa7fb65cc7fc75a6",
+      "last_seen": "2026-10-19",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office"
+    },
     "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/": {
       "content_hash": "9e9d4002de4de3ec",
       "last_seen": "2026-10-12",
@@ -1299,6 +1314,11 @@
       "content_hash": "c73bb3c4fd71e9ba",
       "last_seen": "2026-07-26",
       "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price"
+    },
+    "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/": {
+      "content_hash": "167301bd99996155",
+      "last_seen": "2026-10-19",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals"
     },
     "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/": {
       "content_hash": "709a40f2fa34caae",
@@ -3020,6 +3040,11 @@
       "last_seen": "2026-10-18",
       "title": "Coming up roses? How Trump planted a new seed for Chinese gift diplomacy"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3371317/katie-zacharia-and-mao-ning-study-contrasts-us-and-china-media-strategies?utm_source=rss_feed": {
+      "content_hash": "880e734e65c02f85",
+      "last_seen": "2026-10-19",
+      "title": "Katie Zacharia and Mao Ning \u2013 a study in contrasts in US and China media strategies"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -3329,6 +3354,11 @@
       "content_hash": "8d831f96fdd7f89e",
       "last_seen": "2026-10-14",
       "title": "China\u2019s Zhuhai air show to feature first dedicated naval equipment display"
+    },
+    "https://www.scmp.com/news/china/military/article/3371286/china-urged-copy-pentagons-hi-tech-warfare-project-without-us-conflicts-interest?utm_source=rss_feed": {
+      "content_hash": "0326707357ad5786",
+      "last_seen": "2026-10-19",
+      "title": "China urged to copy Pentagon\u2019s hi-tech warfare project without US conflicts of interest"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -4125,6 +4155,11 @@
       "last_seen": "2026-10-12",
       "title": "Two Chinese Books Shortlisted for US National Translation Awards"
     },
+    "https://www.sixthtone.com/news/1019117/zheng qinwen\u2019s china open win swamps her sponsor\u2019s tea shops": {
+      "content_hash": "dd96b9d0948c4caa",
+      "last_seen": "2026-10-19",
+      "title": "Zheng Qinwen\u2019s China Open Win Swamps Her Sponsor\u2019s Tea Shops"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -4329,6 +4364,11 @@
       "content_hash": "1808472514327720",
       "last_seen": "2026-10-05",
       "title": "How robotics and physical AI can responsibly tackle key physical security challenges"
+    },
+    "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/": {
+      "content_hash": "3ea70fb2232ff7e0",
+      "last_seen": "2026-10-19",
+      "title": "How to choose a BLDC motor for robotic arms and mobile robots"
     },
     "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/": {
       "content_hash": "cee7420444d8f55f",
@@ -4551,5 +4591,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-17T20:14:32.279197+00:00"
+  "updated_at": "2026-10-18T20:14:18.498569+00:00"
 }
