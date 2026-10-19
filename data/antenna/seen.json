@@ -375,6 +375,16 @@
       "last_seen": "2026-10-17",
       "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research"
     },
+    "https://arxiv.org/abs/2610.22469": {
+      "content_hash": "4e51f449a1edfaba",
+      "last_seen": "2026-10-20",
+      "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics"
+    },
+    "https://arxiv.org/abs/2610.23342": {
+      "content_hash": "09d8d71a34c18459",
+      "last_seen": "2026-10-20",
+      "title": "Robust Function Calling for LLM Agents Under Interface Drift"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1065,6 +1075,11 @@
       "last_seen": "2026-08-08",
       "title": "U.S. Senate confirms Schiess to lead Space Force"
     },
+    "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/": {
+      "content_hash": "e642f876bc69d6ae",
+      "last_seen": "2026-10-20",
+      "title": "UARX Space troubleshoots anomalies on maiden OTV Flight"
+    },
     "https://spacenews.com/ula-names-peller-as-new-ceo/": {
       "content_hash": "84cc63ccb1dae126",
       "last_seen": "2026-08-18",
@@ -1099,6 +1114,11 @@
       "content_hash": "2b7981f3254ce930",
       "last_seen": "2026-08-04",
       "title": "Xona secures spectrum approval for satellite navigation network"
+    },
+    "https://spectrum.ieee.org/agility-robotics-digit-5-redesign": {
+      "content_hash": "06d7ecd162014711",
+      "last_seen": "2026-10-20",
+      "title": "The Robot I Didn\u2019t Expect to Build"
     },
     "https://spectrum.ieee.org/robot-emotions-visual-language-models": {
       "content_hash": "b2734a8c71d1589a",
@@ -1354,6 +1374,11 @@
       "content_hash": "fffaed19c99fab9b",
       "last_seen": "2026-07-05",
       "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable"
+    },
+    "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/": {
+      "content_hash": "ee5409a3a4ce3ff6",
+      "last_seen": "2026-10-20",
+      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children"
     },
     "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/": {
       "content_hash": "c67c7f55dc632ba6",
@@ -2540,6 +2565,11 @@
       "last_seen": "2026-06-28",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
     },
+    "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/": {
+      "content_hash": "b5fc593a577a66f4",
+      "last_seen": "2026-10-20",
+      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose"
+    },
     "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/": {
       "content_hash": "85872a909cdd7371",
       "last_seen": "2026-07-19",
@@ -2709,6 +2739,11 @@
       "content_hash": "c719d895fc1c69a0",
       "last_seen": "2026-10-15",
       "title": "EU leaders to \u2018urgently\u2019 call for new trade weapons to tackle China shock"
+    },
+    "https://www.scmp.com/news/china/article/3371426/chinas-flag-carrier-scrambles-fly-stranded-passengers-out-fuel-starved-cuba?utm_source=rss_feed": {
+      "content_hash": "f24887f1e3a2eb3e",
+      "last_seen": "2026-10-20",
+      "title": "China\u2019s flag carrier scrambles to fly stranded passengers out of fuel-starved Cuba"
     },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
@@ -4215,6 +4250,11 @@
       "last_seen": "2026-10-18",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     },
+    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/": {
+      "content_hash": "84456035a7eb2b8f",
+      "last_seen": "2026-10-20",
+      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4591,5 +4631,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-18T20:14:18.498569+00:00"
+  "updated_at": "2026-10-19T20:16:52.573273+00:00"
 }
