@@ -550,6 +550,11 @@
       "last_seen": "2026-07-28",
       "title": "Amazon files application for direct-to-device satellite constellation"
     },
+    "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/": {
+      "content_hash": "4c5d2419ae915ea2",
+      "last_seen": "2026-10-21",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions"
+    },
     "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/": {
       "content_hash": "e18f34a2028c4dde",
       "last_seen": "2026-07-08",
@@ -1077,7 +1082,7 @@
     },
     "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/": {
       "content_hash": "e642f876bc69d6ae",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "title": "UARX Space troubleshoots anomalies on maiden OTV Flight"
     },
     "https://spacenews.com/ula-names-peller-as-new-ceo/": {
@@ -1684,6 +1689,11 @@
       "content_hash": "060f85b7bdaed474",
       "last_seen": "2026-07-15",
       "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now"
+    },
+    "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/": {
+      "content_hash": "38e3356761c62c8a",
+      "last_seen": "2026-10-21",
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model"
     },
     "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/": {
       "content_hash": "4c2bfe7e8ade2df2",
@@ -2294,6 +2304,11 @@
       "content_hash": "98943e8eb36baddf",
       "last_seen": "2026-06-10",
       "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing"
+    },
+    "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/": {
+      "content_hash": "a6686f2e1b8d8fec",
+      "last_seen": "2026-10-21",
+      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran"
     },
     "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/": {
       "content_hash": "da27818ad6b011be",
@@ -3395,6 +3410,11 @@
       "last_seen": "2026-10-19",
       "title": "China urged to copy Pentagon\u2019s hi-tech warfare project without US conflicts of interest"
     },
+    "https://www.scmp.com/news/china/military/article/3371517/pla-navy-followed-us-vessel-patrol-south-china-sea-hotspot-beijing-says": {
+      "content_hash": "efaef45157655477",
+      "last_seen": "2026-10-21",
+      "title": "PLA Navy followed US vessel on patrol in South China Sea hotspot, Beijing says"
+    },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
       "last_seen": "2026-06-15",
@@ -4255,6 +4275,16 @@
       "last_seen": "2026-10-20",
       "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world"
     },
+    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/": {
+      "content_hash": "0cb7c8ef1868b482",
+      "last_seen": "2026-10-21",
+      "title": "A visit to Samsung\u2019s massive new semiconductor hub"
+    },
+    "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/": {
+      "content_hash": "b423e93514c654d8",
+      "last_seen": "2026-10-21",
+      "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4535,6 +4565,11 @@
       "last_seen": "2026-10-18",
       "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies"
     },
+    "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/": {
+      "content_hash": "1d3bb9b1f940a5ad",
+      "last_seen": "2026-10-21",
+      "title": "RoboBusiness rebrands as Robotics Summit & Expo West"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -4631,5 +4666,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-19T20:16:52.573273+00:00"
+  "updated_at": "2026-10-20T20:16:45.452842+00:00"
 }
