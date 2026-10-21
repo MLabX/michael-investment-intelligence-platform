@@ -105,6 +105,11 @@
       "last_seen": "2026-10-19",
       "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access"
     },
+    "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/": {
+      "content_hash": "a4c7a45b895b927c",
+      "last_seen": "2026-10-22",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -384,6 +389,16 @@
       "content_hash": "09d8d71a34c18459",
       "last_seen": "2026-10-20",
       "title": "Robust Function Calling for LLM Agents Under Interface Drift"
+    },
+    "https://arxiv.org/abs/2610.26941": {
+      "content_hash": "740c8e94ad1fd6c7",
+      "last_seen": "2026-10-22",
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing"
+    },
+    "https://arxiv.org/abs/2610.27483": {
+      "content_hash": "b6becda0232693b9",
+      "last_seen": "2026-10-22",
+      "title": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -990,6 +1005,11 @@
       "last_seen": "2026-07-19",
       "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch"
     },
+    "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/": {
+      "content_hash": "b05cd9fd2137e09a",
+      "last_seen": "2026-10-22",
+      "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration"
+    },
     "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/": {
       "content_hash": "ffb4a02a0d66e418",
       "last_seen": "2026-07-30",
@@ -1009,6 +1029,11 @@
       "content_hash": "cc6b07f6e170993b",
       "last_seen": "2026-07-19",
       "title": "Space Force triples launch contract ceiling amid rising demand"
+    },
+    "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/": {
+      "content_hash": "e6fa28b83ae23a7a",
+      "last_seen": "2026-10-22",
+      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller"
     },
     "https://spacenews.com/spacex-conducts-13th-starship-test-flight/": {
       "content_hash": "0489e39538ab685c",
@@ -1950,6 +1975,11 @@
       "last_seen": "2026-07-21",
       "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back"
     },
+    "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/": {
+      "content_hash": "c632fa222e1a00cd",
+      "last_seen": "2026-10-22",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait"
+    },
     "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/": {
       "content_hash": "45fb22075d77d439",
       "last_seen": "2026-10-07",
@@ -2179,6 +2209,11 @@
       "content_hash": "db2b553858a3855f",
       "last_seen": "2026-06-21",
       "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust"
+    },
+    "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/": {
+      "content_hash": "7d3b58976745284f",
+      "last_seen": "2026-10-22",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development"
     },
     "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/": {
       "content_hash": "40eced050c0ca4dc",
@@ -3094,6 +3129,11 @@
       "content_hash": "880e734e65c02f85",
       "last_seen": "2026-10-19",
       "title": "Katie Zacharia and Mao Ning \u2013 a study in contrasts in US and China media strategies"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3371670/china-russia-allied-arctic-threat-europe-or-potential-polar-partner": {
+      "content_hash": "c7d46ffc5f3c465e",
+      "last_seen": "2026-10-22",
+      "title": "Is China a Russia-allied Arctic threat to Europe or a potential polar partner?"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4666,5 +4706,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-20T20:16:45.452842+00:00"
+  "updated_at": "2026-10-21T20:15:26.069268+00:00"
 }
