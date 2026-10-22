@@ -392,13 +392,18 @@
     },
     "https://arxiv.org/abs/2610.26941": {
       "content_hash": "740c8e94ad1fd6c7",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing"
     },
     "https://arxiv.org/abs/2610.27483": {
       "content_hash": "b6becda0232693b9",
       "last_seen": "2026-10-22",
       "title": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization"
+    },
+    "https://arxiv.org/abs/2610.27781": {
+      "content_hash": "65c8ccc471a0faa8",
+      "last_seen": "2026-10-23",
+      "title": "GRADUS: Discovering and Recovering Agent Lessons from the Environment's Latent Syllabus"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -960,6 +965,11 @@
       "last_seen": "2026-06-24",
       "title": "Report: U.S. needs framework for responding to hostile acts in space"
     },
+    "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/": {
+      "content_hash": "efcff86fe40d1978",
+      "last_seen": "2026-10-23",
+      "title": "Rethinking networks in space with Aalyria\u2019s Brian Barritt"
+    },
     "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/": {
       "content_hash": "ea56c386878692c3",
       "last_seen": "2026-06-14",
@@ -1474,6 +1484,11 @@
       "content_hash": "104187de1b872475",
       "last_seen": "2026-10-14",
       "title": "Anthropic study warns that small AI models could soon replicate across everyday devices"
+    },
+    "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/": {
+      "content_hash": "d73a64c665ddae3d",
+      "last_seen": "2026-10-23",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\""
     },
     "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/": {
       "content_hash": "9476071b6baf781c",
@@ -2224,6 +2239,11 @@
       "content_hash": "04cdd98aca14d18c",
       "last_seen": "2026-09-06",
       "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+    },
+    "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/": {
+      "content_hash": "49eb487fdfec2457",
+      "last_seen": "2026-10-23",
+      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months"
     },
     "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/": {
       "content_hash": "11cf81315c1e2bd4",
@@ -3510,6 +3530,11 @@
       "last_seen": "2026-10-18",
       "title": "Is China\u2019s Shenzhen ready to host Xi, Trump and Putin during Apec summit?"
     },
+    "https://www.scmp.com/news/china/politics/article/3371796/ahead-communist-party-plenum-xi-jinping-warns-china-faces-new-long-march": {
+      "content_hash": "955a22fcd3e4078e",
+      "last_seen": "2026-10-23",
+      "title": "Ahead of Communist Party plenum, Xi Jinping warns that China faces a \u2018new Long March\u2019"
+    },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
       "last_seen": "2026-06-09",
@@ -4325,6 +4350,16 @@
       "last_seen": "2026-10-21",
       "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem"
     },
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/": {
+      "content_hash": "7de66e495aee5d81",
+      "last_seen": "2026-10-23",
+      "title": "Making the case for context-aware AI"
+    },
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/": {
+      "content_hash": "d2f519a5ef75ca3c",
+      "last_seen": "2026-10-23",
+      "title": "AI\u2019s hidden storage bill: What inference leaves behind"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4706,5 +4741,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-21T20:15:26.069268+00:00"
+  "updated_at": "2026-10-22T20:15:56.006411+00:00"
 }
