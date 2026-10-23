@@ -255,6 +255,11 @@
       "last_seen": "2026-10-03",
       "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract"
     },
+    "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/": {
+      "content_hash": "0e29ef4df5ee4023",
+      "last_seen": "2026-10-24",
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -404,6 +409,16 @@
       "content_hash": "65c8ccc471a0faa8",
       "last_seen": "2026-10-23",
       "title": "GRADUS: Discovering and Recovering Agent Lessons from the Environment's Latent Syllabus"
+    },
+    "https://arxiv.org/abs/2610.28698": {
+      "content_hash": "f89650cb7786b2d1",
+      "last_seen": "2026-10-24",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds"
+    },
+    "https://arxiv.org/abs/2610.28855": {
+      "content_hash": "3dd4dfba064de251",
+      "last_seen": "2026-10-24",
+      "title": "Speedrunning Relational Foundation Model Pretraining"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -995,6 +1010,11 @@
       "last_seen": "2026-07-16",
       "title": "Satellite investment sets annual record halfway through 2026"
     },
+    "https://spacenews.com/satellite-mission-management-at-the-edge-event/": {
+      "content_hash": "4a55fd4e32741e63",
+      "last_seen": "2026-10-24",
+      "title": "Nov. 5: Satellite Mission Management at the Edge"
+    },
     "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/": {
       "content_hash": "d5adf21a060b5921",
       "last_seen": "2026-09-18",
@@ -1179,6 +1199,11 @@
       "content_hash": "044dc401f62c60f8",
       "last_seen": "2026-10-18",
       "title": "Video Friday: When Two Robots Become One"
+    },
+    "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
+      "content_hash": "abb3caa3eeb1c98e",
+      "last_seen": "2026-10-24",
+      "title": "Video Friday: Quadruped Robot Solves Giant Rubik\u2019s Cube by Itself"
     },
     "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
       "content_hash": "f38b00c5104bcc14",
@@ -1669,6 +1694,11 @@
       "content_hash": "c50a622db10b3cd2",
       "last_seen": "2026-07-12",
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label"
+    },
+    "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/": {
+      "content_hash": "18d3ee21861e7eff",
+      "last_seen": "2026-10-24",
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5"
     },
     "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/": {
       "content_hash": "e2a78ff374e2031b",
@@ -2650,6 +2680,11 @@
       "last_seen": "2026-08-16",
       "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise"
     },
+    "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/": {
+      "content_hash": "e7b21bc0eb24f7d3",
+      "last_seen": "2026-10-24",
+      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring"
+    },
     "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/": {
       "content_hash": "ef65bd1aeb3fc0f4",
       "last_seen": "2026-09-25",
@@ -3154,6 +3189,11 @@
       "content_hash": "c7d46ffc5f3c465e",
       "last_seen": "2026-10-22",
       "title": "Is China a Russia-allied Arctic threat to Europe or a potential polar partner?"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space": {
+      "content_hash": "a318298c07a96906",
+      "last_seen": "2026-10-24",
+      "title": "China warns against space arms race, urges equal rights for all in outer space"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4741,5 +4781,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-22T20:15:56.006411+00:00"
+  "updated_at": "2026-10-23T20:16:03.212689+00:00"
 }
