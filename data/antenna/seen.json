@@ -1202,7 +1202,7 @@
     },
     "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
       "content_hash": "abb3caa3eeb1c98e",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "title": "Video Friday: Quadruped Robot Solves Giant Rubik\u2019s Cube by Itself"
     },
     "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
@@ -2475,6 +2475,11 @@
       "last_seen": "2026-06-11",
       "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\""
     },
+    "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/": {
+      "content_hash": "d1dce90f743ed085",
+      "last_seen": "2026-10-25",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache"
+    },
     "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/": {
       "content_hash": "698fe0b935d540ba",
       "last_seen": "2026-10-10",
@@ -2682,7 +2687,7 @@
     },
     "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/": {
       "content_hash": "e7b21bc0eb24f7d3",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring"
     },
     "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/": {
@@ -3194,6 +3199,16 @@
       "content_hash": "a318298c07a96906",
       "last_seen": "2026-10-24",
       "title": "China warns against space arms race, urges equal rights for all in outer space"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes": {
+      "content_hash": "ea8e54cd1477d479",
+      "last_seen": "2026-10-25",
+      "title": "\u2018Systematically dismantled\u2019: Hegseth\u2019s new offensive against China\u2019s Confucius Institutes"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong": {
+      "content_hash": "191dee72ee2630c7",
+      "last_seen": "2026-10-25",
+      "title": "North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4320,6 +4335,11 @@
       "last_seen": "2026-10-19",
       "title": "Zheng Qinwen\u2019s China Open Win Swamps Her Sponsor\u2019s Tea Shops"
     },
+    "https://www.sixthtone.com/news/1019154/in stitches: why young chinese are buying clothes they can throw away": {
+      "content_hash": "42d0d8926c75a984",
+      "last_seen": "2026-10-25",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -4469,6 +4489,11 @@
       "content_hash": "3158e1d4513c71e4",
       "last_seen": "2026-06-10",
       "title": "Effort to establish a National Commission on Robotics advances in Congress"
+    },
+    "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
+      "content_hash": "d2234d2c2bc7af0b",
+      "last_seen": "2026-10-25",
+      "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots"
     },
     "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/": {
       "content_hash": "3879bf13c7a4a73a",
@@ -4755,6 +4780,11 @@
       "last_seen": "2026-06-10",
       "title": "Walmart, Wing add 7 markets in drone delivery expansion"
     },
+    "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/": {
+      "content_hash": "513ddb0553f524c0",
+      "last_seen": "2026-10-25",
+      "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers"
+    },
     "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/": {
       "content_hash": "1cf1fb1c1f53bccb",
       "last_seen": "2026-10-11",
@@ -4781,5 +4811,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-23T20:16:03.212689+00:00"
+  "updated_at": "2026-10-24T20:14:03.763850+00:00"
 }
