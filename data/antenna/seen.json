@@ -420,6 +420,16 @@
       "last_seen": "2026-10-24",
       "title": "Speedrunning Relational Foundation Model Pretraining"
     },
+    "https://arxiv.org/abs/2610.32026": {
+      "content_hash": "395b3f43aa6482e2",
+      "last_seen": "2026-10-27",
+      "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training"
+    },
+    "https://arxiv.org/abs/2610.32045": {
+      "content_hash": "c70bee22cec865c5",
+      "last_seen": "2026-10-27",
+      "title": "Do AI-for-Science Agents Preserve Model Safety?"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -610,6 +620,11 @@
       "last_seen": "2026-08-14",
       "title": "Astranis unveils geostationary surveillance satellite"
     },
+    "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/": {
+      "content_hash": "fc282b6d4a0a36bb",
+      "last_seen": "2026-10-27",
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites"
+    },
     "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/": {
       "content_hash": "cf39b6ce80ff035a",
       "last_seen": "2026-06-21",
@@ -779,6 +794,11 @@
       "content_hash": "4e0e2af4924c259f",
       "last_seen": "2026-08-20",
       "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission"
+    },
+    "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/": {
+      "content_hash": "54ca6fb3587f1a74",
+      "last_seen": "2026-10-27",
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence"
     },
     "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/": {
       "content_hash": "fdb7a2bb0cadcf44",
@@ -2540,6 +2560,11 @@
       "last_seen": "2026-08-13",
       "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy"
     },
+    "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/": {
+      "content_hash": "1adc9dbcabf65dc7",
+      "last_seen": "2026-10-27",
+      "title": "Researchers find six patterns that make AI text so exhausting to read"
+    },
     "https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/": {
       "content_hash": "37c4882533300be4",
       "last_seen": "2026-06-08",
@@ -2779,6 +2804,11 @@
       "content_hash": "1cb6739b7de3f435",
       "last_seen": "2026-08-22",
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race"
+    },
+    "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/": {
+      "content_hash": "4a7315c60c738477",
+      "last_seen": "2026-10-27",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI"
     },
     "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/": {
       "content_hash": "049fc059ff52a367",
@@ -3234,6 +3264,11 @@
       "content_hash": "3bf580930a338e42",
       "last_seen": "2026-10-26",
       "title": "War of words over Xinjiang erupts between Chinese and Turkish social media users"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage": {
+      "content_hash": "9a5616b7a06c7a43",
+      "last_seen": "2026-10-27",
+      "title": "Win for Lula boosts China\u2019s foothold and gives Brazil rare earths leverage"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4465,6 +4500,11 @@
       "last_seen": "2026-06-29",
       "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment"
     },
+    "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
+      "content_hash": "ad819d6f45a0710a",
+      "last_seen": "2026-10-27",
+      "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid"
+    },
     "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/": {
       "content_hash": "5d99658f94c08c8f",
       "last_seen": "2026-07-11",
@@ -4851,5 +4891,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-25T20:14:28.825513+00:00"
+  "updated_at": "2026-10-26T20:16:48.713587+00:00"
 }
