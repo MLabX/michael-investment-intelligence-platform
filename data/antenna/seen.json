@@ -430,6 +430,16 @@
       "last_seen": "2026-10-27",
       "title": "Do AI-for-Science Agents Preserve Model Safety?"
     },
+    "https://arxiv.org/abs/2610.33282": {
+      "content_hash": "4a0211b71506dc94",
+      "last_seen": "2026-10-28",
+      "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems"
+    },
+    "https://arxiv.org/abs/2610.33451": {
+      "content_hash": "37c5121b8bec900f",
+      "last_seen": "2026-10-28",
+      "title": "A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1940,6 +1950,11 @@
       "last_seen": "2026-09-20",
       "title": "Google Deepmind's Dream-RSI helps AI agents improve by \u201cdreaming\u201d about past attempts"
     },
+    "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/": {
+      "content_hash": "44c7ae8f3ae6c483",
+      "last_seen": "2026-10-28",
+      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs"
+    },
     "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/": {
       "content_hash": "a9bd244e791ff7cf",
       "last_seen": "2026-08-10",
@@ -2524,6 +2539,11 @@
       "content_hash": "698fe0b935d540ba",
       "last_seen": "2026-10-10",
       "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse"
+    },
+    "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/": {
+      "content_hash": "4c0c61634aee44e5",
+      "last_seen": "2026-10-28",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model"
     },
     "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/": {
       "content_hash": "fc61da07c82f5322",
@@ -3269,6 +3289,11 @@
       "content_hash": "9a5616b7a06c7a43",
       "last_seen": "2026-10-27",
       "title": "Win for Lula boosts China\u2019s foothold and gives Brazil rare earths leverage"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372340/german-leaders-china-visit-latest-sign-foreign-diplomacy-pivot-beyond-beijing": {
+      "content_hash": "fa959fc1ef76bbe4",
+      "last_seen": "2026-10-28",
+      "title": "German leader\u2019s China visit latest sign of foreign diplomacy pivot beyond Beijing"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4270,6 +4295,11 @@
       "last_seen": "2026-10-16",
       "title": "Young Americans are key for the US to better understand China"
     },
+    "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers": {
+      "content_hash": "a6f8cc0988a02b7d",
+      "last_seen": "2026-10-28",
+      "title": "EU-China hybrid car deal won\u2019t really help European carmakers"
+    },
     "https://www.scmp.com/plus/economy/china-economy/article/3364282/chinas-economy-cools-amid-debate-about-risks-global-crisis?utm_source=rss_feed": {
       "content_hash": "64e91ee87525298a",
       "last_seen": "2026-08-18",
@@ -4514,6 +4544,11 @@
       "content_hash": "aa324182ca6cef01",
       "last_seen": "2026-09-03",
       "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft"
+    },
+    "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/": {
+      "content_hash": "b7be579babc74bc9",
+      "last_seen": "2026-10-28",
+      "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres"
     },
     "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/": {
       "content_hash": "66d86bb1810db77c",
@@ -4885,11 +4920,16 @@
       "last_seen": "2026-10-12",
       "title": "Will \u2018boring\u2019 robots win in the real world? Why robotic form should follow workflow"
     },
+    "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/": {
+      "content_hash": "efb7bb6273a55f6e",
+      "last_seen": "2026-10-28",
+      "title": "Xpanner launches autonomous pile driver for solar farm contruction"
+    },
     "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/": {
       "content_hash": "ddc635c7e938e89e",
       "last_seen": "2026-08-05",
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-26T20:16:48.713587+00:00"
+  "updated_at": "2026-10-27T20:13:10.134673+00:00"
 }
