@@ -440,6 +440,16 @@
       "last_seen": "2026-10-28",
       "title": "A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment"
     },
+    "https://arxiv.org/abs/2610.36298": {
+      "content_hash": "bdcd0f65858ea3bb",
+      "last_seen": "2026-10-29",
+      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks"
+    },
+    "https://arxiv.org/abs/2610.36589": {
+      "content_hash": "a82ddb3a3df562df",
+      "last_seen": "2026-10-29",
+      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -804,6 +814,11 @@
       "content_hash": "4e0e2af4924c259f",
       "last_seen": "2026-08-20",
       "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission"
+    },
+    "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/": {
+      "content_hash": "1af279c011693384",
+      "last_seen": "2026-10-29",
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells"
     },
     "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/": {
       "content_hash": "54ca6fb3587f1a74",
@@ -1284,6 +1299,11 @@
       "content_hash": "aa7fb65cc7fc75a6",
       "last_seen": "2026-10-19",
       "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office"
+    },
+    "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/": {
+      "content_hash": "7c4cc86ebe9c6ee5",
+      "last_seen": "2026-10-29",
+      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense"
     },
     "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/": {
       "content_hash": "9e9d4002de4de3ec",
@@ -1989,6 +2009,11 @@
       "content_hash": "b0391c105c4b09a8",
       "last_seen": "2026-08-05",
       "title": "Google moves billions in Anthropic chip risk off its balance sheet"
+    },
+    "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/": {
+      "content_hash": "d6900b1a008cf751",
+      "last_seen": "2026-10-29",
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs"
     },
     "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/": {
       "content_hash": "a78512c861ea7546",
@@ -3295,6 +3320,11 @@
       "last_seen": "2026-10-28",
       "title": "German leader\u2019s China visit latest sign of foreign diplomacy pivot beyond Beijing"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks": {
+      "content_hash": "1eaa072a230e98be",
+      "last_seen": "2026-10-29",
+      "title": "Real Madrid issues apology to China over Mbappe\u2019s Mao remarks"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4335,6 +4365,11 @@
       "last_seen": "2026-10-09",
       "title": "Trump pushed Xi to end Japan freeze, but Chinese leader unmoved"
     },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3372433/china-seeks-indias-help-defusing-border-tensions": {
+      "content_hash": "5f834155b83cad1d",
+      "last_seen": "2026-10-29",
+      "title": "China seeks India\u2019s help in defusing border tensions"
+    },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
@@ -4519,6 +4554,11 @@
       "content_hash": "d2f519a5ef75ca3c",
       "last_seen": "2026-10-23",
       "title": "AI\u2019s hidden storage bill: What inference leaves behind"
+    },
+    "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/": {
+      "content_hash": "c5222144b5bf33ea",
+      "last_seen": "2026-10-29",
+      "title": "The Download: dead startups fueling AI and interspecies communication"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -4931,5 +4971,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-27T20:13:10.134673+00:00"
+  "updated_at": "2026-10-28T20:13:01.827475+00:00"
 }
