@@ -260,6 +260,11 @@
       "last_seen": "2026-10-24",
       "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready"
     },
+    "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/": {
+      "content_hash": "d6ff75529c7e5f0b",
+      "last_seen": "2026-10-30",
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -817,7 +822,7 @@
     },
     "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/": {
       "content_hash": "1af279c011693384",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells"
     },
     "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/": {
@@ -2390,6 +2395,11 @@
       "last_seen": "2026-08-17",
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
     },
+    "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/": {
+      "content_hash": "b103e6ea82d24756",
+      "last_seen": "2026-10-30",
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up"
+    },
     "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/": {
       "content_hash": "be0e4518320a86a9",
       "last_seen": "2026-10-08",
@@ -2509,6 +2519,11 @@
       "content_hash": "76876cf3f8cd7a87",
       "last_seen": "2026-10-15",
       "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work"
+    },
+    "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/": {
+      "content_hash": "b3dd39219101e102",
+      "last_seen": "2026-10-30",
+      "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses"
     },
     "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/": {
       "content_hash": "da69520694eea5d4",
@@ -4235,6 +4250,11 @@
       "last_seen": "2026-08-27",
       "title": "US critical minerals proposals to Brazil go unanswered as China looms"
     },
+    "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting": {
+      "content_hash": "89a995853346c2f7",
+      "last_seen": "2026-10-30",
+      "title": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -4559,6 +4579,21 @@
       "content_hash": "c5222144b5bf33ea",
       "last_seen": "2026-10-29",
       "title": "The Download: dead startups fueling AI and interspecies communication"
+    },
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": {
+      "content_hash": "ad4095c1f2dca477",
+      "last_seen": "2026-10-30",
+      "title": "We urgently need to monitor AI agents\u2019 actions in real time"
+    },
+    "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/": {
+      "content_hash": "efa423baf7631483",
+      "last_seen": "2026-10-30",
+      "title": "The Download: AI agent tracking and climate feedback loops"
+    },
+    "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
+      "content_hash": "af9c2d7e5c9c7d6b",
+      "last_seen": "2026-10-30",
+      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices"
     },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
@@ -4971,5 +5006,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-28T20:13:01.827475+00:00"
+  "updated_at": "2026-10-29T20:12:29.113594+00:00"
 }
