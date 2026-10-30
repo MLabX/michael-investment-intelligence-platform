@@ -250,6 +250,11 @@
       "last_seen": "2026-09-16",
       "title": "SpaceX declares Starship ready for orbit, sets launch date next week"
     },
+    "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/": {
+      "content_hash": "2550f182c9393a89",
+      "last_seen": "2026-10-31",
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated"
+    },
     "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/": {
       "content_hash": "74fcea3a3a97f56b",
       "last_seen": "2026-10-03",
@@ -614,6 +619,16 @@
       "content_hash": "8bfb20f7320f7aca",
       "last_seen": "2026-10-19",
       "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission"
+    },
+    "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/": {
+      "content_hash": "4ffbf613eca05b3a",
+      "last_seen": "2026-10-31",
+      "title": "Turkey aims for first Moon-orbiting mission in 2027"
+    },
+    "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
+      "content_hash": "1d666c87d7aa9561",
+      "last_seen": "2026-10-31",
+      "title": "Advice for optimizing the space industry with Laura Crabtree"
     },
     "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/": {
       "content_hash": "d0e1ba9959b89965",
@@ -1265,6 +1280,11 @@
       "last_seen": "2026-10-25",
       "title": "Video Friday: Quadruped Robot Solves Giant Rubik\u2019s Cube by Itself"
     },
+    "https://spectrum.ieee.org/video-friday-whole-body-manipulation": {
+      "content_hash": "e9e091a12a7a84d8",
+      "last_seen": "2026-10-31",
+      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+    },
     "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/": {
       "content_hash": "f38b00c5104bcc14",
       "last_seen": "2026-10-14",
@@ -1274,6 +1294,11 @@
       "content_hash": "a4a998a03afde0ac",
       "last_seen": "2026-09-19",
       "title": "42 leading mathematicians warn that AI existential risk is real and urgent"
+    },
+    "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/": {
+      "content_hash": "9b0733297ef6626a",
+      "last_seen": "2026-10-31",
+      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making"
     },
     "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/": {
       "content_hash": "1d8c72ebdd3a24e8",
@@ -2505,6 +2530,11 @@
       "last_seen": "2026-06-24",
       "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
     },
+    "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/": {
+      "content_hash": "a6f6282a81a16fd7",
+      "last_seen": "2026-10-31",
+      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control"
+    },
     "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/": {
       "content_hash": "3adf97f3b96996d3",
       "last_seen": "2026-08-18",
@@ -3339,6 +3369,11 @@
       "content_hash": "1eaa072a230e98be",
       "last_seen": "2026-10-29",
       "title": "Real Madrid issues apology to China over Mbappe\u2019s Mao remarks"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372781/xi-jinping-tells-german-president-china-and-eu-must-stay-anchored-their-partnership": {
+      "content_hash": "f098c3366057c690",
+      "last_seen": "2026-10-31",
+      "title": "Xi Jinping tells German president China and EU must \u2018stay anchored to their partnership\u2019"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4335,6 +4370,11 @@
       "last_seen": "2026-09-15",
       "title": "China\u2019s J-10CE has foreign buyers, but not yet a market"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3372321/xi-trump-putin-summit-shenzhen-could-kick-start-peace-ukraine": {
+      "content_hash": "26c32340c4b49233",
+      "last_seen": "2026-10-31",
+      "title": "A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine"
+    },
     "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed": {
       "content_hash": "a69a6a7e7364dcc4",
       "last_seen": "2026-10-07",
@@ -5006,5 +5046,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-29T20:12:29.113594+00:00"
+  "updated_at": "2026-10-30T20:10:03.357538+00:00"
 }
