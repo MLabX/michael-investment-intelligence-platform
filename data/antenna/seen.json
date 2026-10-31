@@ -460,6 +460,16 @@
       "last_seen": "2026-10-29",
       "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?"
     },
+    "https://arxiv.org/abs/2610.38532": {
+      "content_hash": "226fe021aee3e6be",
+      "last_seen": "2026-11-01",
+      "title": "From Leniency to Suspicion: How an Open Post-Training Recipe Changes Whom LLM Fact-Checkers Believe"
+    },
+    "https://arxiv.org/abs/2610.38851": {
+      "content_hash": "b5ba660052607cbf",
+      "last_seen": "2026-11-01",
+      "title": "Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -559,6 +569,11 @@
       "content_hash": "d871e1f96406f182",
       "last_seen": "2026-10-26",
       "title": "Sunday assorted links"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip": {
+      "content_hash": "33246a6a1c88f825",
+      "last_seen": "2026-11-01",
+      "title": "William Nordhaus, RIP"
     },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
       "content_hash": "251420b1eff3d469",
@@ -2470,10 +2485,20 @@
       "last_seen": "2026-09-27",
       "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data"
     },
+    "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/": {
+      "content_hash": "2e4f47802a09a7f8",
+      "last_seen": "2026-11-01",
+      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits"
+    },
     "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/": {
       "content_hash": "bcdefe3ad0753792",
       "last_seen": "2026-08-03",
       "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
+    },
+    "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/": {
+      "content_hash": "cf8a0616416f7923",
+      "last_seen": "2026-11-01",
+      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite"
     },
     "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/": {
       "content_hash": "595e9e63ce6428e6",
@@ -3374,6 +3399,16 @@
       "content_hash": "f098c3366057c690",
       "last_seen": "2026-10-31",
       "title": "Xi Jinping tells German president China and EU must \u2018stay anchored to their partnership\u2019"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372840/soft-power-display-chinas-first-lady-peng-liyuan-hosts-german-counterpart": {
+      "content_hash": "ece817d0d9ad5b31",
+      "last_seen": "2026-11-01",
+      "title": "Soft power on display as China\u2019s first lady Peng Liyuan hosts German counterpart"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting": {
+      "content_hash": "0b0afe887242010e",
+      "last_seen": "2026-11-01",
+      "title": "Quad not \u2018anti-China\u2019, says Rubio as first summit in two years set before Trump-Xi talks"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4995,6 +5030,11 @@
       "last_seen": "2026-07-24",
       "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS"
     },
+    "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/": {
+      "content_hash": "aa57949387dc6ca2",
+      "last_seen": "2026-11-01",
+      "title": "Unusual robotic animals can prove their utility"
+    },
     "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/": {
       "content_hash": "dbe2bce179d5626e",
       "last_seen": "2026-08-24",
@@ -5046,5 +5086,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-30T20:10:03.357538+00:00"
+  "updated_at": "2026-10-31T20:09:24.715621+00:00"
 }
