@@ -575,6 +575,16 @@
       "last_seen": "2026-11-01",
       "title": "William Nordhaus, RIP"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable": {
+      "content_hash": "12eb059c94555b92",
+      "last_seen": "2026-11-02",
+      "title": "As predicted, the ACA exchanges seem not to be stable"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18": {
+      "content_hash": "46993a0d37c3b6d1",
+      "last_seen": "2026-11-02",
+      "title": "Those new service sector jobs?"
+    },
     "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/": {
       "content_hash": "251420b1eff3d469",
       "last_seen": "2026-06-08",
@@ -2465,6 +2475,11 @@
       "last_seen": "2026-07-16",
       "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
     },
+    "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/": {
+      "content_hash": "6a9985f8323b724b",
+      "last_seen": "2026-11-02",
+      "title": "OpenAI is steering ChatGPT users toward more paid usage"
+    },
     "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/": {
       "content_hash": "491ba23aff7f3986",
       "last_seen": "2026-08-11",
@@ -2487,7 +2502,7 @@
     },
     "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/": {
       "content_hash": "2e4f47802a09a7f8",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits"
     },
     "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/": {
@@ -3407,7 +3422,7 @@
     },
     "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting": {
       "content_hash": "0b0afe887242010e",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "title": "Quad not \u2018anti-China\u2019, says Rubio as first summit in two years set before Trump-Xi talks"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
@@ -3794,6 +3809,11 @@
       "content_hash": "0dfcb4828483203e",
       "last_seen": "2026-10-26",
       "title": "How China\u2019s regional leadership changes offer clues to the future of the Communist Party"
+    },
+    "https://www.scmp.com/news/china/politics/article/3372901/chinas-xi-says-strict-party-governance-has-positive-impact-does-not-stifle-growth": {
+      "content_hash": "76d1bb71eaef917d",
+      "last_seen": "2026-11-02",
+      "title": "China\u2019s Xi says strict party governance has positive impact, does not stifle growth"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -4670,6 +4690,11 @@
       "last_seen": "2026-10-30",
       "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices"
     },
+    "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/": {
+      "content_hash": "3c480193c8142591",
+      "last_seen": "2026-11-02",
+      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics"
+    },
     "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/": {
       "content_hash": "70a136bd3c835434",
       "last_seen": "2026-06-08",
@@ -4980,6 +5005,11 @@
       "last_seen": "2026-09-19",
       "title": "SoftBank agrees to acquire Robotics and AI Institute"
     },
+    "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/": {
+      "content_hash": "986010ad1e02c794",
+      "last_seen": "2026-11-02",
+      "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime"
+    },
     "https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/": {
       "content_hash": "b51415a063cc65a7",
       "last_seen": "2026-08-13",
@@ -5086,5 +5116,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-10-31T20:09:24.715621+00:00"
+  "updated_at": "2026-11-01T20:09:55.663931+00:00"
 }
