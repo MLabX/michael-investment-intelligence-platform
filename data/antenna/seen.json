@@ -466,9 +466,14 @@
       "title": "From Leniency to Suspicion: How an Open Post-Training Recipe Changes Whom LLM Fact-Checkers Believe"
     },
     "https://arxiv.org/abs/2610.38851": {
-      "content_hash": "b5ba660052607cbf",
-      "last_seen": "2026-11-01",
+      "content_hash": "21c273a8576ecb29",
+      "last_seen": "2026-11-04",
       "title": "Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training"
+    },
+    "https://arxiv.org/abs/2610.41866": {
+      "content_hash": "4ec6f58416b64146",
+      "last_seen": "2026-11-04",
+      "title": "AI evaluators favor job applications written by certain AI models, independent of candidate quality"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -835,6 +840,11 @@
       "last_seen": "2026-10-07",
       "title": "Deposition Sciences, Inc. Expands Sunshade\u00ae Tape Offering with New 12\u2033 \u00d7 30\u2033 Format"
     },
+    "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/": {
+      "content_hash": "afd51788022ed25e",
+      "last_seen": "2026-11-04",
+      "title": "DETUMBLER: Airbus\u2019 Passive Spin Stabilization Solution"
+    },
     "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/": {
       "content_hash": "fac1d5e1c7fcb4b7",
       "last_seen": "2026-09-24",
@@ -1134,6 +1144,11 @@
       "content_hash": "9b34ab0dcf421136",
       "last_seen": "2026-07-18",
       "title": "Serbia signs the Artemis Accords"
+    },
+    "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/": {
+      "content_hash": "afdf8c4dd3a1c88b",
+      "last_seen": "2026-11-04",
+      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution"
     },
     "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/": {
       "content_hash": "65a56741e5f1f259",
@@ -2480,6 +2495,11 @@
       "last_seen": "2026-07-31",
       "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
     },
+    "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/": {
+      "content_hash": "fa1164865b9e0f61",
+      "last_seen": "2026-11-04",
+      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom"
+    },
     "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/": {
       "content_hash": "45b37c9560452fde",
       "last_seen": "2026-07-16",
@@ -2694,6 +2714,11 @@
       "content_hash": "383b80ac32b3ec70",
       "last_seen": "2026-09-20",
       "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
+    },
+    "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/": {
+      "content_hash": "1eb896c5ead2fc02",
+      "last_seen": "2026-11-04",
+      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds"
     },
     "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/": {
       "content_hash": "c3d5d92c41a6a698",
@@ -4715,6 +4740,16 @@
       "last_seen": "2026-11-03",
       "title": "Raising the quality of insights in agentic analytics"
     },
+    "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/": {
+      "content_hash": "954741750ce5bff4",
+      "last_seen": "2026-11-04",
+      "title": "How \u201creverse game theory\u201d could keep AI agents in check"
+    },
+    "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/": {
+      "content_hash": "f1dfd81a67f4f3eb",
+      "last_seen": "2026-11-04",
+      "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -5156,5 +5191,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-02T20:09:53.257861+00:00"
+  "updated_at": "2026-11-03T20:10:34.159951+00:00"
 }
