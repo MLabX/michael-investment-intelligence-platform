@@ -490,6 +490,11 @@
       "last_seen": "2026-09-03",
       "title": "Are Central Banks Moving Out of Dollar Assets?"
     },
+    "https://libertystreeteconomics.newyorkfed.org/2026/11/how-market-position-shapes-credit-card-interest-rates/": {
+      "content_hash": "1f68d95e9517f861",
+      "last_seen": "2026-11-05",
+      "title": "How Market Position Shapes Credit Card Interest Rates"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation": {
       "content_hash": "dcf9c2818477825b",
       "last_seen": "2026-06-27",
@@ -2155,6 +2160,11 @@
       "last_seen": "2026-09-14",
       "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own"
     },
+    "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/": {
+      "content_hash": "8fe297c32a680e64",
+      "last_seen": "2026-11-05",
+      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights"
+    },
     "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/": {
       "content_hash": "b9e8c332bdfc23c5",
       "last_seen": "2026-06-28",
@@ -2414,6 +2424,11 @@
       "content_hash": "7d3b58976745284f",
       "last_seen": "2026-10-22",
       "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development"
+    },
+    "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/": {
+      "content_hash": "20ff5a3a3fbf1c3a",
+      "last_seen": "2026-11-05",
+      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents"
     },
     "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/": {
       "content_hash": "40eced050c0ca4dc",
@@ -4430,6 +4445,11 @@
       "last_seen": "2026-08-06",
       "title": "China competition looms large in 2027 US defence bill"
     },
+    "https://www.scmp.com/news/us/us-elections/article/3373314/who-won-china-us-midterms-susan-collins-and-local-firefighters": {
+      "content_hash": "fecc7e6f6d9b27ab",
+      "last_seen": "2026-11-05",
+      "title": "Who won in China? In the US midterms, Susan Collins and the local firefighters"
+    },
     "https://www.scmp.com/news/world/article/3370528/trumps-china-savvy-spokeswoman-hong-kong-trail-emergencies-5-weekend-reads-you-missed?utm_source=rss_feed": {
       "content_hash": "5a918b687acc6f2f",
       "last_seen": "2026-10-13",
@@ -4750,6 +4770,16 @@
       "last_seen": "2026-11-04",
       "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests"
     },
+    "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/": {
+      "content_hash": "0100981c25f0064f",
+      "last_seen": "2026-11-05",
+      "title": "Securing the agentic enterprise with data lineage"
+    },
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/": {
+      "content_hash": "64c65a0f35488223",
+      "last_seen": "2026-11-05",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -4920,6 +4950,11 @@
       "last_seen": "2026-09-05",
       "title": "How FPGAs become the gatekeepers of physical AI security"
     },
+    "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/": {
+      "content_hash": "2d2971c720fa1f44",
+      "last_seen": "2026-11-05",
+      "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot"
+    },
     "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/": {
       "content_hash": "4c91aa8762a93d3f",
       "last_seen": "2026-06-23",
@@ -4974,6 +5009,11 @@
       "content_hash": "994588edcfc67ba3",
       "last_seen": "2026-07-07",
       "title": "Kraken Robotics acquires Covelya Group for $615M"
+    },
+    "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/": {
+      "content_hash": "6b1eb2a8e312faac",
+      "last_seen": "2026-11-05",
+      "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action"
     },
     "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/": {
       "content_hash": "bf4557bbb7a0e9e5",
@@ -5191,5 +5231,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-03T20:10:34.159951+00:00"
+  "updated_at": "2026-11-04T20:10:40.691689+00:00"
 }
