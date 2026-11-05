@@ -475,6 +475,16 @@
       "last_seen": "2026-11-04",
       "title": "AI evaluators favor job applications written by certain AI models, independent of candidate quality"
     },
+    "https://arxiv.org/abs/2611.05709": {
+      "content_hash": "2e96e9ea47c22a40",
+      "last_seen": "2026-11-06",
+      "title": "Agents, Think Only When it Helps"
+    },
+    "https://arxiv.org/abs/2611.05759": {
+      "content_hash": "f661a74aeca99385",
+      "last_seen": "2026-11-06",
+      "title": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -754,6 +764,11 @@
       "content_hash": "3edbc0457a84ba78",
       "last_seen": "2026-06-19",
       "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch"
+    },
+    "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/": {
+      "content_hash": "d5bc7252c0aaba02",
+      "last_seen": "2026-11-06",
+      "title": "Building a \u2018highway to the moon and back\u2019 with Winnie Lai"
     },
     "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/": {
       "content_hash": "172e93f1b8342a14",
@@ -1364,6 +1379,11 @@
       "content_hash": "72eead056e092134",
       "last_seen": "2026-09-29",
       "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases"
+    },
+    "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/": {
+      "content_hash": "42eadbd1aaaa0432",
+      "last_seen": "2026-11-06",
+      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion"
     },
     "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/": {
       "content_hash": "b5d0b3742c17027a",
@@ -2675,6 +2695,11 @@
       "last_seen": "2026-09-05",
       "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
     },
+    "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/": {
+      "content_hash": "21f4e7241e041c8b",
+      "last_seen": "2026-11-06",
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles"
+    },
     "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/": {
       "content_hash": "aece2ae2297adda0",
       "last_seen": "2026-09-23",
@@ -3484,6 +3509,11 @@
       "content_hash": "671f956df09e34e7",
       "last_seen": "2026-11-03",
       "title": "China and Oman unite in Mideast peace call on sultan\u2019s \u2018historic\u2019 Beijing visit"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3373385/chinese-and-north-korean-officials-step-diplomatic-drive-wake-kim-jong-un-visit": {
+      "content_hash": "4d68580d0c2335e6",
+      "last_seen": "2026-11-06",
+      "title": "Chinese and North Korean officials step up diplomatic drive in wake of Kim Jong-un visit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4780,6 +4810,11 @@
       "last_seen": "2026-11-05",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
     },
+    "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/": {
+      "content_hash": "a8f423a62c69622f",
+      "last_seen": "2026-11-06",
+      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -4804,6 +4839,11 @@
       "content_hash": "ad819d6f45a0710a",
       "last_seen": "2026-10-27",
       "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid"
+    },
+    "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/": {
+      "content_hash": "b64b20f712c464b5",
+      "last_seen": "2026-11-06",
+      "title": "Agility Robotics begins trading on Nasdaq"
     },
     "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/": {
       "content_hash": "5d99658f94c08c8f",
@@ -5231,5 +5271,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-04T20:10:40.691689+00:00"
+  "updated_at": "2026-11-05T20:10:28.330303+00:00"
 }
