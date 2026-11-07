@@ -685,6 +685,16 @@
       "last_seen": "2026-10-31",
       "title": "Turkey aims for first Moon-orbiting mission in 2027"
     },
+    "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/": {
+      "content_hash": "786c62099b20cdb0",
+      "last_seen": "2026-11-08",
+      "title": "Falcon 9 launches from California on classified mission for U.S. Space Force"
+    },
+    "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/": {
+      "content_hash": "8898a28c6861b7c4",
+      "last_seen": "2026-11-08",
+      "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+    },
     "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
       "content_hash": "1d666c87d7aa9561",
       "last_seen": "2026-10-31",
@@ -1346,8 +1356,8 @@
       "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
     },
     "https://spectrum.ieee.org/video-friday-home-cable-robot": {
-      "content_hash": "854dfd47e6f26c17",
-      "last_seen": "2026-11-07",
+      "content_hash": "34fe00d57caef75c",
+      "last_seen": "2026-11-08",
       "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
     },
     "https://spectrum.ieee.org/video-friday-reachy-mini-raps": {
@@ -1429,6 +1439,11 @@
       "content_hash": "9e9d4002de4de3ec",
       "last_seen": "2026-10-12",
       "title": "AI agents overstate their results and remain far from autonomous research, study finds"
+    },
+    "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/": {
+      "content_hash": "e3ea698c86618e6d",
+      "last_seen": "2026-11-08",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
     },
     "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/": {
       "content_hash": "0ec9ee30bba0d4e8",
@@ -2950,6 +2965,11 @@
       "last_seen": "2026-06-28",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
     },
+    "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/": {
+      "content_hash": "a0069223d73c6f9b",
+      "last_seen": "2026-11-08",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking"
+    },
     "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/": {
       "content_hash": "b5fc593a577a66f4",
       "last_seen": "2026-10-20",
@@ -3550,6 +3570,11 @@
       "last_seen": "2026-11-07",
       "title": "Family Business Summit day 2 tackles US-China ties, Asean and geopolitical shifts"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3373651/manila-weighs-second-south-china-sea-legal-case-against-beijing-analyst": {
+      "content_hash": "f9489039f7cb529b",
+      "last_seen": "2026-11-08",
+      "title": "Manila weighs second South China Sea legal case against Beijing: analyst"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -3869,6 +3894,11 @@
       "content_hash": "efaef45157655477",
       "last_seen": "2026-10-21",
       "title": "PLA Navy followed US vessel on patrol in South China Sea hotspot, Beijing says"
+    },
+    "https://www.scmp.com/news/china/military/article/3373649/trumps-war-secretary-hegseth-and-pacific-command-chief-paparo-may-soon-visit-china": {
+      "content_hash": "c2023fccce008547",
+      "last_seen": "2026-11-08",
+      "title": "Trump\u2019s war secretary Hegseth and Pacific Command chief Paparo may \u2018soon visit China\u2019"
     },
     "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed": {
       "content_hash": "e740520ba526f22d",
@@ -5185,6 +5215,11 @@
       "last_seen": "2026-10-21",
       "title": "RoboBusiness rebrands as Robotics Summit & Expo West"
     },
+    "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/": {
+      "content_hash": "d7b908ecd1436351",
+      "last_seen": "2026-11-08",
+      "title": "Robot integration brings high-precision production to midmarket manufacturers"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -5311,5 +5346,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-06T20:10:22.818985+00:00"
+  "updated_at": "2026-11-07T20:09:14.612156+00:00"
 }
