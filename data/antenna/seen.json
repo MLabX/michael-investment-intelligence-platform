@@ -615,6 +615,11 @@
       "last_seen": "2026-11-02",
       "title": "As predicted, the ACA exchanges seem not to be stable"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589": {
+      "content_hash": "f9ba516df8186c80",
+      "last_seen": "2026-11-09",
+      "title": "Sunday assorted links"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18": {
       "content_hash": "46993a0d37c3b6d1",
       "last_seen": "2026-11-02",
@@ -1442,8 +1447,13 @@
     },
     "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/": {
       "content_hash": "e3ea698c86618e6d",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
+    },
+    "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/": {
+      "content_hash": "ef3a34901b5b01d5",
+      "last_seen": "2026-11-09",
+      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test"
     },
     "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/": {
       "content_hash": "0ec9ee30bba0d4e8",
@@ -3975,6 +3985,11 @@
       "last_seen": "2026-11-03",
       "title": "Echoes of Rome in ancient China? What Beijing\u2019s 1,800-year-old ship find reveals"
     },
+    "https://www.scmp.com/news/china/politics/article/3373707/us-must-stop-blaming-china-problems-home-former-envoy-cui-tiankai": {
+      "content_hash": "99823818fa06d741",
+      "last_seen": "2026-11-09",
+      "title": "The US must stop blaming China for problems at home: former envoy Cui Tiankai"
+    },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
       "last_seen": "2026-06-09",
@@ -4435,6 +4450,11 @@
       "last_seen": "2026-10-11",
       "title": "China unveils AI-powered robot designed to help farmers breed better strains of wheat"
     },
+    "https://www.scmp.com/news/china/science/article/3373711/will-chinas-slow-and-steady-moon-landing-plan-be-safer-bet-us": {
+      "content_hash": "9ef20f85c83fa99d",
+      "last_seen": "2026-11-09",
+      "title": "Will China\u2019s slow and steady moon landing plan be a safer bet than the US\u2019?"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -4760,6 +4780,16 @@
       "last_seen": "2026-10-25",
       "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away"
     },
+    "https://www.sixthtone.com/news/1019218/china\u2019s traditional colors are trending. but what are we missing?": {
+      "content_hash": "be4408a8b5802c2d",
+      "last_seen": "2026-11-09",
+      "title": "China\u2019s Traditional Colors Are Trending. But What Are We Missing?"
+    },
+    "https://www.sixthtone.com/news/1019224/china vows to share its market with the world at 9th annual ciie": {
+      "content_hash": "b82b487e5f45d02a",
+      "last_seen": "2026-11-09",
+      "title": "China Vows to Share Its Market With the World at 9th Annual CIIE"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -4939,6 +4969,11 @@
       "content_hash": "f2da8d4793681c7d",
       "last_seen": "2026-09-06",
       "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing"
+    },
+    "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/": {
+      "content_hash": "f545286a32036f53",
+      "last_seen": "2026-11-09",
+      "title": "ARM Institute consortium grows to more than 500 organizations"
     },
     "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/": {
       "content_hash": "4ce777ab47625283",
@@ -5346,5 +5381,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-07T20:09:14.612156+00:00"
+  "updated_at": "2026-11-08T20:09:18.442483+00:00"
 }
