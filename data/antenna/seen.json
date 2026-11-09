@@ -500,6 +500,11 @@
       "last_seen": "2026-11-07",
       "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone"
     },
+    "https://arxiv.org/abs/2611.09777": {
+      "content_hash": "1ec4a236eaf0e2ee",
+      "last_seen": "2026-11-10",
+      "title": "Autonomous Whole-body Loco-manipulation Using a Snake Robot"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1344,6 +1349,11 @@
       "content_hash": "2b7981f3254ce930",
       "last_seen": "2026-08-04",
       "title": "Xona secures spectrum approval for satellite navigation network"
+    },
+    "https://spectrum.ieee.org/agentic-robotics": {
+      "content_hash": "f241cbbb76a8fad6",
+      "last_seen": "2026-11-10",
+      "title": "Can Agentic Robotics Solve Robotics\u2019 Data Scaling Problem?"
     },
     "https://spectrum.ieee.org/agility-robotics-digit-5-redesign": {
       "content_hash": "06d7ecd162014711",
@@ -2430,6 +2440,11 @@
       "last_seen": "2026-09-11",
       "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation"
     },
+    "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/": {
+      "content_hash": "8a09fd4521d14d99",
+      "last_seen": "2026-11-10",
+      "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls"
+    },
     "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/": {
       "content_hash": "9810c200f6ebd8ec",
       "last_seen": "2026-08-12",
@@ -2954,6 +2969,11 @@
       "content_hash": "391db9f854d49a82",
       "last_seen": "2026-07-11",
       "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
+    },
+    "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/": {
+      "content_hash": "5bc63e9034d880a7",
+      "last_seen": "2026-11-10",
+      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer"
     },
     "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/": {
       "content_hash": "ad943b6e8dcdba80",
@@ -3584,6 +3604,11 @@
       "content_hash": "f9489039f7cb529b",
       "last_seen": "2026-11-08",
       "title": "Manila weighs second South China Sea legal case against Beijing: analyst"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3373818/why-manilas-call-softer-tone-will-not-ease-south-china-sea-tensions-beijing": {
+      "content_hash": "5d8d48be81d2b807",
+      "last_seen": "2026-11-10",
+      "title": "Why Manila\u2019s call for softer tone will not ease South China Sea tensions with Beijing"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4915,6 +4940,11 @@
       "last_seen": "2026-11-06",
       "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts"
     },
+    "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/": {
+      "content_hash": "b58406d260d06609",
+      "last_seen": "2026-11-10",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -4984,6 +5014,11 @@
       "content_hash": "1dd7c201bc83f330",
       "last_seen": "2026-06-23",
       "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities"
+    },
+    "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/": {
+      "content_hash": "3b2e7319c911ac21",
+      "last_seen": "2026-11-10",
+      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control"
     },
     "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/": {
       "content_hash": "5891f7a197b96220",
@@ -5104,6 +5139,11 @@
       "content_hash": "4c91aa8762a93d3f",
       "last_seen": "2026-06-23",
       "title": "How Intrinsic eliminates manual robot coding"
+    },
+    "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/": {
+      "content_hash": "970b366cef42bde6",
+      "last_seen": "2026-11-10",
+      "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots"
     },
     "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/": {
       "content_hash": "1808472514327720",
@@ -5381,5 +5421,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-08T20:09:18.442483+00:00"
+  "updated_at": "2026-11-09T20:10:12.090848+00:00"
 }
