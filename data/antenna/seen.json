@@ -120,6 +120,11 @@
       "last_seen": "2026-10-11",
       "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\""
     },
+    "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/": {
+      "content_hash": "05e12e68915d3fd6",
+      "last_seen": "2026-11-11",
+      "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand"
+    },
     "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/": {
       "content_hash": "9692f1c7ea8cf4c7",
       "last_seen": "2026-06-11",
@@ -1024,6 +1029,11 @@
       "content_hash": "1e1cf89c630f17b5",
       "last_seen": "2026-06-17",
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission"
+    },
+    "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/": {
+      "content_hash": "1d5adcd9fd92c79a",
+      "last_seen": "2026-11-11",
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions"
     },
     "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/": {
       "content_hash": "17cff0999f0b376d",
@@ -2345,6 +2355,11 @@
       "last_seen": "2026-07-02",
       "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers"
     },
+    "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/": {
+      "content_hash": "1270eb1eefbbae0c",
+      "last_seen": "2026-11-11",
+      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do"
+    },
     "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/": {
       "content_hash": "18e9926f55296a77",
       "last_seen": "2026-09-29",
@@ -2489,6 +2504,11 @@
       "content_hash": "165c47fa847e7957",
       "last_seen": "2026-07-21",
       "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow"
+    },
+    "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/": {
+      "content_hash": "16a0e7b001fad8cc",
+      "last_seen": "2026-11-11",
+      "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot"
     },
     "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/": {
       "content_hash": "66e412db77c738ec",
@@ -3609,6 +3629,16 @@
       "content_hash": "5d8d48be81d2b807",
       "last_seen": "2026-11-10",
       "title": "Why Manila\u2019s call for softer tone will not ease South China Sea tensions with Beijing"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3373945/china-hands-over-remains-us-airmen-killed-during-world-war-ii-supply-missions": {
+      "content_hash": "bd65f211e6d3740b",
+      "last_seen": "2026-11-11",
+      "title": "China hands over remains of US airmen killed during World War II supply missions"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3373986/will-nvidia-ceo-jensen-huangs-affair-become-another-spy-balloon-saga-us-china-ties": {
+      "content_hash": "c6f1fc4b441a2d17",
+      "last_seen": "2026-11-11",
+      "title": "Will Nvidia CEO Jensen Huang\u2019s affair become another \u2018spy balloon\u2019 saga for US-China ties?"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4945,6 +4975,11 @@
       "last_seen": "2026-11-10",
       "title": "The Download: empty AI climate claims, and an Nvidia investigation"
     },
+    "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/": {
+      "content_hash": "3840272eaba16153",
+      "last_seen": "2026-11-11",
+      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -5044,6 +5079,11 @@
       "content_hash": "c3875ecfda291e62",
       "last_seen": "2026-06-21",
       "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics"
+    },
+    "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots/": {
+      "content_hash": "dae48a438686bfd5",
+      "last_seen": "2026-11-11",
+      "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots"
     },
     "https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/": {
       "content_hash": "3158e1d4513c71e4",
@@ -5421,5 +5461,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-09T20:10:12.090848+00:00"
+  "updated_at": "2026-11-10T20:10:09.641885+00:00"
 }
