@@ -110,6 +110,11 @@
       "last_seen": "2026-10-22",
       "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity"
     },
+    "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/": {
+      "content_hash": "3bb733e753225e6a",
+      "last_seen": "2026-11-12",
+      "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI"
+    },
     "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/": {
       "content_hash": "30cea5b90929faa1",
       "last_seen": "2026-06-26",
@@ -509,6 +514,16 @@
       "content_hash": "1ec4a236eaf0e2ee",
       "last_seen": "2026-11-10",
       "title": "Autonomous Whole-body Loco-manipulation Using a Snake Robot"
+    },
+    "https://arxiv.org/abs/2611.13325": {
+      "content_hash": "4242fdf50a4ea51d",
+      "last_seen": "2026-11-12",
+      "title": "F3-AGI v4.0: Bioenergetically-Gated Active Inference, Metaplastic Preconditioning, and Residual Program Synthesis for Sample-Efficient Abstract Reasoning"
+    },
+    "https://arxiv.org/abs/2611.13329": {
+      "content_hash": "6e94f69ab3e221ce",
+      "last_seen": "2026-11-12",
+      "title": "Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -1694,6 +1709,11 @@
       "content_hash": "2c75e2c429faa291",
       "last_seen": "2026-09-08",
       "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk"
+    },
+    "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/": {
+      "content_hash": "72fc714411faa577",
+      "last_seen": "2026-11-12",
+      "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days"
     },
     "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/": {
       "content_hash": "56dc966295c72fa3",
@@ -3100,6 +3120,11 @@
       "last_seen": "2026-09-19",
       "title": "US and China experts push for shared rules banning AI control over nuclear weapons"
     },
+    "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/": {
+      "content_hash": "19dd87418daadc58",
+      "last_seen": "2026-11-12",
+      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs"
+    },
     "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/": {
       "content_hash": "1fc73c5a92a081f9",
       "last_seen": "2026-09-03",
@@ -3639,6 +3664,11 @@
       "content_hash": "c6f1fc4b441a2d17",
       "last_seen": "2026-11-11",
       "title": "Will Nvidia CEO Jensen Huang\u2019s affair become another \u2018spy balloon\u2019 saga for US-China ties?"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374120/rubio-wang-hold-phone-call-trump-xi-meeting-next-week": {
+      "content_hash": "18b1cda9afd407ba",
+      "last_seen": "2026-11-12",
+      "title": "Rubio, Wang hold phone call before Xi-Trump meeting next week"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4510,6 +4540,11 @@
       "last_seen": "2026-11-09",
       "title": "Will China\u2019s slow and steady moon landing plan be a safer bet than the US\u2019?"
     },
+    "https://www.scmp.com/news/china/science/article/3374058/us-citizen-chinese-blood-top-biologist-yuan-junying-caught-debate-over-returnees": {
+      "content_hash": "10ef5c8c64707fcb",
+      "last_seen": "2026-11-12",
+      "title": "US citizen, \u2018Chinese blood\u2019: top biologist Yuan Junying caught in debate over returnees"
+    },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
       "last_seen": "2026-07-28",
@@ -5340,6 +5375,11 @@
       "last_seen": "2026-06-18",
       "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier"
     },
+    "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/": {
+      "content_hash": "502eb32ba1072b32",
+      "last_seen": "2026-11-12",
+      "title": "Serve Robotics opens robot delivery network for others to build on"
+    },
     "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/": {
       "content_hash": "5704eb648979b4a7",
       "last_seen": "2026-09-19",
@@ -5461,5 +5501,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-10T20:10:09.641885+00:00"
+  "updated_at": "2026-11-11T20:10:16.003742+00:00"
 }
