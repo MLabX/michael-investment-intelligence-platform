@@ -110,6 +110,11 @@
       "last_seen": "2026-10-22",
       "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity"
     },
+    "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/": {
+      "content_hash": "e48d335a7605464e",
+      "last_seen": "2026-11-14",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace"
+    },
     "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/": {
       "content_hash": "3bb733e753225e6a",
       "last_seen": "2026-11-12",
@@ -725,6 +730,16 @@
       "last_seen": "2026-11-08",
       "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
     },
+    "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/": {
+      "content_hash": "d621229e60766d8b",
+      "last_seen": "2026-11-14",
+      "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch"
+    },
+    "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/": {
+      "content_hash": "cccbee70c71e9d02",
+      "last_seen": "2026-11-14",
+      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon"
+    },
     "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
       "content_hash": "1d666c87d7aa9561",
       "last_seen": "2026-10-31",
@@ -894,6 +909,11 @@
       "content_hash": "96c93fee0e048e1d",
       "last_seen": "2026-06-20",
       "title": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth"
+    },
+    "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/": {
+      "content_hash": "5b27e2b8b1049fa4",
+      "last_seen": "2026-11-14",
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member"
     },
     "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/": {
       "content_hash": "cb58fb6b0e2d5116",
@@ -1337,7 +1357,7 @@
     },
     "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/": {
       "content_hash": "f6a8d849cce0ba77",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "title": "UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology"
     },
     "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/": {
@@ -2080,6 +2100,11 @@
       "last_seen": "2026-06-23",
       "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months"
     },
+    "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/": {
+      "content_hash": "933c51096f999cb7",
+      "last_seen": "2026-11-14",
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models"
+    },
     "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/": {
       "content_hash": "b77650bd053ea02e",
       "last_seen": "2026-09-27",
@@ -2704,6 +2729,11 @@
       "content_hash": "595e9e63ce6428e6",
       "last_seen": "2026-08-28",
       "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent"
+    },
+    "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/": {
+      "content_hash": "a8083f2b0aebdb57",
+      "last_seen": "2026-11-14",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet"
     },
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/": {
       "content_hash": "ff345055fac14cb6",
@@ -3699,6 +3729,11 @@
       "content_hash": "18b1cda9afd407ba",
       "last_seen": "2026-11-12",
       "title": "Rubio, Wang hold phone call before Xi-Trump meeting next week"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit": {
+      "content_hash": "86c811516090abf3",
+      "last_seen": "2026-11-14",
+      "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -5541,5 +5576,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-12T20:10:31.064374+00:00"
+  "updated_at": "2026-11-13T20:10:14.260930+00:00"
 }
