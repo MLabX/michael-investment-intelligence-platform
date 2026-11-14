@@ -530,6 +530,16 @@
       "last_seen": "2026-11-12",
       "title": "Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation"
     },
+    "https://arxiv.org/abs/2611.15515": {
+      "content_hash": "ab719c71394c88d8",
+      "last_seen": "2026-11-15",
+      "title": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents"
+    },
+    "https://arxiv.org/abs/2611.16211": {
+      "content_hash": "4b85b3a5886122f3",
+      "last_seen": "2026-11-15",
+      "title": "One Fuzzer, Many Reasoners: Adaptive Neuro-Symbolic Fuzzing with Reliability-Calibrated and Context-Gated Guidance"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -644,6 +654,16 @@
       "content_hash": "12eb059c94555b92",
       "last_seen": "2026-11-02",
       "title": "As predicted, the ACA exchanges seem not to be stable"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people": {
+      "content_hash": "c2f388bd08d5af6d",
+      "last_seen": "2026-11-15",
+      "title": "People like their jobs, even British people"
+    },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586": {
+      "content_hash": "1108ac94071bad67",
+      "last_seen": "2026-11-15",
+      "title": "Saturday assorted links"
     },
     "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589": {
       "content_hash": "f9ba516df8186c80",
@@ -1659,6 +1679,11 @@
       "content_hash": "18a75950974d5ffd",
       "last_seen": "2026-10-04",
       "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings"
+    },
+    "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/": {
+      "content_hash": "e0df8eca0e30e5d9",
+      "last_seen": "2026-11-15",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon"
     },
     "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/": {
       "content_hash": "9a92b21781c3f739",
@@ -2730,6 +2755,11 @@
       "last_seen": "2026-08-28",
       "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent"
     },
+    "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/": {
+      "content_hash": "94b8834dfc30a84e",
+      "last_seen": "2026-11-15",
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary"
+    },
     "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/": {
       "content_hash": "a8083f2b0aebdb57",
       "last_seen": "2026-11-14",
@@ -3735,6 +3765,11 @@
       "last_seen": "2026-11-14",
       "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks": {
+      "content_hash": "ca2614c59b84ae2e",
+      "last_seen": "2026-11-15",
+      "title": "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4144,6 +4179,11 @@
       "content_hash": "f1d28b737a7f2154",
       "last_seen": "2026-11-13",
       "title": "On Sun Yat-sen anniversary, Xi calls for dialogue on Taiwan with \u2018people of vision\u2019"
+    },
+    "https://www.scmp.com/news/china/politics/article/3374445/apec-looms-chinas-shenzhen-wraps-preparations-its-toughest-stress-test-ever": {
+      "content_hash": "389ab0ae51d15293",
+      "last_seen": "2026-11-15",
+      "title": "As Apec looms, China\u2019s Shenzhen wraps up preparations for its toughest stress test ever"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -5576,5 +5616,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-13T20:10:14.260930+00:00"
+  "updated_at": "2026-11-14T20:09:10.970685+00:00"
 }
