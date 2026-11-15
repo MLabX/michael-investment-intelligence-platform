@@ -290,6 +290,11 @@
       "last_seen": "2026-11-07",
       "title": "You know the launch market is tough when satellite companies start building rockets"
     },
+    "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/": {
+      "content_hash": "30472155c341c33e",
+      "last_seen": "2026-11-16",
+      "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch"
+    },
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
       "content_hash": "c0a260c1516cf076",
       "last_seen": "2026-07-24",
@@ -670,6 +675,11 @@
       "last_seen": "2026-11-09",
       "title": "Sunday assorted links"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590": {
+      "content_hash": "6118334fa0e6a6ca",
+      "last_seen": "2026-11-16",
+      "title": "Sunday assorted links"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18": {
       "content_hash": "46993a0d37c3b6d1",
       "last_seen": "2026-11-02",
@@ -759,6 +769,11 @@
       "content_hash": "cccbee70c71e9d02",
       "last_seen": "2026-11-14",
       "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon"
+    },
+    "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/": {
+      "content_hash": "4cbe642ca7c93d35",
+      "last_seen": "2026-11-16",
+      "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     },
     "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
       "content_hash": "1d666c87d7aa9561",
@@ -1835,6 +1850,11 @@
       "last_seen": "2026-10-11",
       "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
     },
+    "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/": {
+      "content_hash": "3f259d93e5c6e892",
+      "last_seen": "2026-11-16",
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them"
+    },
     "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/": {
       "content_hash": "28e258e2026a912f",
       "last_seen": "2026-06-28",
@@ -2424,6 +2444,11 @@
       "content_hash": "ce276a9d3443b621",
       "last_seen": "2026-10-18",
       "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
+    },
+    "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/": {
+      "content_hash": "acf729d800f7e269",
+      "last_seen": "2026-11-16",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
     },
     "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/": {
       "content_hash": "ba7f7febf693e9b7",
@@ -3770,6 +3795,16 @@
       "last_seen": "2026-11-15",
       "title": "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit": {
+      "content_hash": "19cb9bb2c1d66c18",
+      "last_seen": "2026-11-16",
+      "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374495/south-china-sea-code-conduct-can-beijing-and-asean-meet-2026-deadline": {
+      "content_hash": "106327505423982b",
+      "last_seen": "2026-11-16",
+      "title": "South China Sea code of conduct: can Beijing and Asean meet 2026 deadline?"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4995,6 +5030,11 @@
       "last_seen": "2026-11-09",
       "title": "China Vows to Share Its Market With the World at 9th Annual CIIE"
     },
+    "https://www.sixthtone.com/news/1019239/postscript: china opens school dedicated to ancient chinese writing": {
+      "content_hash": "d8b02049984a6a72",
+      "last_seen": "2026-11-16",
+      "title": "Postscript: China Opens School Dedicated to Ancient Chinese Writing"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -5616,5 +5656,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-14T20:09:10.970685+00:00"
+  "updated_at": "2026-11-15T20:09:40.872910+00:00"
 }
