@@ -545,6 +545,16 @@
       "last_seen": "2026-11-15",
       "title": "One Fuzzer, Many Reasoners: Adaptive Neuro-Symbolic Fuzzing with Reliability-Calibrated and Context-Gated Guidance"
     },
+    "https://arxiv.org/abs/2611.17790": {
+      "content_hash": "5dcb163512fc3b59",
+      "last_seen": "2026-11-17",
+      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning"
+    },
+    "https://arxiv.org/abs/2611.18514": {
+      "content_hash": "c3bc918b2f9c77e7",
+      "last_seen": "2026-11-17",
+      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1319,6 +1329,11 @@
       "content_hash": "e6fa28b83ae23a7a",
       "last_seen": "2026-10-22",
       "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller"
+    },
+    "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/": {
+      "content_hash": "ccbfa05dcbc41b29",
+      "last_seen": "2026-11-17",
+      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor"
     },
     "https://spacenews.com/spacex-conducts-13th-starship-test-flight/": {
       "content_hash": "0489e39538ab685c",
@@ -2530,6 +2545,11 @@
       "last_seen": "2026-07-09",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
     },
+    "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/": {
+      "content_hash": "35dc0de615717aa3",
+      "last_seen": "2026-11-17",
+      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten"
+    },
     "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/": {
       "content_hash": "f4b9732c6007aac8",
       "last_seen": "2026-07-28",
@@ -2909,6 +2929,11 @@
       "content_hash": "21f4e7241e041c8b",
       "last_seen": "2026-11-06",
       "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles"
+    },
+    "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/": {
+      "content_hash": "9081198313935d09",
+      "last_seen": "2026-11-17",
+      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice"
     },
     "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/": {
       "content_hash": "aece2ae2297adda0",
@@ -3804,6 +3829,11 @@
       "content_hash": "106327505423982b",
       "last_seen": "2026-11-16",
       "title": "South China Sea code of conduct: can Beijing and Asean meet 2026 deadline?"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374582/why-xi-and-takaichi-will-not-repeat-2014-apec-summits-china-japan-diplomatic-thaw": {
+      "content_hash": "6b9f38bab461f8b3",
+      "last_seen": "2026-11-17",
+      "title": "Why Xi and Takaichi will not repeat the 2014 Apec summit\u2019s China-Japan diplomatic thaw"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4760,6 +4790,11 @@
       "last_seen": "2026-10-30",
       "title": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting"
     },
+    "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin": {
+      "content_hash": "6d7a86a9cc2a3461",
+      "last_seen": "2026-11-17",
+      "title": "Trump floats Kim meeting in China, says he\u2019ll discuss Ukraine with Xi and Putin"
+    },
     "https://www.scmp.com/news/us/diplomacy/article/3358399/us-superhero-china-supervillain-global-ai-contest-american-officials-warn?utm_source=rss_feed": {
       "content_hash": "f56378d6a3fd6958",
       "last_seen": "2026-06-26",
@@ -5189,6 +5224,11 @@
       "content_hash": "a1e534ca1a06fcea",
       "last_seen": "2026-06-29",
       "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment"
+    },
+    "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/": {
+      "content_hash": "c5fff64b6a46bcdc",
+      "last_seen": "2026-11-17",
+      "title": "Agile Robots raises $500M to increase production capacity"
     },
     "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
       "content_hash": "ad819d6f45a0710a",
@@ -5656,5 +5696,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-15T20:09:40.872910+00:00"
+  "updated_at": "2026-11-16T20:10:31.436147+00:00"
 }
