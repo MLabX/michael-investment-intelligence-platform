@@ -115,6 +115,11 @@
       "last_seen": "2026-11-14",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace"
     },
+    "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/": {
+      "content_hash": "519643f6bc6f0229",
+      "last_seen": "2026-11-18",
+      "title": "Google makes it easier to use Gemini without training AI on your data"
+    },
     "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/": {
       "content_hash": "3bb733e753225e6a",
       "last_seen": "2026-11-12",
@@ -1035,6 +1040,11 @@
       "last_seen": "2026-06-26",
       "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force"
     },
+    "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/": {
+      "content_hash": "7463f46c7bc6a768",
+      "last_seen": "2026-11-18",
+      "title": "How AI is pushing satellites to evolve"
+    },
     "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/": {
       "content_hash": "afdf0d9e2be33c03",
       "last_seen": "2026-10-15",
@@ -1332,7 +1342,7 @@
     },
     "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/": {
       "content_hash": "ccbfa05dcbc41b29",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor"
     },
     "https://spacenews.com/spacex-conducts-13th-starship-test-flight/": {
@@ -1949,6 +1959,11 @@
       "content_hash": "1e455a1a694df26f",
       "last_seen": "2026-09-20",
       "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models"
+    },
+    "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/": {
+      "content_hash": "fa9d572983e2e990",
+      "last_seen": "2026-11-18",
+      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face"
     },
     "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/": {
       "content_hash": "de4ff5c946582ee9",
@@ -2932,7 +2947,7 @@
     },
     "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/": {
       "content_hash": "9081198313935d09",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice"
     },
     "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/": {
@@ -3834,6 +3849,16 @@
       "content_hash": "6b9f38bab461f8b3",
       "last_seen": "2026-11-17",
       "title": "Why Xi and Takaichi will not repeat the 2014 Apec summit\u2019s China-Japan diplomatic thaw"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374763/china-and-vietnam-should-weather-storm-together-xi-tells-lam-shenzhen": {
+      "content_hash": "b4a7fc7bd8099dbf",
+      "last_seen": "2026-11-18",
+      "title": "China and Vietnam should \u2018weather the storm together\u2019, Xi tells Lam in Shenzhen"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374795/trump-eyes-china-after-brief-manila-stop-seeking-chemistry-xi-amid-fresh-ai-strains": {
+      "content_hash": "def4011224c40e7c",
+      "last_seen": "2026-11-18",
+      "title": "Trump eyes China after brief Manila stop, seeking chemistry with Xi amid fresh AI strains"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -5285,6 +5310,11 @@
       "last_seen": "2026-11-10",
       "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control"
     },
+    "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/": {
+      "content_hash": "9b142e98b12e1814",
+      "last_seen": "2026-11-18",
+      "title": "Boston Dynamics\u2019 Atlas humanoid lands first non-automotive trial"
+    },
     "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/": {
       "content_hash": "5891f7a197b96220",
       "last_seen": "2026-07-07",
@@ -5696,5 +5726,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-16T20:10:31.436147+00:00"
+  "updated_at": "2026-11-17T20:10:45.005373+00:00"
 }
