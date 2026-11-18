@@ -560,6 +560,16 @@
       "last_seen": "2026-11-17",
       "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination"
     },
+    "https://arxiv.org/abs/2611.21885": {
+      "content_hash": "dcab098ab35e5001",
+      "last_seen": "2026-11-19",
+      "title": "Language Models Can Rewrite Their Own Weights"
+    },
+    "https://arxiv.org/abs/2611.22115": {
+      "content_hash": "77ea5ff13f2701ce",
+      "last_seen": "2026-11-19",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1775,6 +1785,11 @@
       "last_seen": "2026-07-05",
       "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable"
     },
+    "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/": {
+      "content_hash": "59dac72fbb7e5fe3",
+      "last_seen": "2026-11-19",
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets"
+    },
     "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/": {
       "content_hash": "ee5409a3a4ce3ff6",
       "last_seen": "2026-10-20",
@@ -2860,6 +2875,11 @@
       "last_seen": "2026-10-02",
       "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
     },
+    "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/": {
+      "content_hash": "2add983e48fec85e",
+      "last_seen": "2026-11-19",
+      "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
+    },
     "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/": {
       "content_hash": "2ccc860637ed1423",
       "last_seen": "2026-08-19",
@@ -3859,6 +3879,11 @@
       "content_hash": "def4011224c40e7c",
       "last_seen": "2026-11-18",
       "title": "Trump eyes China after brief Manila stop, seeking chemistry with Xi amid fresh AI strains"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit": {
+      "content_hash": "f94fef46f00e0b67",
+      "last_seen": "2026-11-19",
+      "title": "A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4975,6 +5000,11 @@
       "last_seen": "2026-10-29",
       "title": "China seeks India\u2019s help in defusing border tensions"
     },
+    "https://www.scmp.com/plus/news/china/diplomacy/article/3374891/xi-touts-china-ai-amid-shenzhens-tech-showcase": {
+      "content_hash": "6f8c8b0502448eaa",
+      "last_seen": "2026-11-19",
+      "title": "Xi touts China AI amid Shenzhen\u2019s tech showcase"
+    },
     "https://www.scmp.com/plus/news/china/science/article/3356331/chinas-new-battery-tech-set-turbocharge-evs-energy-storage?utm_source=rss_feed": {
       "content_hash": "05e65d5476778a2b",
       "last_seen": "2026-06-09",
@@ -5229,6 +5259,11 @@
       "content_hash": "3840272eaba16153",
       "last_seen": "2026-11-11",
       "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes"
+    },
+    "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/": {
+      "content_hash": "1cbb2ccc3e7ed556",
+      "last_seen": "2026-11-19",
+      "title": "The AI Hype Index: AI is everywhere"
     },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
@@ -5595,6 +5630,11 @@
       "last_seen": "2026-11-08",
       "title": "Robot integration brings high-precision production to midmarket manufacturers"
     },
+    "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/": {
+      "content_hash": "f2062870de099c4a",
+      "last_seen": "2026-11-19",
+      "title": "Rockwell Automation acquiring mobile robot maker AGILOX"
+    },
     "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/": {
       "content_hash": "b609c182915a82f5",
       "last_seen": "2026-06-18",
@@ -5726,5 +5766,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-17T20:10:45.005373+00:00"
+  "updated_at": "2026-11-18T20:10:35.958885+00:00"
 }
