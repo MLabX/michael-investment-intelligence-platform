@@ -561,13 +561,13 @@
       "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination"
     },
     "https://arxiv.org/abs/2611.21885": {
-      "content_hash": "dcab098ab35e5001",
-      "last_seen": "2026-11-19",
+      "content_hash": "41cfce4cd44a0b09",
+      "last_seen": "2026-11-20",
       "title": "Language Models Can Rewrite Their Own Weights"
     },
     "https://arxiv.org/abs/2611.22115": {
       "content_hash": "77ea5ff13f2701ce",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
@@ -1405,6 +1405,11 @@
       "last_seen": "2026-08-20",
       "title": "The space industry\u2019s next challenge: supply chain resilience"
     },
+    "https://spacenews.com/the-sweet-spot-for-constellation-size/": {
+      "content_hash": "fa2884f8ccbd6d55",
+      "last_seen": "2026-11-20",
+      "title": "The sweet spot for constellation size"
+    },
     "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/": {
       "content_hash": "974045aa28398465",
       "last_seen": "2026-06-17",
@@ -1609,6 +1614,11 @@
       "content_hash": "83747de6e2d5b2eb",
       "last_seen": "2026-10-15",
       "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap"
+    },
+    "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/": {
+      "content_hash": "d02ae9be59f01dd1",
+      "last_seen": "2026-11-20",
+      "title": "AI industry growth remains strong, but the pace is slowing"
     },
     "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/": {
       "content_hash": "487f4eca83a7dad0",
@@ -2985,6 +2995,11 @@
       "last_seen": "2026-10-25",
       "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache"
     },
+    "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/": {
+      "content_hash": "26c54341e9533365",
+      "last_seen": "2026-11-20",
+      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues"
+    },
     "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/": {
       "content_hash": "698fe0b935d540ba",
       "last_seen": "2026-10-10",
@@ -3884,6 +3899,16 @@
       "content_hash": "f94fef46f00e0b67",
       "last_seen": "2026-11-19",
       "title": "A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375050/was-chinas-choice-welcome-song-philippine-leader-sending-subtle-message": {
+      "content_hash": "026f3f766c9dd1f9",
+      "last_seen": "2026-11-20",
+      "title": "Was China\u2019s choice of welcome song for Philippine leader sending a subtle message?"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained": {
+      "content_hash": "7f5819a65a1d7f40",
+      "last_seen": "2026-11-20",
+      "title": "Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -5735,6 +5760,11 @@
       "last_seen": "2026-10-25",
       "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers"
     },
+    "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/": {
+      "content_hash": "c74164c8b0e67196",
+      "last_seen": "2026-11-20",
+      "title": "What industrial drone deployments reveal about real-world autonomy challenges"
+    },
     "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/": {
       "content_hash": "1cf1fb1c1f53bccb",
       "last_seen": "2026-10-11",
@@ -5766,5 +5796,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-18T20:10:35.958885+00:00"
+  "updated_at": "2026-11-19T20:10:31.074120+00:00"
 }
