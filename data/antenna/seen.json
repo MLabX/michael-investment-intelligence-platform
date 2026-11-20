@@ -570,6 +570,16 @@
       "last_seen": "2026-11-20",
       "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks"
     },
+    "https://arxiv.org/abs/2611.23322": {
+      "content_hash": "a13ef0621e0e7a9c",
+      "last_seen": "2026-11-21",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry"
+    },
+    "https://arxiv.org/abs/2611.23398": {
+      "content_hash": "a86592bf1e958432",
+      "last_seen": "2026-11-21",
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1505,6 +1515,11 @@
       "last_seen": "2026-11-08",
       "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
     },
+    "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor": {
+      "content_hash": "1b0a3d77ee9ebaf4",
+      "last_seen": "2026-11-21",
+      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces"
+    },
     "https://spectrum.ieee.org/video-friday-reachy-mini-raps": {
       "content_hash": "b6d5c5184267079a",
       "last_seen": "2026-10-11",
@@ -1924,6 +1939,11 @@
       "content_hash": "236cd2d5805bf295",
       "last_seen": "2026-10-05",
       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
+    },
+    "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/": {
+      "content_hash": "50b613b58bbdb1ad",
+      "last_seen": "2026-11-21",
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
     },
     "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/": {
       "content_hash": "d960ac2696003ed7",
@@ -2624,6 +2644,11 @@
       "content_hash": "fc84ccd2732ca2c0",
       "last_seen": "2026-09-11",
       "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation"
+    },
+    "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/": {
+      "content_hash": "e435df9a4f37fd9e",
+      "last_seen": "2026-11-21",
+      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup"
     },
     "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/": {
       "content_hash": "8a09fd4521d14d99",
@@ -3910,6 +3935,11 @@
       "last_seen": "2026-11-20",
       "title": "Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3375277/how-beijings-south-china-sea-stance-benefits-rare-joint-warning-icc": {
+      "content_hash": "1088fb016172ea50",
+      "last_seen": "2026-11-21",
+      "title": "How Beijing\u2019s South China Sea stance benefits from a rare joint warning to the ICC"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4970,6 +5000,11 @@
       "last_seen": "2026-11-13",
       "title": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3375119/china-didnt-just-host-apec-summit-it-ran-year-long-campaign": {
+      "content_hash": "0ecbbe4e2e7f2ffa",
+      "last_seen": "2026-11-21",
+      "title": "China didn\u2019t just host an Apec summit. It ran a year-long campaign"
+    },
     "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed": {
       "content_hash": "a69a6a7e7364dcc4",
       "last_seen": "2026-10-07",
@@ -5570,6 +5605,11 @@
       "last_seen": "2026-09-05",
       "title": "Lyte raises $165M to help robots better sense their surroundings"
     },
+    "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/": {
+      "content_hash": "cacb31f1761ffe5d",
+      "last_seen": "2026-11-21",
+      "title": "MassRobotics launching marine robotics facility on Boston Harbor"
+    },
     "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/": {
       "content_hash": "463c1fdc4442c8e6",
       "last_seen": "2026-10-17",
@@ -5796,5 +5836,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-19T20:10:31.074120+00:00"
+  "updated_at": "2026-11-20T20:09:59.459547+00:00"
 }
