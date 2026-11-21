@@ -295,6 +295,11 @@
       "last_seen": "2026-11-07",
       "title": "You know the launch market is tough when satellite companies start building rockets"
     },
+    "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/": {
+      "content_hash": "259583f20c45eda0",
+      "last_seen": "2026-11-22",
+      "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space"
+    },
     "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/": {
       "content_hash": "30472155c341c33e",
       "last_seen": "2026-11-16",
@@ -809,6 +814,11 @@
       "content_hash": "4cbe642ca7c93d35",
       "last_seen": "2026-11-16",
       "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/": {
+      "content_hash": "e87f92da3db520e3",
+      "last_seen": "2026-11-22",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
     },
     "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
       "content_hash": "1d666c87d7aa9561",
@@ -1517,7 +1527,7 @@
     },
     "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor": {
       "content_hash": "1b0a3d77ee9ebaf4",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces"
     },
     "https://spectrum.ieee.org/video-friday-reachy-mini-raps": {
@@ -1999,6 +2009,11 @@
       "content_hash": "3fab22de402cd098",
       "last_seen": "2026-08-27",
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit"
+    },
+    "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/": {
+      "content_hash": "dce3c7b55fdc5623",
+      "last_seen": "2026-11-22",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model"
     },
     "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/": {
       "content_hash": "1e455a1a694df26f",
@@ -2835,6 +2850,11 @@
       "last_seen": "2026-08-12",
       "title": "OpenAI lets employees cash out another $7 billion in stock"
     },
+    "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/": {
+      "content_hash": "031e6db2f511b22c",
+      "last_seen": "2026-11-22",
+      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think"
+    },
     "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/": {
       "content_hash": "060b1eb76174927b",
       "last_seen": "2026-10-26",
@@ -3390,6 +3410,11 @@
       "last_seen": "2026-11-13",
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
     },
+    "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm": {
+      "content_hash": "ad87d9f454e2a425",
+      "last_seen": "2026-11-22",
+      "title": "Federal Reserve announces College Fed Challenge winners"
+    },
     "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links?utm_source=rss_feed": {
       "content_hash": "369af876d2f02177",
       "last_seen": "2026-06-22",
@@ -3939,6 +3964,11 @@
       "content_hash": "1088fb016172ea50",
       "last_seen": "2026-11-21",
       "title": "How Beijing\u2019s South China Sea stance benefits from a rare joint warning to the ICC"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push": {
+      "content_hash": "0e83a016f12e543e",
+      "last_seen": "2026-11-22",
+      "title": "How China showcased the \u2018Shenzhen miracle\u2019 in Apec cooperation push"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -4824,6 +4854,11 @@
       "content_hash": "10ef5c8c64707fcb",
       "last_seen": "2026-11-12",
       "title": "US citizen, \u2018Chinese blood\u2019: top biologist Yuan Junying caught in debate over returnees"
+    },
+    "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years": {
+      "content_hash": "c1eaa5011a49c0a6",
+      "last_seen": "2026-11-22",
+      "title": "China unveils space mining road map with a big move on the moon within 4 years"
     },
     "https://www.scmp.com/news/hong-kong/article/3361910/black-lake-ceos-strategy-sell-ai-solutions-factories-turn-food-couriers?utm_source=rss_feed": {
       "content_hash": "78d3236efe5b8a6c",
@@ -5836,5 +5871,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-20T20:09:59.459547+00:00"
+  "updated_at": "2026-11-21T20:09:22.503056+00:00"
 }
