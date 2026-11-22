@@ -720,6 +720,11 @@
       "last_seen": "2026-11-16",
       "title": "Sunday assorted links"
     },
+    "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591": {
+      "content_hash": "e8d3ed4ecc64143f",
+      "last_seen": "2026-11-23",
+      "title": "Sunday assorted links"
+    },
     "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18": {
       "content_hash": "46993a0d37c3b6d1",
       "last_seen": "2026-11-02",
@@ -816,9 +821,9 @@
       "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     },
     "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/": {
-      "content_hash": "e87f92da3db520e3",
-      "last_seen": "2026-11-22",
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
+      "content_hash": "5e4ca91c0437e090",
+      "last_seen": "2026-11-23",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     },
     "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
       "content_hash": "1d666c87d7aa9561",
@@ -1614,6 +1619,11 @@
       "content_hash": "e3ea698c86618e6d",
       "last_seen": "2026-11-09",
       "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
+    },
+    "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/": {
+      "content_hash": "7f563d68b4792234",
+      "last_seen": "2026-11-23",
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace"
     },
     "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/": {
       "content_hash": "ef3a34901b5b01d5",
@@ -2424,6 +2434,11 @@
       "content_hash": "93b696a5e84f4acb",
       "last_seen": "2026-07-16",
       "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it"
+    },
+    "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/": {
+      "content_hash": "4b5f3350097f3196",
+      "last_seen": "2026-11-23",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude"
     },
     "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/": {
       "content_hash": "ba4fa68756b58832",
@@ -3970,6 +3985,16 @@
       "last_seen": "2026-11-22",
       "title": "How China showcased the \u2018Shenzhen miracle\u2019 in Apec cooperation push"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3375340/despite-serbias-political-earthquake-china-hopes-ties-will-stay-rock-solid": {
+      "content_hash": "7ed3ebdfa3723da7",
+      "last_seen": "2026-11-23",
+      "title": "Despite Serbia\u2019s political earthquake, China hopes ties will stay rock solid"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers": {
+      "content_hash": "6a40cf34ae118413",
+      "last_seen": "2026-11-23",
+      "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -5220,6 +5245,11 @@
       "last_seen": "2026-11-16",
       "title": "Postscript: China Opens School Dedicated to Ancient Chinese Writing"
     },
+    "https://www.sixthtone.com/news/1019257/lu xun\u2019s overlooked translations that shaped modern chinese literature": {
+      "content_hash": "dbb779bc879e6601",
+      "last_seen": "2026-11-23",
+      "title": "Lu Xun\u2019s Overlooked Translations That Shaped Modern Chinese Literature"
+    },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
       "content_hash": "d47907333eec59fe",
       "last_seen": "2026-06-20",
@@ -5790,6 +5820,11 @@
       "last_seen": "2026-07-08",
       "title": "Tesollo initiates IPO process while developing humanoid hands"
     },
+    "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/": {
+      "content_hash": "9ed9aa21f5b5c96b",
+      "last_seen": "2026-11-23",
+      "title": "The manufacturing data gap holding back physical AI"
+    },
     "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/": {
       "content_hash": "1a41c90b0edc31f3",
       "last_seen": "2026-10-15",
@@ -5871,5 +5906,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-21T20:09:22.503056+00:00"
+  "updated_at": "2026-11-22T20:09:54.443789+00:00"
 }
