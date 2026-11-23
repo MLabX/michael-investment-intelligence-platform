@@ -295,6 +295,11 @@
       "last_seen": "2026-11-07",
       "title": "You know the launch market is tough when satellite companies start building rockets"
     },
+    "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/": {
+      "content_hash": "5f8cdd9ad6885f96",
+      "last_seen": "2026-11-24",
+      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
+    },
     "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/": {
       "content_hash": "259583f20c45eda0",
       "last_seen": "2026-11-22",
@@ -584,6 +589,16 @@
       "content_hash": "a86592bf1e958432",
       "last_seen": "2026-11-21",
       "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs"
+    },
+    "https://arxiv.org/abs/2611.26663": {
+      "content_hash": "1e10c507560dac50",
+      "last_seen": "2026-11-24",
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams"
+    },
+    "https://arxiv.org/abs/2611.27550": {
+      "content_hash": "9f3049aebeea9f89",
+      "last_seen": "2026-11-24",
+      "title": "Altair-Nidhogg: Which Model-Merging Theories Hold for a One-Pass Decision Encoder? Soups, Task Arithmetic, TIES and DARE Against Joint Training and Prediction Ensembling"
     },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
@@ -2980,6 +2995,11 @@
       "last_seen": "2026-06-12",
       "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing"
     },
+    "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/": {
+      "content_hash": "0f7032899f79fcb6",
+      "last_seen": "2026-11-24",
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits"
+    },
     "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/": {
       "content_hash": "76876cf3f8cd7a87",
       "last_seen": "2026-10-15",
@@ -3410,6 +3430,11 @@
       "last_seen": "2026-06-19",
       "title": "Yann LeCun warns AI labs like OpenAI and Anthropic face a \"big bubble explosion\""
     },
+    "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/": {
+      "content_hash": "55f47637d7c6df97",
+      "last_seen": "2026-11-24",
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model"
+    },
     "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/": {
       "content_hash": "13aedd7420011052",
       "last_seen": "2026-06-18",
@@ -3494,6 +3519,11 @@
       "content_hash": "f24887f1e3a2eb3e",
       "last_seen": "2026-10-20",
       "title": "China\u2019s flag carrier scrambles to fly stranded passengers out of fuel-starved Cuba"
+    },
+    "https://www.scmp.com/news/china/article/3375520/mexico-and-china-agree-create-working-group-boost-trade": {
+      "content_hash": "e75a6f9c4685b251",
+      "last_seen": "2026-11-24",
+      "title": "Mexico and China agree to create working group to boost trade"
     },
     "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks?utm_source=rss_feed": {
       "content_hash": "3aae9f42bef140b7",
@@ -5390,6 +5420,16 @@
       "last_seen": "2026-11-19",
       "title": "The AI Hype Index: AI is everywhere"
     },
+    "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/": {
+      "content_hash": "07c14726ceda084d",
+      "last_seen": "2026-11-24",
+      "title": "The Download: AI\u2019s judgment problem and carbon removal\u2019s crop threat"
+    },
+    "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/": {
+      "content_hash": "37b0fcf92984a096",
+      "last_seen": "2026-11-24",
+      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -5906,5 +5946,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-22T20:09:54.443789+00:00"
+  "updated_at": "2026-11-23T20:09:45.174390+00:00"
 }
