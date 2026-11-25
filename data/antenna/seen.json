@@ -305,6 +305,11 @@
       "last_seen": "2026-11-22",
       "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space"
     },
+    "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/": {
+      "content_hash": "3575a280d4fb4aaa",
+      "last_seen": "2026-11-26",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites"
+    },
     "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/": {
       "content_hash": "30472155c341c33e",
       "last_seen": "2026-11-16",
@@ -1372,7 +1377,7 @@
     },
     "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/": {
       "content_hash": "6b48676e88d06bcb",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution"
     },
     "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/": {
@@ -1644,6 +1649,11 @@
       "content_hash": "7c4cc86ebe9c6ee5",
       "last_seen": "2026-10-29",
       "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense"
+    },
+    "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/": {
+      "content_hash": "084ac6d243f0eba5",
+      "last_seen": "2026-11-26",
+      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant"
     },
     "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/": {
       "content_hash": "9e9d4002de4de3ec",
@@ -2674,6 +2684,11 @@
       "content_hash": "b01f94b7f00a5114",
       "last_seen": "2026-07-09",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
+    },
+    "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/": {
+      "content_hash": "461a932b0c2690d0",
+      "last_seen": "2026-11-26",
+      "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable"
     },
     "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/": {
       "content_hash": "35dc0de615717aa3",
@@ -4054,6 +4069,16 @@
       "content_hash": "6a40cf34ae118413",
       "last_seen": "2026-11-23",
       "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375796/china-calls-netherlands-help-safeguard-industrial-and-supply-chains": {
+      "content_hash": "1d2637c25ae238c7",
+      "last_seen": "2026-11-26",
+      "title": "China calls on Netherlands to help safeguard industrial and supply chains"
+    },
+    "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit": {
+      "content_hash": "757467bcc66c830e",
+      "last_seen": "2026-11-26",
+      "title": "US proposes new tariffs on China a week after Trump-Xi summit"
     },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
@@ -5470,6 +5495,11 @@
       "last_seen": "2026-11-25",
       "title": "Data centers are getting their own natural gas power plants"
     },
+    "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/": {
+      "content_hash": "f4bc3214bcc3418d",
+      "last_seen": "2026-11-26",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost"
+    },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
       "last_seen": "2026-10-30",
@@ -5594,6 +5624,11 @@
       "content_hash": "d2234d2c2bc7af0b",
       "last_seen": "2026-10-25",
       "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots"
+    },
+    "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/": {
+      "content_hash": "3d026804a83731b5",
+      "last_seen": "2026-11-26",
+      "title": "FCC should focus on robot security, not country of origin"
     },
     "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/": {
       "content_hash": "3879bf13c7a4a73a",
@@ -5986,5 +6021,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-24T20:09:37.242904+00:00"
+  "updated_at": "2026-11-25T20:09:42.287278+00:00"
 }
