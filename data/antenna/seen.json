@@ -605,6 +605,16 @@
       "last_seen": "2026-11-24",
       "title": "Altair-Nidhogg: Which Model-Merging Theories Hold for a One-Pass Decision Encoder? Soups, Task Arithmetic, TIES and DARE Against Joint Training and Prediction Ensembling"
     },
+    "https://arxiv.org/abs/2611.31427": {
+      "content_hash": "0b1b4e1e38c010ed",
+      "last_seen": "2026-11-27",
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training"
+    },
+    "https://arxiv.org/abs/2611.31851": {
+      "content_hash": "f50872b98c3964ab",
+      "last_seen": "2026-11-27",
+      "title": "Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1460,6 +1470,11 @@
       "last_seen": "2026-07-11",
       "title": "Startup testing nuclear battery technology in orbit"
     },
+    "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/": {
+      "content_hash": "cffc5a4f52054486",
+      "last_seen": "2026-11-27",
+      "title": "The \u2018bare-knuckled\u2019 future of life in space with Tim Marshall"
+    },
     "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/": {
       "content_hash": "22ec9402e6888dc2",
       "last_seen": "2026-07-10",
@@ -1629,6 +1644,11 @@
       "content_hash": "42eadbd1aaaa0432",
       "last_seen": "2026-11-06",
       "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion"
+    },
+    "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/": {
+      "content_hash": "b940acef3ec837af",
+      "last_seen": "2026-11-27",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead"
     },
     "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/": {
       "content_hash": "b5d0b3742c17027a",
@@ -2299,6 +2319,11 @@
       "content_hash": "933c51096f999cb7",
       "last_seen": "2026-11-14",
       "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models"
+    },
+    "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/": {
+      "content_hash": "3523974c0d18147e",
+      "last_seen": "2026-11-27",
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it"
     },
     "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/": {
       "content_hash": "b77650bd053ea02e",
@@ -4080,6 +4105,11 @@
       "last_seen": "2026-11-26",
       "title": "US proposes new tariffs on China a week after Trump-Xi summit"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3375923/will-solomon-islands-australia-treaty-prompt-china-rethink-its-pacific-strategy": {
+      "content_hash": "a059798fd6276930",
+      "last_seen": "2026-11-27",
+      "title": "Will Solomon Islands\u2019 Australia treaty prompt China to rethink its Pacific strategy?"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -5150,6 +5180,11 @@
       "last_seen": "2026-11-21",
       "title": "China didn\u2019t just host an Apec summit. It ran a year-long campaign"
     },
+    "https://www.scmp.com/opinion/china-opinion/article/3375625/shenzhens-apec-legacy-chinas-shift-recognition-responsibility": {
+      "content_hash": "4777d61389d3d74b",
+      "last_seen": "2026-11-27",
+      "title": "Shenzhen\u2019s Apec legacy: China\u2019s shift from recognition to responsibility"
+    },
     "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed": {
       "content_hash": "a69a6a7e7364dcc4",
       "last_seen": "2026-10-07",
@@ -5499,6 +5534,11 @@
       "content_hash": "f4bc3214bcc3418d",
       "last_seen": "2026-11-26",
       "title": "The Download: AI swamping open records, and firefighting for permafrost"
+    },
+    "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/": {
+      "content_hash": "68abee49a6497bcf",
+      "last_seen": "2026-11-27",
+      "title": "The Download: Better bionic hands and AI\u2019s natural-gas boom"
     },
     "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
       "content_hash": "af9c2d7e5c9c7d6b",
@@ -6021,5 +6061,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-25T20:09:42.287278+00:00"
+  "updated_at": "2026-11-26T20:10:06.097915+00:00"
 }
