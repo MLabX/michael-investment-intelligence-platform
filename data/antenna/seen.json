@@ -615,6 +615,16 @@
       "last_seen": "2026-11-27",
       "title": "Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation"
     },
+    "https://arxiv.org/abs/2611.34635": {
+      "content_hash": "b6cbfce6b5e11759",
+      "last_seen": "2026-11-28",
+      "title": "ZeroHero: Training Small Language Agents from Scratch"
+    },
+    "https://arxiv.org/abs/2611.34698": {
+      "content_hash": "1067d19b9f6639a7",
+      "last_seen": "2026-11-28",
+      "title": "A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models"
+    },
     "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
       "content_hash": "64d4dbc6dfd5ba4c",
       "last_seen": "2026-10-08",
@@ -1109,6 +1119,11 @@
       "content_hash": "fdb7a2bb0cadcf44",
       "last_seen": "2026-06-16",
       "title": "Gilat to buy Comtech satcoms business six years after failed merger"
+    },
+    "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/": {
+      "content_hash": "32f1ad9ecfd899be",
+      "last_seen": "2026-11-28",
+      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates"
     },
     "https://spacenews.com/h3-successfully-returns-to-flight/": {
       "content_hash": "40e5891609d9b057",
@@ -2075,6 +2090,11 @@
       "last_seen": "2026-09-01",
       "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
     },
+    "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/": {
+      "content_hash": "66aefd2dbff6fce7",
+      "last_seen": "2026-11-28",
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+    },
     "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/": {
       "content_hash": "a13724f8ad509f80",
       "last_seen": "2026-06-10",
@@ -2925,6 +2945,11 @@
       "last_seen": "2026-11-04",
       "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom"
     },
+    "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/": {
+      "content_hash": "88bf3c3a2dbd57ed",
+      "last_seen": "2026-11-28",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+    },
     "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/": {
       "content_hash": "45b37c9560452fde",
       "last_seen": "2026-07-16",
@@ -3509,6 +3534,11 @@
       "content_hash": "13aedd7420011052",
       "last_seen": "2026-06-18",
       "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
+    },
+    "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html": {
+      "content_hash": "7b3eca3aa6bd1b77",
+      "last_seen": "2026-11-28",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)"
     },
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm": {
       "content_hash": "3d82bc90a59502d3",
@@ -4110,6 +4140,11 @@
       "last_seen": "2026-11-27",
       "title": "Will Solomon Islands\u2019 Australia treaty prompt China to rethink its Pacific strategy?"
     },
+    "https://www.scmp.com/news/china/diplomacy/article/3376066/china-and-india-hold-fresh-border-talks-both-boost-military-readiness-winter": {
+      "content_hash": "aa76a73b504cfcce",
+      "last_seen": "2026-11-28",
+      "title": "China and India hold fresh border talks as both boost military readiness before winter"
+    },
     "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed": {
       "content_hash": "9c8c00425572b6d2",
       "last_seen": "2026-06-08",
@@ -4524,6 +4559,11 @@
       "content_hash": "389ab0ae51d15293",
       "last_seen": "2026-11-15",
       "title": "As Apec looms, China\u2019s Shenzhen wraps up preparations for its toughest stress test ever"
+    },
+    "https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining": {
+      "content_hash": "d34f0f32d44b0756",
+      "last_seen": "2026-11-28",
+      "title": "No warning, no mercy: why China moved fast to topple Chen Jining"
     },
     "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed": {
       "content_hash": "5e112270454ea097",
@@ -6061,5 +6101,5 @@
       "title": "Zoox unveils production-ready robotaxi for U.S. expansion"
     }
   },
-  "updated_at": "2026-11-26T20:10:06.097915+00:00"
+  "updated_at": "2026-11-27T20:10:09.305041+00:00"
 }
